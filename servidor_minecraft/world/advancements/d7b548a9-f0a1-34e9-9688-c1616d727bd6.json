@@ -23404,6 +23404,12 @@
     },
     "done": true
   },
+  "frostiful:adventure/find_frostologer_castle": {
+    "criteria": {
+      "castle": "2025-02-28 05:57:05 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/mob_ward": {
     "criteria": {
       "has_ancient_anima": "2025-02-28 05:38:29 +0000"
@@ -23494,6 +23500,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2025-02-28 05:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-28 05:20:08 +0000"
@@ -23530,6 +23542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-28 05:58:03 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/glass_vial": {
     "criteria": {
       "has_item": "2025-02-28 05:20:08 +0000"
@@ -23545,6 +23563,12 @@
   "frostiful:recipes/decorations/ice_pane": {
     "criteria": {
       "has_ice": "2025-02-28 05:54:53 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_upgrade_template": {
+    "criteria": {
+      "has_fur_upgrade_template": "2025-02-28 05:57:35 +0000"
     },
     "done": true
   },

@@ -847,6 +847,7 @@
       "minecraft:husk": "2025-02-24 02:49:02 +0000",
       "minecraft:piglin": "2025-02-27 21:20:30 +0000",
       "minecraft:enderman": "2025-02-24 06:38:33 +0000",
+      "minecraft:stray": "2025-02-28 06:00:22 +0000",
       "minecraft:zombie": "2025-02-23 21:03:44 +0000",
       "minecraft:drowned": "2025-02-24 04:41:16 +0000",
       "minecraft:zombie_villager": "2025-02-23 22:26:25 +0000"
@@ -4449,6 +4450,7 @@
       "minecraft:lukewarm_ocean": "2025-02-25 02:35:07 +0000",
       "minecraft:stony_shore": "2025-02-26 05:23:57 +0000",
       "minecraft:snowy_plains": "2025-02-28 05:34:09 +0000",
+      "minecraft:snowy_taiga": "2025-02-28 05:57:57 +0000",
       "minecraft:grove": "2025-02-27 19:29:48 +0000",
       "minecraft:swamp": "2025-02-27 19:58:36 +0000",
       "minecraft:jagged_peaks": "2025-02-27 19:26:28 +0000",
@@ -11466,6 +11468,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-02-28 05:58:45 +0000",
       "in_better_spider_dungeon": "2025-02-24 04:41:56 +0000"
     },
     "done": false
@@ -19054,9 +19057,51 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-28 06:10:14 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/packed_snow_brick_stairs": {
     "criteria": {
       "has_cut_packed_snow_bricks": "2025-02-28 05:46:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_orig_recipe": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-28 06:05:20 +0000"
     },
     "done": true
   },
@@ -19072,9 +19117,27 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-02-28 06:07:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-02-28 06:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-28 06:05:20 +0000"
     },
     "done": true
   },
@@ -19090,9 +19153,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-28 06:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-02-28 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
     },
     "done": true
   },
@@ -19114,6 +19219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-28 06:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-28 05:34:30 +0000"
@@ -19129,6 +19240,12 @@
   "frostiful:recipes/building_block/packed_snow_brick_slab": {
     "criteria": {
       "has_packed_snow_bricks": "2025-02-28 05:46:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-02-28 06:07:05 +0000"
     },
     "done": true
   },
@@ -19162,6 +19279,78 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-28 05:58:45 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-02-28 06:10:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:05:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-02-28 05:34:30 +0000"
@@ -19177,6 +19366,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-28 06:10:14 +0000"
     },
     "done": true
   },
@@ -19201,6 +19396,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-28 06:05:20 +0000"
     },
     "done": true
   },

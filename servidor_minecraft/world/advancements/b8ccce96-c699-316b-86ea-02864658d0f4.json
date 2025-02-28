@@ -592,6 +592,7 @@
       "redstone_caves": "2025-02-27 07:01:54 +0000",
       "grassy_beach": "2025-02-23 21:04:24 +0000",
       "scorching_caves": "2025-02-24 03:01:13 +0000",
+      "rocky_meadow": "2025-02-28 06:07:47 +0000",
       "mycotoxic_undergrowth": "2025-02-27 18:03:41 +0000",
       "maple_forest": "2025-02-24 06:45:25 +0000",
       "frozen_pine_taiga": "2025-02-27 20:56:28 +0000",
@@ -629,6 +630,7 @@
       "frozen_tundra": "2025-02-27 20:54:45 +0000",
       "rocky_reef": "2025-02-23 21:23:51 +0000",
       "grassy_beach": "2025-02-23 21:04:24 +0000",
+      "rocky_meadow": "2025-02-28 06:07:47 +0000",
       "maple_forest": "2025-02-24 06:45:25 +0000",
       "frozen_pine_taiga": "2025-02-27 20:56:28 +0000",
       "tropical_river": "2025-02-23 21:28:07 +0000",
@@ -3388,6 +3390,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-02-23 23:39:04 +0000",
       "minecraft:deep_dark": "2025-02-24 20:48:51 +0000",
       "minecraft:meadow": "2025-02-24 06:49:59 +0000",
+      "minecraft:savanna": "2025-02-28 06:08:16 +0000",
       "minecraft:plains": "2025-02-23 23:34:37 +0000"
     },
     "done": false
@@ -22539,6 +22542,12 @@
   "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
     "criteria": {
       "has_golden_chestplate": "2025-02-28 05:16:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cookie": {
+    "criteria": {
+      "has_cookie": "2025-02-28 05:58:56 +0000"
     },
     "done": true
   },
