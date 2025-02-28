@@ -682,6 +682,7 @@
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:33 +0000",
       "minecraft:river": "2025-02-23 21:55:21 +0000",
       "minecraft:stony_shore": "2025-02-23 21:58:28 +0000",
+      "minecraft:snowy_plains": "2025-02-28 05:32:42 +0000",
       "minecraft:grove": "2025-02-27 19:33:49 +0000",
       "minecraft:jagged_peaks": "2025-02-27 19:32:17 +0000",
       "minecraft:cold_ocean": "2025-02-24 18:15:38 +0000",
@@ -19888,6 +19889,18 @@
       "got_the_netherite_fragment": "2025-02-27 22:02:19 +0000"
     },
     "done": true
+  },
+  "brewery:main/get_saturated": {
+    "criteria": {
+      "saturated": "2025-02-28 05:33:11 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/eat_everything": {
+    "criteria": {
+      "potato_salad": "2025-02-28 05:33:11 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

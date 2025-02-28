@@ -3247,3 +3247,135 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:16:04] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 37339
 [05:16:06] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 37425
 [05:18:03] [Server thread/INFO]: [fandangolol: Teleported fandangolol to Brick_123]
+[05:19:06] [Server thread/INFO]: <Brick_123> xaero-waypoint:TEMPLO BOLIVIANO:T:-381:63:268:13:false:0:External
+[05:19:31] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -380.500000, 63.500000, 268.500000]
+[05:19:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05:20:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[05:20:17] [Server thread/INFO]: fandangolol has made the advancement [Bright-o-Vision]
+[05:20:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05:20:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05:21:03] [Server thread/INFO]: [Handshake] Sending channel query
+[05:21:03] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[05:21:03] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[05:21:03] [Server thread/INFO]: TitoWilly[/127.144.231.0:51853] logged in with entity id 39829 at (-1065.2906924090587, 54.0, -945.5071039409886)
+[05:21:03] [Server thread/INFO]: Sending server config values to client
+[05:21:03] [Server thread/INFO]: Syncing config to TitoWilly (48508611-5ac5-3287-a37b-baccee41d47d)
+[05:21:03] [Server thread/INFO]: Loading config from file...
+[05:21:03] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:21:03] [Server thread/INFO]: TitoWilly joined the game
+[05:21:03] [Server thread/INFO]: Loading Configs for Sortilege
+[05:21:03] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[05:21:03] [Server thread/INFO]: PLAYER_JOIN
+[05:21:03] [Server thread/INFO]: add_player wand
+[05:21:03] [Server thread/INFO]: config sent
+[05:21:03] [Server thread/INFO]: Updating all forceload tickets for 48508611-5ac5-3287-a37b-baccee41d47d
+[05:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05:21:05] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[05:21:07] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: TitoWilly -> Global
+[05:21:07] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player TitoWilly. Claiming: GRAVE / Robbing: INVENTORY
+[05:21:10] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[05:21:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2809ms or 56 ticks behind
+[05:21:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4170ms or 83 ticks behind
+[05:22:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6257ms or 125 ticks behind
+[05:22:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6131ms or 122 ticks behind
+[05:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5041ms or 100 ticks behind
+[05:23:02] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 39765
+[05:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5678ms or 113 ticks behind
+[05:23:10] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[05:23:16] [Server thread/INFO]: <TitoWilly> calla mierda
+[05:23:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6186ms or 123 ticks behind
+[05:23:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6514ms or 130 ticks behind
+[05:24:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7361ms or 147 ticks behind
+[05:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7060ms or 141 ticks behind
+[05:24:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6830ms or 136 ticks behind
+[05:25:08] [Server thread/INFO]: [fandangolol: Teleported fandangolol to TitoWilly]
+[05:25:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6057ms or 121 ticks behind
+[05:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[05:25:45] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 43591
+[05:25:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5039ms or 100 ticks behind
+[05:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5697ms or 113 ticks behind
+[05:26:19] [Server thread/INFO]: <TitoWilly> me avisan, no puedo hablar
+[05:26:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4983ms or 99 ticks behind
+[05:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5319ms or 106 ticks behind
+[05:27:04] [Server thread/INFO]: fandangolol has completed the challenge [Cover Me in Debris]
+[05:27:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3875ms or 77 ticks behind
+[05:27:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3341ms or 66 ticks behind
+[05:27:47] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[05:27:48] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[05:27:48] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[05:27:49] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[05:27:50] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[05:27:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3594ms or 71 ticks behind
+[05:28:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3280ms or 65 ticks behind
+[05:28:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2795ms or 55 ticks behind
+[05:28:27] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[05:28:34] [Server thread/INFO]: <TitoWilly> asu
+[05:28:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3977ms or 79 ticks behind
+[05:29:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2935ms or 58 ticks behind
+[05:29:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2650ms or 53 ticks behind
+[05:29:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
+[05:29:44] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -380.500000, 63.500000, 268.500000]
+[05:29:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
+[05:30:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3334ms or 66 ticks behind
+[05:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3529ms or 70 ticks behind
+[05:30:33] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[05:30:35] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 44736
+[05:30:35] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 44736
+[05:30:35] [Server thread/INFO]: [fandangolol: Teleported fandangolol to Brick_123]
+[05:30:45] [Server thread/INFO]: [fandangolol: Teleported fandangolol to TitoWilly]
+[05:30:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3566ms or 71 ticks behind
+[05:30:58] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[05:31:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
+[05:31:22] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[05:31:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3026ms or 60 ticks behind
+[05:31:32] [Server thread/INFO]: <TitoWilly> alguno tiene ender pearls?
+[05:31:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3229ms or 64 ticks behind
+[05:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4442ms or 88 ticks behind
+[05:32:20] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[05:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4310ms or 86 ticks behind
+[05:32:26] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -4415.500000, 100.500000, -7853.500000]
+[05:32:41] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[05:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5962ms or 119 ticks behind
+[05:32:47] [Server thread/INFO]: [fandangolol: Teleported fandangolol to TitoWilly]
+[05:33:00] [Server thread/INFO]: <TitoWilly> comida
+[05:33:31] [Server thread/INFO]: [fandangolol: Teleported fandangolol to TitoWilly]
+[05:33:31] [Server thread/INFO]: <Brick_123> setback
+[05:33:34] [Server thread/INFO]: <Brick_123> vas a venir?
+[05:34:09] [Server thread/INFO]: [Brick_123: Teleported Setback to Brick_123]
+[05:34:37] [Server thread/INFO]: [EMI] Setback cheated in 64 golden_apple
+[05:34:52] [Server thread/INFO]: Brick_123 was blown up by Night Lich
+[05:34:54] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[05:34:58] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -4386.500000, 64.500000, -7941.500000]
+[05:35:02] [Server thread/INFO]: Brick_123 claimed a grave belonging to Brick_123 at -4385, 67, -7942, minecraft:overworld
+[05:35:26] [Server thread/INFO]: TitoWilly was blown up by Night Lich
+[05:35:28] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[05:35:29] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Setback]
+[05:35:32] [Server thread/INFO]: TitoWilly claimed a grave belonging to TitoWilly at -4420, 70, -7975, minecraft:overworld
+[05:36:01] [Server thread/INFO]: fandangolol has made the advancement [Take Aim]
+[05:36:11] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to Setback]
+[05:36:19] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 49001
+[05:36:25] [Server thread/INFO]: Brick_123 was blown up by Night Lich
+[05:36:26] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[05:36:30] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -4362.500000, 64.500000, -8004.500000]
+[05:36:38] [Server thread/INFO]: Brick_123 claimed a grave belonging to Brick_123 at -4362, 69, -8005, minecraft:overworld
+[05:36:40] [Server thread/INFO]: TitoWilly was slain by Spider
+[05:36:41] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[05:36:42] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Setback]
+[05:36:45] [Server thread/INFO]: TitoWilly claimed a grave belonging to TitoWilly at -4345, 65, -7985, minecraft:overworld
+[05:36:50] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 49372
+[05:36:59] [Server thread/INFO]: TitoWilly was slain by Phantom
+[05:37:01] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[05:37:02] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Setback]
+[05:37:11] [Server thread/INFO]: TitoWilly claimed a grave belonging to TitoWilly at -4376, 66, -7961, minecraft:overworld
+[05:37:12] [Server thread/INFO]: Brick_123 was slain by Phantom
+[05:37:13] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[05:37:17] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -4377.500000, 67.500000, -7925.500000]
+[05:37:20] [Server thread/INFO]: Brick_123 claimed a grave belonging to Brick_123 at -4377, 67, -7928, minecraft:overworld
+[05:37:26] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to Setback]
+[05:37:47] [Server thread/INFO]: TitoWilly was slain by Phantom
+[05:37:47] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Setback]
+[05:37:49] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[05:37:50] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Setback]
+[05:37:55] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 49887
+[05:37:55] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 49887
+[05:38:26] [Server thread/INFO]: Brick_123 has completed the challenge [Night Vanquisher]

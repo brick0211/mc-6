@@ -22524,15 +22524,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/heart_pottery_sherd": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-02-28 05:18:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
     "criteria": {
       "has_golden_chestplate": "2025-02-28 05:16:09 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/heart_of_the_sea_with_water": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-02-28 05:18:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_ring": {
+    "criteria": {
+      "has_item": "2025-02-28 05:18:05 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
     "criteria": {
       "has_icicle": "2025-02-28 04:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-02-28 05:25:23 +0000"
     },
     "done": true
   },
