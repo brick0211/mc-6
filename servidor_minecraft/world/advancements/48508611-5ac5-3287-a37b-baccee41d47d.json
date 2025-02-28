@@ -19892,15 +19892,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-28 05:52:29 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/phantom_armor_leggings": {
     "criteria": {
       "has_phantom_skin": "2025-02-28 05:42:08 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-02-28 05:52:29 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/phantom_armor_boots": {
     "criteria": {
       "has_phantom_skin": "2025-02-28 05:42:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_boots": {
+    "criteria": {
+      "has_ender_eye": "2025-02-28 05:52:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 05:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-28 05:52:29 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/handbook_recipe": {
+    "criteria": {
+      "got_the_ender_eye": "2025-02-28 05:52:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/ender_chest_with_water": {
+    "criteria": {
+      "has_ender_chest": "2025-02-28 05:52:32 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-02-28 05:56:33 +0000"
     },
     "done": true
   },
@@ -19915,6 +19963,42 @@
       "potato_salad": "2025-02-28 05:33:11 +0000"
     },
     "done": false
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2025-02-28 05:52:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_leggings": {
+    "criteria": {
+      "has_ender_eye": "2025-02-28 05:52:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_helmet": {
+    "criteria": {
+      "has_ender_eye": "2025-02-28 05:52:29 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-02-28 05:52:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_void": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-28 05:52:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-02-28 05:52:29 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

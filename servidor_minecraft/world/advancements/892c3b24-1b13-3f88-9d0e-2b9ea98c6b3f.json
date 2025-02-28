@@ -163,6 +163,7 @@
       "steppe": "2025-02-24 04:47:07 +0000",
       "pine_taiga": "2025-02-27 19:09:55 +0000",
       "willow_forest": "2025-02-27 19:13:30 +0000",
+      "frozen_tundra": "2025-02-28 05:50:21 +0000",
       "rocky_reef": "2025-02-23 21:23:11 +0000",
       "grassy_beach": "2025-02-23 21:01:38 +0000",
       "blackwood_taiga": "2025-02-27 19:10:08 +0000",
@@ -223,6 +224,7 @@
       "steppe": "2025-02-24 04:47:07 +0000",
       "pine_taiga": "2025-02-27 19:09:55 +0000",
       "willow_forest": "2025-02-27 19:13:30 +0000",
+      "frozen_tundra": "2025-02-28 05:50:21 +0000",
       "rocky_reef": "2025-02-23 21:23:11 +0000",
       "grassy_beach": "2025-02-23 21:01:38 +0000",
       "blackwood_taiga": "2025-02-27 19:10:08 +0000",
@@ -19052,6 +19054,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/packed_snow_brick_stairs": {
+    "criteria": {
+      "has_cut_packed_snow_bricks": "2025-02-28 05:46:27 +0000"
+    },
+    "done": true
+  },
   "frostiful:adventure/find_frostologer_castle": {
     "criteria": {
       "castle": "2025-02-28 05:42:04 +0000"
@@ -19076,6 +19084,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/packed_snow_brick_walls": {
+    "criteria": {
+      "has_cut_packed_snow_bricks": "2025-02-28 05:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-02-28 05:35:57 +0000"
@@ -19085,6 +19099,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
+    "criteria": {
+      "has_icicle": "2025-02-28 05:46:51 +0000"
     },
     "done": true
   },
@@ -19100,6 +19120,18 @@
     },
     "done": true
   },
+  "frostiful:adventure/kill_frostologer": {
+    "criteria": {
+      "frostologer": "2025-02-28 05:46:49 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_slab": {
+    "criteria": {
+      "has_packed_snow_bricks": "2025-02-28 05:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-02-28 05:35:57 +0000"
@@ -19109,6 +19141,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/ice": {
+    "criteria": {
+      "has_icicle": "2025-02-28 05:46:51 +0000"
     },
     "done": true
   },
@@ -19142,9 +19180,21 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-28 05:46:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:tempest": {
+    "criteria": {
+      "requirement": "2025-02-28 05:47:29 +0000"
     },
     "done": true
   },

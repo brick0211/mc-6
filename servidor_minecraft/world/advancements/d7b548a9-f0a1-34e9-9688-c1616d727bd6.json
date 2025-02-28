@@ -23458,6 +23458,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/vacuum_freezer/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-02-28 05:54:53 +0000"
+    },
+    "done": true
+  },
   "things:monocle": {
     "criteria": {
       "monocle": "2025-02-28 05:20:17 +0000"
@@ -23536,6 +23542,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/decorations/ice_pane": {
+    "criteria": {
+      "has_ice": "2025-02-28 05:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-28 05:20:08 +0000"
@@ -23551,6 +23563,12 @@
   "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2025-02-28 05:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-02-28 05:54:53 +0000"
     },
     "done": true
   },
