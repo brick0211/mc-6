@@ -594,6 +594,7 @@
       "glistering_meadow": "2025-02-27 21:36:40 +0000",
       "towering_cliffs": "2025-02-24 05:34:08 +0000",
       "chalk_cliffs": "2025-02-27 20:15:01 +0000",
+      "infernal_holt": "2025-02-28 22:51:21 +0000",
       "bamboo_forest": "2025-02-28 21:58:25 +0000",
       "saguaro_desert": "2025-02-24 06:24:39 +0000",
       "baobab_savanna": "2025-02-27 20:13:04 +0000",
@@ -13948,6 +13949,7 @@
     "criteria": {
       "betternether:bone_reef": "2025-02-27 21:17:58 +0000",
       "betternether:gravel_desert": "2025-02-27 21:14:17 +0000",
+      "betternether:nether_swampland": "2025-02-28 22:51:59 +0000",
       "betternether:nether_jungle": "2025-02-27 21:08:58 +0000",
       "betternether:nether_swampland_terraces": "2025-02-27 21:58:24 +0000"
     },
@@ -14585,6 +14587,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "infernal_holt": "2025-02-28 22:51:21 +0000",
       "glistering_meadow": "2025-02-27 21:36:40 +0000"
     },
     "done": false
@@ -15268,9 +15271,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
     },
     "done": true
   },
@@ -15280,9 +15313,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherrack_with_water": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
     },
     "done": true
   },
@@ -15304,9 +15361,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
   "rpg_series:path_choose_arcane": {
     "criteria": {
       "book": "2025-02-28 22:36:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
     },
     "done": true
   },
@@ -15334,15 +15427,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-02-28 21:55:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
     "criteria": {
       "has_item": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
     },
     "done": true
   },
@@ -15376,9 +15499,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
     },
     "done": true
   },
@@ -15394,9 +15529,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/lapis_plate": {
     "criteria": {
       "has_lapis_block": "2025-02-28 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
     },
     "done": true
   },
@@ -15415,6 +15568,18 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-02-28 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 22:51:41 +0000"
     },
     "done": true
   },

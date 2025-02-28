@@ -180,6 +180,7 @@
       "deciduous_forest": "2025-02-27 22:32:14 +0000",
       "boreal_forest": "2025-02-26 23:33:13 +0000",
       "glistering_meadow": "2025-02-27 21:26:39 +0000",
+      "chalk_cliffs": "2025-02-28 22:47:14 +0000",
       "infernal_holt": "2025-02-25 03:08:46 +0000",
       "bamboo_forest": "2025-02-23 23:05:58 +0000",
       "cold_boreal_taiga": "2025-02-26 23:33:42 +0000",
@@ -239,6 +240,7 @@
       "outback": "2025-02-23 21:23:16 +0000",
       "deciduous_forest": "2025-02-27 22:32:14 +0000",
       "boreal_forest": "2025-02-26 23:33:13 +0000",
+      "chalk_cliffs": "2025-02-28 22:47:14 +0000",
       "bamboo_forest": "2025-02-23 23:05:58 +0000",
       "cold_boreal_taiga": "2025-02-26 23:33:42 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
@@ -23663,9 +23665,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar": {
+    "criteria": {
+      "has_chalk": "2025-02-28 22:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/polished_chalk": {
+    "criteria": {
+      "has_chalk": "2025-02-28 22:52:30 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/flower_bag": {
     "criteria": {
       "has_item": "2025-02-28 22:27:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs": {
+    "criteria": {
+      "has_chalk": "2025-02-28 22:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-02-28 22:52:30 +0000"
     },
     "done": true
   },
@@ -23699,9 +23725,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-02-28 22:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-02-28 22:52:30 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-02-28 22:27:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-28 22:48:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_bricks_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-02-28 22:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_grass_block": {
+    "criteria": {
+      "has_chalk": "2025-02-28 22:52:30 +0000"
     },
     "done": true
   },
@@ -23729,6 +23785,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2025-02-28 22:51:46 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/blue_dye_from_blueberries": {
     "criteria": {
       "has_blueberry": "2025-02-28 22:32:16 +0000"
@@ -23741,9 +23803,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-28 22:48:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
     "criteria": {
       "has_wayfinder_armor_trim_smithing_template": "2025-02-28 22:41:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/polished_chalk_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-02-28 22:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab": {
+    "criteria": {
+      "has_chalk": "2025-02-28 22:52:30 +0000"
     },
     "done": true
   },
