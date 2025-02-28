@@ -582,6 +582,7 @@
     "criteria": {
       "silver_birch_forest": "2025-02-27 22:35:02 +0000",
       "marsh": "2025-02-26 20:07:03 +0000",
+      "willow_forest": "2025-02-28 22:02:58 +0000",
       "frozen_tundra": "2025-02-27 22:35:09 +0000",
       "rocky_reef": "2025-02-24 18:13:50 +0000",
       "grassy_beach": "2025-02-24 05:15:09 +0000",
@@ -607,6 +608,7 @@
     "criteria": {
       "silver_birch_forest": "2025-02-27 22:35:02 +0000",
       "marsh": "2025-02-26 20:07:03 +0000",
+      "willow_forest": "2025-02-28 22:02:58 +0000",
       "frozen_tundra": "2025-02-27 22:35:09 +0000",
       "rocky_reef": "2025-02-24 18:13:50 +0000",
       "grassy_beach": "2025-02-24 05:15:09 +0000",
@@ -15295,6 +15297,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/vacuum_freezer/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-02-28 22:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
@@ -15337,6 +15345,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/decorations/ice_pane": {
+    "criteria": {
+      "has_ice": "2025-02-28 22:04:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
@@ -15358,6 +15372,12 @@
   "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
     "criteria": {
       "has_item": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-02-28 22:04:54 +0000"
     },
     "done": true
   },

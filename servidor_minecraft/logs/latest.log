@@ -2968,3 +2968,67 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [22:03:09] [Server thread/INFO]: <Nikuus> s
+[22:11:45] [Server thread/INFO]: [Handshake] Sending channel query
+[22:11:45] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[22:11:45] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[22:11:46] [Server thread/INFO]: fandangolol[/127.199.177.232:55051] logged in with entity id 8991 at (-1070.5, 63.0, -937.5)
+[22:11:46] [Server thread/INFO]: Sending server config values to client
+[22:11:46] [Server thread/INFO]: Syncing config to fandangolol (d7b548a9-f0a1-34e9-9688-c1616d727bd6)
+[22:11:46] [Server thread/INFO]: Loading config from file...
+[22:11:46] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:11:46] [Server thread/INFO]: fandangolol joined the game
+[22:11:46] [Server thread/INFO]: Loading Configs for Sortilege
+[22:11:46] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[22:11:46] [Server thread/INFO]: PLAYER_JOIN
+[22:11:46] [Server thread/INFO]: add_player wand
+[22:11:46] [Server thread/INFO]: config sent
+[22:11:46] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[22:11:49] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[22:11:56] [Server thread/INFO]: [EMI] Setback deleted 14 brown_mushroom
+[22:11:58] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: fandangolol -> Global
+[22:11:58] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player fandangolol. Claiming: GRAVE / Robbing: INVENTORY
+[22:12:08] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[22:12:14] [Server thread/INFO]: <Nikuus> GG TIER 2
+[22:12:53] [Server thread/INFO]: [Handshake] Sending channel query
+[22:12:54] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[22:12:54] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[22:12:54] [Server thread/INFO]: Brick_123[/127.55.168.40:52553] logged in with entity id 9340 at (-4285.300000011921, 65.0, -8876.236648046959)
+[22:12:54] [Server thread/INFO]: Sending server config values to client
+[22:12:54] [Server thread/INFO]: Syncing config to Brick_123 (b8ccce96-c699-316b-86ea-02864658d0f4)
+[22:12:54] [Server thread/INFO]: Loading config from file...
+[22:12:54] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:12:54] [Server thread/INFO]: Brick_123 joined the game
+[22:12:54] [Server thread/INFO]: Loading Configs for Sortilege
+[22:12:54] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[22:12:54] [Server thread/INFO]: PLAYER_JOIN
+[22:12:54] [Server thread/INFO]: add_player wand
+[22:12:54] [Server thread/INFO]: config sent
+[22:12:54] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[22:12:57] [Server thread/INFO]: [EMI] Setback cheated in 64 iron_chest
+[22:12:58] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[22:13:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22:13:04] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Brick_123 -> Global
+[22:13:04] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Brick_123. Claiming: GRAVE / Robbing: INVENTORY
+[22:13:10] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[22:13:13] [Server thread/INFO]: Brick_123 has reached the goal [Postmortal]
+[22:13:14] [Server thread/INFO]: Brick_123 was killed by Witch using magic
+[22:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4342ms or 86 ticks behind
+[22:13:47] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[22:13:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[22:14:12] [Server thread/INFO]: <Nikuus> entra a call
+[22:14:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4612ms or 92 ticks behind
+[22:14:17] [Server thread/INFO]: <fandangolol> go tier 3
+[22:14:21] [Server thread/INFO]: <Nikuus> go?
+[22:14:22] [Server thread/INFO]: <Nikuus> habla
+[22:14:26] [Server thread/INFO]: <fandangolol> increible el brick
+[22:14:30] [Server thread/INFO]: <Brick_123> suicidate nikus
+[22:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[22:14:36] [Server thread/INFO]: <Brick_123> firmeza
+[22:14:49] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: death_knights:unholy isComplete: false
+[22:14:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2945ms or 58 ticks behind
+[22:14:58] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: death_knights:unholy isComplete: false
+[22:15:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[22:15:07] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: death_knights:unholy isComplete: false
+[22:15:16] [Server thread/INFO]: <Brick_123> ME ESCUCHAS NIKUS MARICON
+[22:15:18] [Server thread/INFO]: <Brick_123> ?=
+[22:15:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2654ms or 53 ticks behind
