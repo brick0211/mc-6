@@ -22524,6 +22524,12 @@
     },
     "done": true
   },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-02-28 05:39:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/heart_pottery_sherd": {
     "criteria": {
       "has_heart_of_the_sea": "2025-02-28 05:18:05 +0000"
@@ -22569,6 +22575,18 @@
   "frostiful:recipes/misc/ice": {
     "criteria": {
       "has_icicle": "2025-02-28 04:48:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-02-28 05:39:31 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-02-28 05:38:26 +0000"
     },
     "done": true
   },

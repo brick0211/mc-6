@@ -689,6 +689,7 @@
       "minecraft:forest": "2025-02-24 18:16:42 +0000",
       "minecraft:desert": "2025-02-23 21:26:10 +0000",
       "minecraft:ocean": "2025-02-24 17:58:28 +0000",
+      "minecraft:snowy_beach": "2025-02-28 05:37:02 +0000",
       "minecraft:windswept_savanna": "2025-02-27 19:58:34 +0000",
       "minecraft:warm_ocean": "2025-02-23 22:42:19 +0000",
       "minecraft:flower_forest": "2025-02-27 20:10:03 +0000",
@@ -758,6 +759,7 @@
       "minecraft:cave_spider": "2025-02-27 04:04:02 +0000",
       "minecraft:piglin": "2025-02-24 06:40:48 +0000",
       "minecraft:enderman": "2025-02-24 18:10:37 +0000",
+      "minecraft:stray": "2025-02-28 05:41:29 +0000",
       "minecraft:vex": "2025-02-27 20:17:16 +0000",
       "minecraft:zombie": "2025-02-23 21:00:56 +0000",
       "minecraft:drowned": "2025-02-24 05:23:15 +0000",
@@ -19887,6 +19889,18 @@
   "adventurez:recipes/gilded_netherite_fragment_recipe": {
     "criteria": {
       "got_the_netherite_fragment": "2025-02-27 22:02:19 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-02-28 05:42:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-02-28 05:42:08 +0000"
     },
     "done": true
   },
