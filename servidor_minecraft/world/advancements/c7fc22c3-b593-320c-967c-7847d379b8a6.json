@@ -585,6 +585,7 @@
       "frozen_tundra": "2025-02-27 22:35:09 +0000",
       "rocky_reef": "2025-02-24 18:13:50 +0000",
       "grassy_beach": "2025-02-24 05:15:09 +0000",
+      "rocky_meadow": "2025-02-28 21:59:56 +0000",
       "tropical_river": "2025-02-24 06:23:49 +0000",
       "outback": "2025-02-24 05:06:59 +0000",
       "sparse_redwoods": "2025-02-26 20:06:51 +0000",
@@ -592,6 +593,7 @@
       "glistering_meadow": "2025-02-27 21:36:40 +0000",
       "towering_cliffs": "2025-02-24 05:34:08 +0000",
       "chalk_cliffs": "2025-02-27 20:15:01 +0000",
+      "bamboo_forest": "2025-02-28 21:58:25 +0000",
       "saguaro_desert": "2025-02-24 06:24:39 +0000",
       "baobab_savanna": "2025-02-27 20:13:04 +0000",
       "grassland": "2025-02-24 05:08:34 +0000",
@@ -608,12 +610,14 @@
       "frozen_tundra": "2025-02-27 22:35:09 +0000",
       "rocky_reef": "2025-02-24 18:13:50 +0000",
       "grassy_beach": "2025-02-24 05:15:09 +0000",
+      "rocky_meadow": "2025-02-28 21:59:56 +0000",
       "tropical_river": "2025-02-24 06:23:49 +0000",
       "outback": "2025-02-24 05:06:59 +0000",
       "sparse_redwoods": "2025-02-26 20:06:51 +0000",
       "deciduous_forest": "2025-02-27 20:16:03 +0000",
       "towering_cliffs": "2025-02-24 05:34:08 +0000",
       "chalk_cliffs": "2025-02-27 20:15:01 +0000",
+      "bamboo_forest": "2025-02-28 21:58:25 +0000",
       "saguaro_desert": "2025-02-24 06:24:39 +0000",
       "baobab_savanna": "2025-02-27 20:13:04 +0000",
       "grassland": "2025-02-24 05:08:34 +0000",
@@ -15258,6 +15262,102 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-02-27 23:46:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-28 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
+    "criteria": {
+      "has_item": "2025-02-28 21:55:17 +0000"
     },
     "done": true
   },

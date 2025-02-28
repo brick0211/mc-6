@@ -19059,6 +19059,168 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-28 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-28 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-28 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-02-28 05:35:57 +0000"
+    },
+    "done": false
+  },
+  "frostiful:adventure/find_frostologer_castle": {
+    "criteria": {
+      "castle": "2025-02-28 05:42:04 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_upgrade_template": {
+    "criteria": {
+      "has_fur_upgrade_template": "2025-02-28 05:44:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-28 05:46:13 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_stairs": {
+    "criteria": {
+      "has_cut_packed_snow_bricks": "2025-02-28 05:46:27 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_walls": {
+    "criteria": {
+      "has_cut_packed_snow_bricks": "2025-02-28 05:46:27 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_slab": {
+    "criteria": {
+      "has_packed_snow_bricks": "2025-02-28 05:46:27 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/kill_frostologer": {
+    "criteria": {
+      "frostologer": "2025-02-28 05:46:49 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
+    "criteria": {
+      "has_icicle": "2025-02-28 05:46:51 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/ice": {
+    "criteria": {
+      "has_icicle": "2025-02-28 05:46:51 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:tempest": {
+    "criteria": {
+      "requirement": "2025-02-28 05:47:29 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-28 05:58:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-02-28 06:05:20 +0000"
@@ -19068,18 +19230,6 @@
   "betternether:recipes/misc/wall_mushroom_brown": {
     "criteria": {
       "has_brown_mushroom": "2025-02-28 06:05:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-02-28 06:10:14 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/packed_snow_brick_stairs": {
-    "criteria": {
-      "has_cut_packed_snow_bricks": "2025-02-28 05:46:27 +0000"
     },
     "done": true
   },
@@ -19107,69 +19257,9 @@
     },
     "done": true
   },
-  "frostiful:adventure/find_frostologer_castle": {
-    "criteria": {
-      "castle": "2025-02-28 05:42:04 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pedestal": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
-    "criteria": {
-      "has_log": "2025-02-28 06:07:04 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2025-02-28 06:07:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-02-28 06:05:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-02-28 05:34:30 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/packed_snow_brick_walls": {
-    "criteria": {
-      "has_cut_packed_snow_bricks": "2025-02-28 05:46:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-02-28 06:07:04 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/ember_robe_chestplate": {
-    "criteria": {
-      "has_evocation_robe_chestplate": "2025-02-28 06:21:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-02-28 05:35:57 +0000"
     },
     "done": true
   },
@@ -19206,102 +19296,6 @@
   "botania:recipes/decorations/mushroom_13": {
     "criteria": {
       "has_alt_item": "2025-02-28 06:05:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
-    "criteria": {
-      "has_icicle": "2025-02-28 05:46:51 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/snow": {
-    "criteria": {
-      "has_snowball": "2025-02-28 05:35:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-02-28 06:07:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
-    },
-    "done": true
-  },
-  "frostiful:adventure/kill_frostologer": {
-    "criteria": {
-      "frostologer": "2025-02-28 05:46:49 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/packed_snow_brick_slab": {
-    "criteria": {
-      "has_packed_snow_bricks": "2025-02-28 05:46:27 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_shrub": {
-    "criteria": {
-      "has_spruce_sapling": "2025-02-28 06:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-02-28 05:35:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/misc/ice": {
-    "criteria": {
-      "has_icicle": "2025-02-28 05:46:51 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/lsu_storage": {
-    "criteria": {
-      "has_lapis_block": "2025-02-28 06:32:58 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/misc/fur_upgrade_template": {
-    "criteria": {
-      "has_fur_upgrade_template": "2025-02-28 05:44:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-02-28 05:58:45 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/vanilla_piles/poppy": {
-    "criteria": {
-      "has_flower": "2025-02-28 06:10:14 +0000"
     },
     "done": true
   },
@@ -19365,33 +19359,51 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stone_tile": {
+  "techreborn:recipes/centrifuge/brown_mushroom": {
     "criteria": {
-      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+      "has_brown_mushroom": "2025-02-28 06:05:20 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/lapis_plate": {
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
     "criteria": {
-      "has_lapis_block": "2025-02-28 06:32:58 +0000"
+      "has_log": "2025-02-28 06:07:04 +0000"
     },
     "done": true
   },
-  "mcda:recipes/unique_armors/verdant_robe_chestplate": {
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
     "criteria": {
-      "has_evocation_robe_chestplate": "2025-02-28 06:21:49 +0000"
+      "has_log": "2025-02-28 06:07:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+      "has_logs": "2025-02-28 06:07:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+      "has_log": "2025-02-28 06:07:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-02-28 06:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-28 06:10:14 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-02-28 06:10:14 +0000"
     },
     "done": true
   },
@@ -19401,21 +19413,27 @@
     },
     "done": true
   },
-  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
+  "mcda:recipes/unique_armors/ember_robe_chestplate": {
     "criteria": {
-      "has_core_specification_item": "2025-02-28 05:46:13 +0000"
+      "has_evocation_robe_chestplate": "2025-02-28 06:21:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+  "mcda:recipes/unique_armors/verdant_robe_chestplate": {
     "criteria": {
-      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
+      "has_evocation_robe_chestplate": "2025-02-28 06:21:49 +0000"
     },
     "done": true
   },
-  "simplyswords:tempest": {
+  "techreborn:recipes/crafting_table/machine/lsu_storage": {
     "criteria": {
-      "requirement": "2025-02-28 05:47:29 +0000"
+      "has_lapis_block": "2025-02-28 06:32:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/lapis_plate": {
+    "criteria": {
+      "has_lapis_block": "2025-02-28 06:32:58 +0000"
     },
     "done": true
   },
@@ -19424,24 +19442,6 @@
       "has_lapis_block": "2025-02-28 06:32:58 +0000"
     },
     "done": true
-  },
-  "supplementaries:recipes/stonecutting/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-28 05:34:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/brown_mushroom": {
-    "criteria": {
-      "has_brown_mushroom": "2025-02-28 06:05:20 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
-    "criteria": {
-      "has_snowball": "2025-02-28 05:35:57 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
