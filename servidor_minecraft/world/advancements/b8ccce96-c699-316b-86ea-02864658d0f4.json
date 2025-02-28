@@ -592,6 +592,7 @@
       "redstone_caves": "2025-02-27 07:01:54 +0000",
       "grassy_beach": "2025-02-23 21:04:24 +0000",
       "scorching_caves": "2025-02-24 03:01:13 +0000",
+      "blackwood_taiga": "2025-02-28 06:12:33 +0000",
       "rocky_meadow": "2025-02-28 06:07:47 +0000",
       "mycotoxic_undergrowth": "2025-02-27 18:03:41 +0000",
       "maple_forest": "2025-02-24 06:45:25 +0000",
@@ -600,9 +601,11 @@
       "magnolia_highlands": "2025-02-24 06:44:56 +0000",
       "eucalyptus_forest": "2025-02-27 07:24:13 +0000",
       "outback": "2025-02-23 21:23:08 +0000",
+      "sparse_redwoods": "2025-02-28 06:11:54 +0000",
       "deciduous_forest": "2025-02-27 06:46:57 +0000",
       "boreal_forest": "2025-02-24 06:46:59 +0000",
       "glistering_meadow": "2025-02-27 18:22:07 +0000",
+      "chalk_cliffs": "2025-02-28 06:11:03 +0000",
       "infernal_holt": "2025-02-24 05:47:10 +0000",
       "bamboo_forest": "2025-02-24 02:55:52 +0000",
       "cold_boreal_taiga": "2025-02-27 20:47:47 +0000",
@@ -630,6 +633,7 @@
       "frozen_tundra": "2025-02-27 20:54:45 +0000",
       "rocky_reef": "2025-02-23 21:23:51 +0000",
       "grassy_beach": "2025-02-23 21:04:24 +0000",
+      "blackwood_taiga": "2025-02-28 06:12:33 +0000",
       "rocky_meadow": "2025-02-28 06:07:47 +0000",
       "maple_forest": "2025-02-24 06:45:25 +0000",
       "frozen_pine_taiga": "2025-02-27 20:56:28 +0000",
@@ -637,8 +641,10 @@
       "magnolia_highlands": "2025-02-24 06:44:56 +0000",
       "eucalyptus_forest": "2025-02-27 07:24:13 +0000",
       "outback": "2025-02-23 21:23:08 +0000",
+      "sparse_redwoods": "2025-02-28 06:11:54 +0000",
       "deciduous_forest": "2025-02-27 06:46:57 +0000",
       "boreal_forest": "2025-02-24 06:46:59 +0000",
+      "chalk_cliffs": "2025-02-28 06:11:03 +0000",
       "bamboo_forest": "2025-02-24 02:55:52 +0000",
       "cold_boreal_taiga": "2025-02-27 20:47:47 +0000",
       "saguaro_desert": "2025-02-23 21:24:03 +0000",
@@ -5544,6 +5550,7 @@
       "minecraft:piglin": "2025-02-24 06:34:26 +0000",
       "minecraft:enderman": "2025-02-24 04:49:02 +0000",
       "minecraft:stray": "2025-02-24 05:10:06 +0000",
+      "minecraft:silverfish": "2025-02-28 06:15:19 +0000",
       "minecraft:vex": "2025-02-27 20:17:43 +0000",
       "minecraft:zombie": "2025-02-23 21:54:54 +0000",
       "minecraft:drowned": "2025-02-24 00:07:39 +0000",
@@ -22524,6 +22531,12 @@
   "soulsweapons:recipes/combat/gatling_gun": {
     "criteria": {
       "has_lost_soul": "2025-02-27 22:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-02-28 06:15:08 +0000"
     },
     "done": true
   },
