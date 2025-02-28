@@ -34,11 +34,5 @@
     "name": "Setback",
     "level": 4,
     "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "6847681d-2df8-39cc-9167-7215984360b5",
-    "name": "INTENCITIES",
-    "level": 4,
-    "bypassesPlayerLimit": false
   }
 ]
