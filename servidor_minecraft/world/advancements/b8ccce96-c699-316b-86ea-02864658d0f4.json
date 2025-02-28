@@ -22524,9 +22524,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-28 05:16:09 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
     "criteria": {
       "has_icicle": "2025-02-28 04:48:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-28 05:16:08 +0000"
     },
     "done": true
   },

@@ -3237,3 +3237,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:04:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [05:04:42] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to fandangolol]
 [05:07:33] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to Setback]
+[05:10:14] [Server thread/INFO]: [EMI] Setback cheated in 16 iron_tier_upgrade
+[05:10:15] [Server thread/INFO]: [EMI] Setback cheated in 16 gold_tier_upgrade
+[05:10:17] [Server thread/INFO]: [EMI] Setback cheated in 16 diamond_tier_upgrade
+[05:11:40] [Server thread/INFO]: [EMI] Setback cheated in 64 leather
+[05:14:03] [Server thread/INFO]: fandangolol has made the advancement [Surge Protector]
+[05:16:03] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 36477
+[05:16:04] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 37339
+[05:16:04] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 37339
+[05:16:06] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 37425
+[05:18:03] [Server thread/INFO]: [fandangolol: Teleported fandangolol to Brick_123]

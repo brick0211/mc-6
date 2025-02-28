@@ -23331,9 +23331,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-02-28 05:09:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-02-28 05:09:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-02-28 05:09:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-02-28 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-28 05:14:03 +0000"
     },
     "done": true
   },
