@@ -612,6 +612,7 @@
       "saguaro_desert": "2025-02-23 21:24:03 +0000",
       "temperate_grove": "2025-02-24 18:04:47 +0000",
       "cold_river": "2025-02-24 18:15:12 +0000",
+      "ashen_woodland": "2025-02-28 23:08:22 +0000",
       "baobab_savanna": "2025-02-27 06:47:23 +0000",
       "spires": "2025-02-27 20:47:40 +0000",
       "grassland": "2025-02-23 23:34:32 +0000",
@@ -650,6 +651,7 @@
       "saguaro_desert": "2025-02-23 21:24:03 +0000",
       "temperate_grove": "2025-02-24 18:04:47 +0000",
       "cold_river": "2025-02-24 18:15:12 +0000",
+      "ashen_woodland": "2025-02-28 23:08:22 +0000",
       "baobab_savanna": "2025-02-27 06:47:23 +0000",
       "spires": "2025-02-27 20:47:40 +0000",
       "grassland": "2025-02-23 23:34:32 +0000",
@@ -3370,6 +3372,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-27 20:49:35 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-24 06:50:54 +0000",
+      "minecraft:mushroom_fields": "2025-02-28 23:07:33 +0000",
       "minecraft:taiga": "2025-02-24 06:47:12 +0000",
       "minecraft:deep_ocean": "2025-02-24 04:57:56 +0000",
       "minecraft:frozen_river": "2025-02-27 20:48:01 +0000",
@@ -22770,6 +22773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-28 23:06:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-28 22:58:01 +0000"
@@ -22827,6 +22836,12 @@
   "travelersbackpack:recipes/misc/pumpkin": {
     "criteria": {
       "has_pumpkin": "2025-02-28 22:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-02-28 23:06:41 +0000"
     },
     "done": true
   },
