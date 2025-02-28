@@ -4457,6 +4457,7 @@
       "minecraft:jagged_peaks": "2025-02-27 19:26:28 +0000",
       "minecraft:cold_ocean": "2025-02-27 20:00:53 +0000",
       "minecraft:forest": "2025-02-27 19:59:08 +0000",
+      "minecraft:ice_spikes": "2025-02-28 06:33:13 +0000",
       "minecraft:desert": "2025-02-23 21:25:53 +0000",
       "minecraft:ocean": "2025-02-26 05:28:52 +0000",
       "minecraft:snowy_beach": "2025-02-28 05:36:58 +0000",
@@ -19160,6 +19161,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/ember_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-02-28 06:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-02-28 05:35:57 +0000"
@@ -19268,6 +19275,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/lsu_storage": {
+    "criteria": {
+      "has_lapis_block": "2025-02-28 06:32:58 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/misc/fur_upgrade_template": {
     "criteria": {
       "has_fur_upgrade_template": "2025-02-28 05:44:16 +0000"
@@ -19358,6 +19371,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/lapis_plate": {
+    "criteria": {
+      "has_lapis_block": "2025-02-28 06:32:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/verdant_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-02-28 06:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-02-28 05:34:30 +0000"
@@ -19391,6 +19416,12 @@
   "simplyswords:tempest": {
     "criteria": {
       "requirement": "2025-02-28 05:47:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-28 06:32:58 +0000"
     },
     "done": true
   },

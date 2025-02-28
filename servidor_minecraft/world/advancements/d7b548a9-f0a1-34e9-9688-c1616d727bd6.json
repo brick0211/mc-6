@@ -2578,6 +2578,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-27 00:06:42 +0000",
+      "minecraft:taiga": "2025-02-28 06:18:50 +0000",
       "minecraft:deep_ocean": "2025-02-26 23:20:49 +0000",
       "minecraft:frozen_river": "2025-02-26 23:41:18 +0000",
       "minecraft:sunflower_plains": "2025-02-25 00:10:52 +0000",
@@ -2590,6 +2591,7 @@
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:33 +0000",
       "minecraft:river": "2025-02-23 23:19:29 +0000",
       "minecraft:snowy_plains": "2025-02-26 23:50:45 +0000",
+      "minecraft:stony_shore": "2025-02-28 06:25:46 +0000",
       "minecraft:snowy_taiga": "2025-02-26 23:34:54 +0000",
       "minecraft:grove": "2025-02-27 19:26:58 +0000",
       "minecraft:cold_ocean": "2025-02-26 23:30:11 +0000",
@@ -2600,6 +2602,7 @@
       "minecraft:desert": "2025-02-23 21:26:37 +0000",
       "minecraft:jungle": "2025-02-23 23:04:30 +0000",
       "minecraft:ocean": "2025-02-23 23:34:35 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-28 06:21:40 +0000",
       "minecraft:warm_ocean": "2025-02-24 01:08:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-23 23:57:24 +0000",
       "minecraft:flower_forest": "2025-02-25 00:08:21 +0000",
@@ -2612,6 +2615,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-02-23 21:43:25 +0000",
+      "cooked_cod": "2025-02-28 06:34:40 +0000",
       "bread": "2025-02-23 21:23:48 +0000",
       "golden_apple": "2025-02-27 21:13:17 +0000",
       "cookie": "2025-02-24 03:07:02 +0000",
@@ -23500,6 +23504,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2025-02-28 06:22:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
     "criteria": {
       "has_experience_bottle": "2025-02-28 05:59:18 +0000"
@@ -23536,6 +23546,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_catfish": {
+    "criteria": {
+      "has_catfish": "2025-02-28 06:22:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-02-28 05:14:03 +0000"
@@ -23554,9 +23570,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-02-28 06:25:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-28 05:20:08 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sharp_bones": {
+    "criteria": {
+      "has_item": "2025-02-28 06:34:44 +0000"
     },
     "done": true
   },

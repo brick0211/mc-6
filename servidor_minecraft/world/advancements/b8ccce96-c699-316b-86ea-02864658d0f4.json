@@ -3391,6 +3391,7 @@
       "minecraft:windswept_forest": "2025-02-27 22:30:49 +0000",
       "minecraft:ocean": "2025-02-24 03:14:59 +0000",
       "minecraft:jungle": "2025-02-24 20:48:41 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-28 06:27:13 +0000",
       "minecraft:snowy_beach": "2025-02-27 20:47:33 +0000",
       "minecraft:warm_ocean": "2025-02-23 22:35:29 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-23 23:39:04 +0000",
@@ -22534,6 +22535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-28 06:25:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold_betterstrongholds": "2025-02-28 06:15:08 +0000"
@@ -22546,9 +22553,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-02-28 06:25:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/heart_pottery_sherd": {
     "criteria": {
       "has_heart_of_the_sea": "2025-02-28 05:18:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_boots": {
+    "criteria": {
+      "has_ender_eye": "2025-02-28 06:25:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-02-28 06:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-28 06:25:12 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/handbook_recipe": {
+    "criteria": {
+      "got_the_ender_eye": "2025-02-28 06:25:12 +0000"
     },
     "done": true
   },
@@ -22570,9 +22607,27 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/ember_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-02-28 06:30:19 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/water_ring": {
     "criteria": {
       "has_item": "2025-02-28 05:18:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2025-02-28 06:25:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_leggings": {
+    "criteria": {
+      "has_ender_eye": "2025-02-28 06:25:12 +0000"
     },
     "done": true
   },
@@ -22588,9 +22643,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/teleportation_robe_helmet": {
+    "criteria": {
+      "has_ender_eye": "2025-02-28 06:25:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
     "criteria": {
       "has_golden_leggings": "2025-02-28 05:16:08 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-02-28 06:25:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_void": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-28 06:25:12 +0000"
     },
     "done": true
   },
@@ -22600,15 +22673,33 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-02-28 06:25:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/grass_block": {
     "criteria": {
       "has_grass_block": "2025-02-28 05:39:31 +0000"
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/verdant_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-02-28 06:30:19 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:adventure/night_lich_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:lich": "2025-02-28 05:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-02-28 06:25:09 +0000"
     },
     "done": true
   },
