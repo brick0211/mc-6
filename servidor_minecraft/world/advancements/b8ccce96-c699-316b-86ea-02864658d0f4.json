@@ -11281,6 +11281,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-02-28 22:31:16 +0000",
       "in_better_monster_room": "2025-02-24 02:41:24 +0000",
       "in_better_spider_dungeon": "2025-02-27 20:10:05 +0000"
     },
@@ -22535,15 +22536,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
+  "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
     "criteria": {
-      "has_ender_eye": "2025-02-28 06:25:12 +0000"
+      "has_icicle": "2025-02-28 04:48:46 +0000"
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "frostiful:recipes/misc/ice": {
     "criteria": {
-      "in_stronghold_betterstrongholds": "2025-02-28 06:15:08 +0000"
+      "has_icicle": "2025-02-28 04:48:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-28 05:16:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-28 05:16:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/heart_pottery_sherd": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-02-28 05:18:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/heart_of_the_sea_with_water": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-02-28 05:18:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_ring": {
+    "criteria": {
+      "has_item": "2025-02-28 05:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-02-28 05:25:23 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-02-28 05:38:26 +0000"
     },
     "done": true
   },
@@ -22553,15 +22596,39 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/end": {
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-02-28 05:39:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cookie": {
+    "criteria": {
+      "has_cookie": "2025-02-28 05:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-02-28 06:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-02-28 06:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-02-28 06:25:12 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/heart_pottery_sherd": {
+  "travelersbackpack:recipes/misc/end": {
     "criteria": {
-      "has_heart_of_the_sea": "2025-02-28 05:18:05 +0000"
+      "has_ender_eye": "2025-02-28 06:25:12 +0000"
     },
     "done": true
   },
@@ -22589,36 +22656,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
-    "criteria": {
-      "has_golden_chestplate": "2025-02-28 05:16:09 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/cookie": {
-    "criteria": {
-      "has_cookie": "2025-02-28 05:58:56 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/heart_of_the_sea_with_water": {
-    "criteria": {
-      "has_heart_of_the_sea": "2025-02-28 05:18:05 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/ember_robe_chestplate": {
-    "criteria": {
-      "has_evocation_robe_chestplate": "2025-02-28 06:30:19 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/water_ring": {
-    "criteria": {
-      "has_item": "2025-02-28 05:18:05 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/itemfinder": {
     "criteria": {
       "has_item": "2025-02-28 06:25:12 +0000"
@@ -22631,27 +22668,9 @@
     },
     "done": true
   },
-  "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
-    "criteria": {
-      "has_icicle": "2025-02-28 04:48:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sponge": {
-    "criteria": {
-      "has_wet_sponge": "2025-02-28 05:25:23 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/base_armors/teleportation_robe_helmet": {
     "criteria": {
       "has_ender_eye": "2025-02-28 06:25:12 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
-    "criteria": {
-      "has_golden_leggings": "2025-02-28 05:16:08 +0000"
     },
     "done": true
   },
@@ -22667,21 +22686,15 @@
     },
     "done": true
   },
-  "frostiful:recipes/misc/ice": {
-    "criteria": {
-      "has_icicle": "2025-02-28 04:48:46 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/redstone/ender_eye_block": {
     "criteria": {
       "has_item": "2025-02-28 06:25:12 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/grass_block": {
+  "mcda:recipes/unique_armors/ember_robe_chestplate": {
     "criteria": {
-      "has_grass_block": "2025-02-28 05:39:31 +0000"
+      "has_evocation_robe_chestplate": "2025-02-28 06:30:19 +0000"
     },
     "done": true
   },
@@ -22691,15 +22704,111 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
     "criteria": {
-      "bosses_of_mass_destruction:lich": "2025-02-28 05:38:26 +0000"
+      "has_snow_block": "2025-02-28 22:43:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "advancednetherite:recipes/misc/lodestone": {
     "criteria": {
-      "has_the_recipe": "2025-02-28 06:25:09 +0000"
+      "has_chiseled_stone_bricks": "2025-02-28 22:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-28 22:13:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2025-02-28 22:19:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-02-28 22:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-28 22:19:08 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-02-28 22:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-28 22:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-02-28 22:33:46 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2025-02-28 22:44:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-02-28 22:19:08 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-02-28 22:24:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2025-02-28 22:39:08 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-02-28 22:19:08 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_block": {
+    "criteria": {
+      "has_snow_block": "2025-02-28 22:43:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-02-28 22:19:08 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/undead_eye_recipe": {
+    "criteria": {
+      "soul": "2025-02-28 22:19:54 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-28 22:31:16 +0000"
     },
     "done": true
   },

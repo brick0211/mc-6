@@ -3032,3 +3032,281 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:15:16] [Server thread/INFO]: <Brick_123> ME ESCUCHAS NIKUS MARICON
 [22:15:18] [Server thread/INFO]: <Brick_123> ?=
 [22:15:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2654ms or 53 ticks behind
+[22:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6268ms or 125 ticks behind
+[22:15:58] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -4285.500000, 65.500000, -8876.500000]
+[22:16:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3743ms or 74 ticks behind
+[22:16:08] [Server thread/INFO]: Brick_123 claimed a grave belonging to Brick_123 at -4286, 65, -8877, minecraft:overworld
+[22:16:12] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-4070, y=-11, z=-8875}
+[22:16:12] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-4072, y=-11, z=-8875}
+[22:16:17] [Server thread/INFO]: [EMI] Setback cheated in 64 cobblestone
+[22:16:20] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -1070.500000, 63.500000, -937.500000]
+[22:16:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5820ms or 116 ticks behind
+[22:16:27] [Server thread/INFO]: Brick_123 was killed by magic
+[22:16:30] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[22:16:30] [Server thread/INFO]: Search succeeded: 590 radius, 163 samples
+[22:16:31] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[22:16:38] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -1070.500000, 63.500000, -937.500000]
+[22:16:39] [Server thread/INFO]: [EMI] Setback cheated in 64 cooked_beef
+[22:16:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
+[22:16:55] [Server thread/INFO]: Brick_123 claimed a grave belonging to Brick_123 at -1071, 63, -938, minecraft:overworld
+[22:17:10] [Server thread/INFO]: [EMI] Setback cheated in 1 lava_bucket
+[22:17:37] [Server thread/INFO]: [EMI] Setback cheated in 64 oak_log
+[22:17:49] [Server thread/INFO]: <Brick_123> TENEMOS CALABAZA OE FANDA
+[22:18:02] [Server thread/INFO]: <fandangolol> enel de comida
+[22:18:12] [Server thread/INFO]: [EMI] Setback cheated in 1 diamond_axe
+[22:18:29] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell rogues:whirlwind Entity not found: 11985
+[22:18:29] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell rogues:whirlwind Entity not found: 11984
+[22:18:29] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell rogues:whirlwind Entity not found: 12113
+[22:18:29] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell rogues:whirlwind Entity not found: 12111
+[22:18:30] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell rogues:whirlwind Entity not found: 12114
+[22:18:44] [Server thread/INFO]: <Setback> no aguanto la voz de nikus XD
+[22:18:50] [Server thread/INFO]: <Brick_123> suicidate man
+[22:18:58] [Server thread/INFO]: <Nikuus> suicidate man
+[22:19:04] [Server thread/INFO]: <Nikuus> que ladilla
+[22:19:23] [Server thread/INFO]: <Nikuus> setback de mierda
+[22:19:28] [Server thread/INFO]: <Nikuus> caca andante
+[22:19:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22:19:40] [Server thread/INFO]: <Setback> te baneo del server tambien mierda
+[22:19:48] [Server thread/INFO]: <Nikuus> a quien vas a banear tu
+[22:19:50] [Server thread/INFO]: <Brick_123> ven call cagada andante
+[22:19:50] [Server thread/INFO]: <Nikuus> que laddila
+[22:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22:19:57] [Server thread/INFO]: <Nikuus> no me deja
+[22:20:18] [Server thread/INFO]: <Brick_123> VEN CALL MARICON
+[22:20:36] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: death_knights:unholy isComplete: true
+[22:20:57] [Server thread/INFO]: [EMI] Setback cheated in 64 diamond_chest
+[22:21:10] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot read field "cost" because "spell" is null
+	at net.spell_engine.internals.SpellHelper.cooldownToSet(SpellHelper.java:344) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.spell_engine.internals.SpellHelper.imposeCooldown(SpellHelper.java:321) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at elocindev.deathknights.spells.unholy.DeathGripHandler.lambda$register$0(DeathGripHandler.java:61) ~[death_knights-fabric-1.0.0-1.20.1.jar:?]
+	at net.spell_engine.internals.SpellHelper.lambda$performSpell$2(SpellHelper.java:314) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.spell_engine.api.event.Event.invoke(Event.java:20) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.spell_engine.internals.SpellHelper.performSpell(SpellHelper.java:314) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.spell_engine.network.ServerNetwork.lambda$initializeHandlers$5(ServerNetwork.java:62) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22:21:23] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot read field "cost" because "spell" is null
+	at net.spell_engine.internals.SpellHelper.cooldownToSet(SpellHelper.java:344) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.spell_engine.internals.SpellHelper.imposeCooldown(SpellHelper.java:321) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at elocindev.deathknights.spells.unholy.DeathGripHandler.lambda$register$0(DeathGripHandler.java:61) ~[death_knights-fabric-1.0.0-1.20.1.jar:?]
+	at net.spell_engine.internals.SpellHelper.lambda$performSpell$2(SpellHelper.java:314) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.spell_engine.api.event.Event.invoke(Event.java:20) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.spell_engine.internals.SpellHelper.performSpell(SpellHelper.java:314) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.spell_engine.network.ServerNetwork.lambda$initializeHandlers$5(ServerNetwork.java:62) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22:22:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22:22:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2460ms or 49 ticks behind
+[22:22:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2767ms or 55 ticks behind
+[22:22:50] [Server thread/INFO]: Nikuus was slain by Brick_123
+[22:22:53] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[22:22:56] [Server thread/INFO]: Nikuus claimed a grave belonging to Nikuus at -1070, 63, -939, minecraft:overworld
+[22:23:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3451ms or 69 ticks behind
+[22:23:07] [Server thread/INFO]: [EMI] Setback cheated in 64 cracked_stone_bricks
+[22:23:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3083ms or 61 ticks behind
+[22:23:28] [Server thread/INFO]: [EMI] Setback cheated in 64 compass
+[22:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+[22:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[22:24:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[22:24:31] [Server thread/INFO]: Brick_123 has made the advancement [Cover Me In Emeralds]
+[22:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2581ms or 51 ticks behind
+[22:24:42] [Server thread/INFO]: [EMI] Setback cheated in 1 cinderstone_trophy
+[22:24:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3774ms or 75 ticks behind
+[22:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3329ms or 66 ticks behind
+[22:25:19] [Server thread/INFO]: [EMI] Setback cheated in 64 cobweb
+[22:25:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4416ms or 88 ticks behind
+[22:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4772ms or 95 ticks behind
+[22:26:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4118ms or 82 ticks behind
+[22:26:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4617ms or 92 ticks behind
+[22:26:37] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to 425.500000, 106.500000, -2406.500000]
+[22:26:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6274ms or 125 ticks behind
+[22:27:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9739ms or 194 ticks behind
+[22:27:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7684ms or 153 ticks behind
+[22:27:49] [Server thread/INFO]: fandangolol has made the advancement [Sky of Beginning]
+[22:27:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8399ms or 167 ticks behind
+[22:28:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7683ms or 153 ticks behind
+[22:28:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8714ms or 174 ticks behind
+[22:28:47] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot read field "cost" because "spell" is null
+	at net.spell_engine.internals.SpellHelper.cooldownToSet(SpellHelper.java:344) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.spell_engine.internals.SpellHelper.imposeCooldown(SpellHelper.java:321) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at elocindev.deathknights.spells.unholy.DeathGripHandler.lambda$register$0(DeathGripHandler.java:61) ~[death_knights-fabric-1.0.0-1.20.1.jar:?]
+	at net.spell_engine.internals.SpellHelper.lambda$performSpell$2(SpellHelper.java:314) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.spell_engine.api.event.Event.invoke(Event.java:20) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.spell_engine.internals.SpellHelper.performSpell(SpellHelper.java:314) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.spell_engine.network.ServerNetwork.lambda$initializeHandlers$5(ServerNetwork.java:62) ~[spell_engine-0.15.12+1.20.1.jar:?]
+	at net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22:29:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10062ms or 201 ticks behind
+[22:29:32] [Server thread/INFO]: [fandangolol: Teleported fandangolol to -1895.500000, 65.500000, -2697.500000]
+[22:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9977ms or 199 ticks behind
+[22:29:42] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -4415.500000, 100.500000, -7853.500000]
+[22:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8081ms or 161 ticks behind
+[22:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7127ms or 142 ticks behind
+[22:30:33] [Server thread/INFO]: <Brick_123> A
+[22:30:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9279ms or 185 ticks behind
+[22:31:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6542ms or 130 ticks behind
+[22:31:16] [Server thread/INFO]: Brick_123 has made the advancement [When in Rome]
+[22:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9578ms or 191 ticks behind
+[22:31:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9195ms or 183 ticks behind
+[22:31:55] [Server thread/INFO]: [EMI] Setback cheated in 64 polished_blackstone_bricks
+[22:32:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9621ms or 192 ticks behind
+[22:32:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8146ms or 162 ticks behind
+[22:32:58] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 23099
+[22:32:58] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 23099
+[22:32:59] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 23099
+[22:32:59] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 23099
+[22:33:00] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 23099
+[22:33:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9103ms or 182 ticks behind
+[22:33:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8421ms or 168 ticks behind
+[22:33:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8102ms or 162 ticks behind
+[22:34:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8410ms or 168 ticks behind
+[22:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8893ms or 177 ticks behind
+[22:35:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8699ms or 173 ticks behind
+[22:35:22] [Server thread/WARN]: UUID of added entity already exists: class_1451['Cat'/25837, l='ServerLevel[world]', x=-4479.23, y=71.00, z=-8819.74]
+[22:35:22] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2217, y=-42, z=-2869}
+[22:35:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9223ms or 184 ticks behind
+[22:35:40] [Server thread/INFO]: <Brick_123> a
+[22:35:48] [Server thread/INFO]: SearchWorkerManager 131d2339: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[22:35:49] [Server thread/INFO]: SearchWorkerManager 131d2339: RandomSpreadSearchWorker succeeded with 2999 radius, 7 samples
+[22:35:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8216ms or 164 ticks behind
+[22:36:09] [Server thread/INFO]: <Brick_123> a
+[22:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9189ms or 183 ticks behind
+[22:36:16] [Server thread/INFO]: Nikuus has made the advancement [Path of Arcane]
+[22:36:21] [Server thread/WARN]: UUID of added entity already exists: class_1674['Fireball'/27603, l='ServerLevel[world]', x=-4192.52, y=1335.52, z=-9121.11]
+[22:36:36] [Server thread/INFO]: Nikuus has made the advancement [Magic Attunement]
+[22:36:36] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:arcane isComplete: false
+[22:36:37] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:arcane isComplete: false
+[22:36:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7404ms or 148 ticks behind
+[22:36:38] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:arcane isComplete: false
+[22:36:39] [Server thread/INFO]: Nikuus has completed the challenge [Mind Mastery]
+[22:36:39] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:arcane isComplete: true
+[22:36:42] [Server thread/INFO]: [EMI] Setback cheated in 64 obsidian
+[22:37:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8102ms or 162 ticks behind
+[22:37:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9897ms or 197 ticks behind
+[22:37:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9458ms or 189 ticks behind
+[22:38:06] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 28389
+[22:38:08] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2383, y=-31, z=-2960}
+[22:38:10] [Server thread/INFO]: [EMI] Setback cheated in 64 blackstone_pedestal
+[22:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9993ms or 199 ticks behind
+[22:38:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7492ms or 149 ticks behind
+[22:38:43] [Worker-Main-11/ERROR]: ThreadLocalRandom accessed from a different thread (owner: Server thread, current: Worker-Main-11)
+Possible solutions: Find possible causes in the stack trace below and report to the corresponding mod authors 
+
+java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a different thread (owner: Server thread, current: Worker-Main-11)
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.handleNotOwner(CheckedThreadLocalRandom.java:51) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.isSafe(CheckedThreadLocalRandom.java:38) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.next(CheckedThreadLocalRandom.java:82) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at net.minecraft.util.math.random.BaseRandom.nextInt(BaseRandom.java:33) ~[server-intermediary.jar:?]
+	at net.minecraft.util.math.random.Random.nextBetween(net/minecraft/class_5819.java:52) ~[server-intermediary.jar:?]
+	at com.github.thedeathlycow.frostiful.entity.WindEntity.<init>(WindEntity.java:50) ~[frostiful-1.0.8.jar:?]
+	at com.github.thedeathlycow.frostiful.entity.FreezingWindEntity.<init>(FreezingWindEntity.java:18) ~[frostiful-1.0.8.jar:?]
+	at net.minecraft.entity.EntityType.create(net/minecraft/class_1299.java:544) ~[server-intermediary.jar:?]
+	at net.minecraft.entity.EntityType.method_17846(net/minecraft/class_1299.java:548) ~[server-intermediary.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.entity.EntityType.getEntityFromNbt(net/minecraft/class_1299.java:548) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.yungsapi_getEntity(com/yungnickyoung/minecraft/yungsapi/mixin/EntityProcessorMixin.java [yungsapi_fabric.mixins.json]:126) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.handler$jif001$yungsapi$processEntities(com/yungnickyoung/minecraft/yungsapi/mixin/EntityProcessorMixin.java [yungsapi_fabric.mixins.json]:62) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.place(net/minecraft/class_3499.java:347) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.pool.SinglePoolElement.generate(net/minecraft/class_3781.java:124) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.PoolStructurePiece.generate(net/minecraft/class_3790.java:89) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.PoolStructurePiece.generate(net/minecraft/class_3790.java:85) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureStart.place(net/minecraft/class_3449.java:100) ~[server-intermediary.jar:?]
+	at net.minecraft.world.gen.chunk.ChunkGenerator.method_38265(net/minecraft/class_2794.java:320) ~[server-intermediary.jar:?]
+	at com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422) ~[guava-31.1-jre.jar:?]
+	at net.minecraft.world.gen.chunk.ChunkGenerator.generateFeatures(net/minecraft/class_2794.java:319) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus.method_51375(net/minecraft/class_2806.java:108) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus$SimpleGenerationTask.doWork(ChunkStatus.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus.runGenerationTask(net/minecraft/class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.server.world.ThreadedAnvilChunkStorage.method_17225(net/minecraft/class_3898.java:684) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.server.world.ThreadedAnvilChunkStorage.method_17224(net/minecraft/class_3898.java:673) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.world.ChunkTaskPrioritySystem.method_17634(ChunkTaskPrioritySystem.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.runNext(TaskExecutor.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.runWhile(TaskExecutor.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.run(TaskExecutor.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[22:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8371ms or 167 ticks behind
+[22:39:04] [Server thread/INFO]: [EMI] Setback cheated in 1 quick_bow
+[22:39:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8596ms or 171 ticks behind
+[22:39:28] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[22:39:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11837ms or 236 ticks behind
+[22:40:11] [Worker-Main-10/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[22:40:11] [Worker-Main-10/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[22:40:21] [Worker-Main-24/WARN]: Empty or non-existent pool: graveyard:large_walled_graveyard/small_crypt_pool
+[22:40:21] [Worker-Main-24/WARN]: Empty or non-existent pool: graveyard:large_walled_graveyard/small_crypt_pool
+[22:40:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15834ms or 316 ticks behind
+[22:40:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13811ms or 276 ticks behind
+[22:40:53] [Worker-Main-24/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
+[22:40:55] [Worker-Main-24/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[22:41:00] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2402, y=-35, z=-3130}
+[22:41:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15522ms or 310 ticks behind
+[22:41:30] [Server thread/INFO]: Brick_123 was killed by magic
+[22:41:32] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[22:41:36] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -4258.500000, 65.500000, -8865.500000]
+[22:41:38] [Server thread/INFO]: Brick_123 claimed a grave belonging to Brick_123 at -4259, 65, -8866, minecraft:overworld
+[22:41:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12096ms or 241 ticks behind
+[22:42:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8172ms or 163 ticks behind
+[22:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8892ms or 177 ticks behind
+[22:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8576ms or 171 ticks behind
+[22:43:13] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -1070.500000, 63.500000, -937.500000]
+[22:43:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8574ms or 171 ticks behind
+[22:43:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5255ms or 105 ticks behind
+[22:43:48] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[22:43:57] [Server thread/INFO]: [EMI] Setback cheated in 1 enchanted_book
+[22:43:57] [Server thread/INFO]: Search succeeded: 5613 radius, 11815 samples
+[22:44:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5938ms or 118 ticks behind
+[22:44:17] [Server thread/INFO]: [fandangolol: Teleported fandangolol to -1070.500000, 63.500000, -937.500000]
+[22:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4582ms or 91 ticks behind
+[22:44:27] [Server thread/INFO]: Brick_123 has made the advancement [Trick-or-Treat?]
+[22:44:27] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[22:44:33] [Server thread/INFO]: Search succeeded: 4310 radius, 8043 samples
+[22:44:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
+[22:45:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22:45:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
+[22:45:33] [Server thread/INFO]: [Nikuus: Teleported Nikuus to Brick_123]
+[22:45:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3875ms or 77 ticks behind
+[22:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2464ms or 49 ticks behind
