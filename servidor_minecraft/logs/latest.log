@@ -1669,3 +1669,311 @@ java.lang.IllegalArgumentException: Book seasonsextras:seasonal_compendium has u
 [19:25:07] [main/WARN]: @ModifyConstant conflict. Skipping connectivity.mixins.json:ClientboundCustomPayloadPacketMixin from mod connectivity->@ModifyConstant::modifyLimit(I)I with priority 1, already redirected by packetfixer.mixins.json:CustomPayloadS2CPacketMixin from mod packetfixer->@ModifyConstant::newSize(I)I with priority 9999
 [19:25:07] [main/WARN]: @ModifyConstant conflict. Skipping xlpackets.mixins.json:ClientboundCustomPayloadPacketMixin from mod thiccpackets->@ModifyConstant::xlPackets(I)I with priority 1000, already redirected by packetfixer.mixins.json:CustomPayloadS2CPacketMixin from mod packetfixer->@ModifyConstant::newSize(I)I with priority 9999
 [19:25:07] [main/INFO]: [Ping-Wheel] Init
+[19:25:08] [main/INFO]: Registering C2S receiver with id powah:packet
+[19:25:08] [main/INFO]: File exists, reading config for elocindev.prominent.config.ServerConfig.
+[19:25:08] [main/INFO]: Config for elocindev.prominent.config.ServerConfig read successfully.
+[19:25:08] [main/INFO]: File exists, reading config for elocindev.prominent.config.BossLevels.
+[19:25:08] [main/INFO]: Config for elocindev.prominent.config.BossLevels read successfully.
+[19:25:08] [main/INFO]: File exists, reading config for elocindev.prominent.config.ItemLevels.
+[19:25:08] [main/INFO]: Config for elocindev.prominent.config.ItemLevels read successfully.
+[19:25:08] [main/INFO]: Registered Prominent Sounds
+[19:25:08] [main/INFO]: Registered Prominent Items
+[19:25:08] [main/INFO]: Loaded Prominent Config
+[19:25:08] [main/INFO]: Registered Prominent Sounds
+[19:25:08] [main/INFO]: Registered Prominent Items
+[19:25:08] [main/INFO]: File exists, reading config for elocindev.prominent_talents.config.Config.
+[19:25:08] [main/INFO]: Config for elocindev.prominent_talents.config.Config read successfully.
+[19:25:08] [main/INFO]: Registered Prominent Talents Sounds
+[19:25:08] [main/INFO]: File exists, reading config for elocindev.protbalancer.config.ProtectionBalancerConfig.
+[19:25:08] [main/INFO]: Config for elocindev.protbalancer.config.ProtectionBalancerConfig read successfully.
+[19:25:08] [main/INFO]: Constructing common components for puzzlesapi:iteminteractions
+[19:25:08] [main/INFO]: Constructing common components for puzzlesapi:slotcycling
+[19:25:08] [main/INFO]: Constructing common components for puzzlesapi:limitlesscontainers
+[19:25:08] [main/INFO]: Constructing common components for puzzleslib:main
+[19:25:08] [main/INFO]: Registered bogey styles from railways
+[19:25:08] [main/INFO]: Registering data fixers
+[19:25:08] [main/INFO]: 0 Datafixer optimizations took 0 milliseconds
+[19:25:09] [main/INFO]: Registering tracks for Hex Casting
+[19:25:09] [main/INFO]: Registering tracks for Oh The Biomes You'll Go
+[19:25:09] [main/INFO]: Registering tracks for Blue Skies
+[19:25:09] [main/INFO]: Registering tracks for Twilight Forest
+[19:25:09] [main/INFO]: Registering tracks for Biomes O' Plenty
+[19:25:09] [main/INFO]: Registering tracks for Nature's Spirit
+[19:25:09] [main/INFO]: Registering tracks for Dreams and Desires
+[19:25:09] [main/INFO]: Registering tracks for Quark
+[19:25:09] [main/INFO]: Registering tracks for TerraFirmaCraft
+[19:25:09] [Thread-3/WARN]: Configuration file ./config/railways-common.toml could not be parsed. Correcting
+[19:25:09] [Thread-3/WARN]: Configuration file /workspaces/mc-6/servidor_minecraft/./config/railways-common.toml is not correct. Correcting
+[19:25:09] [Thread-3/WARN]: Incorrect key registerMissingTracks was corrected from null to its default, false. 
+[19:25:09] [Thread-3/WARN]: Incorrect key disableDatafixer was corrected from null to its default, false. 
+[19:25:09] [main/INFO]: Reacharound Initializing.
+[19:25:09] [main/INFO]: Reacharound Initialized.
+[19:25:09] [main/INFO]: File exists, reading config for elocindev.rebalance.config.ReBalanceConfig.
+[19:25:09] [main/INFO]: Config for elocindev.rebalance.config.ReBalanceConfig read successfully.
+[19:25:09] [main/INFO]: [Regions Unexplored] generating and loading config
+[19:25:09] [main/INFO]: File exists, reading config for elocindev.resistance_balancer.config.ResistanceBalancerConfig.
+[19:25:09] [main/INFO]: Config for elocindev.resistance_balancer.config.ResistanceBalancerConfig read successfully.
+[19:25:09] [main/INFO]: Hello Fabric world!
+[19:25:09] [main/INFO]: [Fabric Seasons] Trying to read config file...
+[19:25:09] [main/INFO]: [Fabric Seasons] A config file was found, loading it..
+[19:25:09] [main/INFO]: [Fabric Seasons] Successfully loaded config file.
+[19:25:09] [main/INFO]: [Fabric Seasons] Successfully loaded seasonscroptopiacompat 1.0 for croptopia 2.2.2
+[19:25:09] [main/INFO]: [Fabric Seasons] Successfully loaded seasonsdelightcompat 1.0 for farmersdelight 1.3.9
+[19:25:09] [main/INFO]: Shield API initialized!
+[19:25:09] [main/INFO]: File exists, reading config for elocin.shield_overhaul.config.server.ShieldConfig.
+[19:25:09] [main/INFO]: Config for elocin.shield_overhaul.config.server.ShieldConfig read successfully.
+[19:25:09] [main/INFO]: Shield Overhaul's Config Loaded!
+[19:25:10] [main/INFO]: Registering Items for simplyskills
+[19:25:10] [main/INFO]: Registering Entities for simplyskills
+[19:25:10] [main/INFO]: Registering Eldritch End compat Items for simplyswords
+[19:25:10] [main/INFO]: [STDOUT]: Copied from /data/simplyswords/safeload_recipes/eldritch_end/dreadtide.json to /data/simplyswords/recipes/eldritch_end/dreadtide.json
+[19:25:10] [main/INFO]: [STDOUT]: /workspaces/mc-6/servidor_minecraft/config
+[19:25:10] [main/INFO]: Hello Fabric world!
+[19:25:10] [main/INFO]: Loading Configs for Sortilege
+[19:25:10] [main/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:25:10] [main/INFO]: Config initialized!
+[19:25:10] [main/INFO]: Successfully initialized Geckolib!
+[19:25:10] [main/INFO]: Successfully registered SoulsWeapons content!
+[19:25:10] [main/INFO]: Successfully registered built-in 2D model resourcepack!
+[19:25:10] [main/INFO]: Successfully registered built-in Legacy 2D Models resourcepack!
+[19:25:10] [main/INFO]: Successfully registered built-in Legacy 3D Models resourcepack!
+[19:25:10] [main/INFO]: Successfully registered built-in Fresh Animations Compat. resourcepack!
+[19:25:10] [main/INFO]: Initializing done, time taken: 250ms
+[19:25:10] [main/INFO]: Spell Engine x Open Parties and Claims
+[19:25:10] [main/INFO]: Hello Fabric world!
+[19:25:10] [main/INFO]: Creating asynchronous mapping cache executor...
+[19:25:10] [Mappings Cache Thread #1/INFO]: Verifying cache of yarn mappings...
+[19:25:10] [Mappings Cache Thread #1/INFO]: Latest build for yarn is already cached (39 hour(s) ago, refresh in 9 hour(s))
+[19:25:10] [Mappings Cache Thread #1/INFO]: Mappings for yarn build 1.20.1+build.10 are already downloaded
+[19:25:10] [Mappings Cache Thread #1/INFO]: Verified cache of yarn mappings (took 3ms)
+[19:25:10] [Mappings Cache Thread #1/INFO]: Parsing yarn mappings...
+[19:25:10] [main/INFO]: Constructing common components for stoneworks:main
+[19:25:10] [main/INFO]: Loading common config for stoneworks
+[19:25:10] [Thread-3/INFO]: Reloading common config for stoneworks
+[19:25:10] [Thread-3/INFO]: Reloading common config for stoneworks
+[19:25:11] [main/INFO]: structureessentials mod initialized
+[19:25:11] [main/INFO]: Loaded config supplementaries-common.json
+[19:25:11] [Mappings Cache Thread #1/INFO]: Parsed yarn mappings (took 501ms)
+[19:25:11] [Mappings Cache Thread #1/INFO]: Caching yarn mappings...
+[19:25:11] [Mappings Cache Thread #1/INFO]: Cached yarn mappings (took 38ms)
+[19:25:11] [Mappings Cache Thread #1/INFO]: Cached mappings have been built (took 547ms)
+[19:25:11] [Mappings Cache Thread #1/INFO]:   Classes: 6741
+[19:25:11] [Mappings Cache Thread #1/INFO]:   Methods: 24982
+[19:25:11] [Mappings Cache Thread #1/INFO]:   Fields: 28829
+[19:25:11] [ForkJoinPool.commonPool-worker-1/INFO]: Shutting down asynchronous mapping cache executor...
+[19:25:11] [ForkJoinPool.commonPool-worker-1/INFO]: Injecting into root logger...
+[19:25:11] [main/INFO]: TechReborn setup done!
+[19:25:11] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[19:25:11] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[19:25:11] [main/INFO]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[19:25:11] [main/INFO]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[19:25:11] [main/INFO]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[19:25:11] [main/INFO]: Registered region riverredux:overworld to index 3 for type OVERWORLD
+[19:25:12] [main/WARN]: Registering builtin Fabric Seasons integration with Thermoo. Note that this integration will be removed as a builtin feature in the future.
+[19:25:12] [main/INFO]: Creating environment manager EnvironmentManager{controller=com.github.thedeathlycow.thermoo.api.temperature.EmptyEnvironmentController}
+[19:25:12] [main/INFO]: Thermoo initialized
+[19:25:12] [main/INFO]: File exists, reading config for elocindev.tierify.config.CommonConfig.
+[19:25:12] [main/INFO]: Config for elocindev.tierify.config.CommonConfig read successfully.
+[19:25:12] [main/INFO]: Constructing common components for tinyskeletons:main
+[19:25:12] [main/INFO]: Constructing common components for tradingpost:main
+[19:25:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[19:25:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[19:25:12] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[19:25:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[19:25:12] [Thread-3/WARN]: Configuration file /workspaces/mc-6/servidor_minecraft/./config/treechop-common.toml is not correct. Correcting
+[19:25:12] [Thread-3/WARN]: Incorrect key mod was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key mod.enabled was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key mod.printDebugInfo was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.choppingEnabled was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.choppingEnabled.canBeFalse was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.choppingEnabled.canBeTrue was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.fellingEnabled was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.fellingEnabled.canBeFalse was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.fellingEnabled.canBeTrue was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.sneakBehavior was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.sneakBehavior.canBeNone was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.sneakBehavior.canBeInvertChopping was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.sneakBehavior.canBeInvertFelling was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.treeMustHaveLeaves was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.treeMustHaveLeaves.canBeFalse was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.treeMustHaveLeaves.canBeTrue was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.chopInCreativeMode was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.chopInCreativeMode.canBeFalse was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.chopInCreativeMode.canBeTrue was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key general.dropLootForChoppedBlocks was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.maxTreeBlocks was corrected from null to its default, 320. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.maxLeavesBlocks was corrected from null to its default, 1024. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.breakLeaves was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.ignorePersistentLeaves was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.maxBreakLeavesDistance was corrected from null to its default, 7. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.logs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.logs.blocks was corrected from null to its default, [#treechop:choppables, #minecraft:logs]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.logs.exceptions was corrected from null to its default, [minecraft:bamboo, #dynamictrees:branches, dynamictrees:trunk_shell]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.leaves was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.leaves.blocks was corrected from null to its default, [#treechop:leaves_like, #minecraft:leaves, pamhc2trees:pam[a-z]+]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.leaves.exceptions was corrected from null to its default, []. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.algorithm was corrected from null to its default, LOGARITHMIC. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.rounding was corrected from null to its default, NEAREST. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.canRequireMoreChopsThanBlocks was corrected from null to its default, false. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.logarithmic was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.logarithmic.a was corrected from null to its default, 10.0. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.linear was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.linear.chopsPerBlock was corrected from null to its default, 1.0. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.linear.baseNumChops was corrected from null to its default, 0.0. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.choppingRequiresCorrectToolForDrops was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.choppingRequiresFastBreakingTool was corrected from null to its default, false. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.preventChoppingOnRightClick was corrected from null to its default, false. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.preventChopRecursion was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.blacklist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.blacklist.blacklistOrWhitelist was corrected from null to its default, BLACKLIST. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.blacklist.items was corrected from null to its default, [botania:terra_axe, mekanism:atomic_disassembler, @lumberjack, practicaltools:iron_greataxe, practicaltools:golden_greataxe, practicaltools:diamond_greataxe, practicaltools:netherite_greataxe]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.fakePlayerChopSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.fakePlayerChopSettings.choppingEnabled was corrected from null to its default, false. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.fakePlayerChopSettings.fellingEnabled was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.fakePlayerChopSettings.treesMustHaveLeaves was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.hugeMushrooms was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.hugeMushrooms.logs was corrected from null to its default, [#c:mushroom_stems]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.hugeMushrooms.leaves was corrected from null to its default, [#c:mushroom_caps]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.hugeFungi was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.hugeFungi.logs was corrected from null to its default, [#minecraft:crimson_stems, #minecraft:warped_stems]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.hugeFungi.leaves was corrected from null to its default, [#minecraft:wart_blocks, minecraft:shroomlight]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.problematicLeavesTrees was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.problematicLeavesTrees.logs was corrected from null to its default, [tropicraft:.*_log(_.*)?, mysticbiomes:.*_log, betternether:.*_bark, betternether:.*_log]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.problematicLeavesTrees.leaves was corrected from null to its default, [tropicraft:.*_leaves(_.*)?, betternether:.*_leaves]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.API was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.API.verbose was corrected from null to its default, false. 
+[19:25:12] [Thread-3/WARN]: Configuration file /workspaces/mc-6/servidor_minecraft/./config/treechop-common.toml is not correct. Correcting
+[19:25:12] [Thread-3/WARN]: Incorrect key mod was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key mod.enabled was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key mod.printDebugInfo was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.choppingEnabled was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.choppingEnabled.canBeFalse was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.choppingEnabled.canBeTrue was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.fellingEnabled was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.fellingEnabled.canBeFalse was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.fellingEnabled.canBeTrue was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.sneakBehavior was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.sneakBehavior.canBeNone was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.sneakBehavior.canBeInvertChopping was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.sneakBehavior.canBeInvertFelling was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.treeMustHaveLeaves was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.treeMustHaveLeaves.canBeFalse was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.treeMustHaveLeaves.canBeTrue was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.chopInCreativeMode was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.chopInCreativeMode.canBeFalse was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key permissions.chopInCreativeMode.canBeTrue was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key general.dropLootForChoppedBlocks was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.maxTreeBlocks was corrected from null to its default, 320. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.maxLeavesBlocks was corrected from null to its default, 1024. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.breakLeaves was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.ignorePersistentLeaves was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.maxBreakLeavesDistance was corrected from null to its default, 7. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.logs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.logs.blocks was corrected from null to its default, [#treechop:choppables, #minecraft:logs]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.logs.exceptions was corrected from null to its default, [minecraft:bamboo, #dynamictrees:branches, dynamictrees:trunk_shell]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.leaves was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.leaves.blocks was corrected from null to its default, [#treechop:leaves_like, #minecraft:leaves, pamhc2trees:pam[a-z]+]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key treeDetection.leaves.exceptions was corrected from null to its default, []. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.algorithm was corrected from null to its default, LOGARITHMIC. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.rounding was corrected from null to its default, NEAREST. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.canRequireMoreChopsThanBlocks was corrected from null to its default, false. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.logarithmic was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.logarithmic.a was corrected from null to its default, 10.0. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.linear was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.linear.chopsPerBlock was corrected from null to its default, 1.0. 
+[19:25:12] [Thread-3/WARN]: Incorrect key chopCounting.linear.baseNumChops was corrected from null to its default, 0.0. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.choppingRequiresCorrectToolForDrops was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.choppingRequiresFastBreakingTool was corrected from null to its default, false. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.preventChoppingOnRightClick was corrected from null to its default, false. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.preventChopRecursion was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.blacklist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.blacklist.blacklistOrWhitelist was corrected from null to its default, BLACKLIST. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.blacklist.items was corrected from null to its default, [botania:terra_axe, mekanism:atomic_disassembler, @lumberjack, practicaltools:iron_greataxe, practicaltools:golden_greataxe, practicaltools:diamond_greataxe, practicaltools:netherite_greataxe]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.fakePlayerChopSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.fakePlayerChopSettings.choppingEnabled was corrected from null to its default, false. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.fakePlayerChopSettings.fellingEnabled was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.general.fakePlayerChopSettings.treesMustHaveLeaves was corrected from null to its default, true. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.hugeMushrooms was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.hugeMushrooms.logs was corrected from null to its default, [#c:mushroom_stems]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.hugeMushrooms.leaves was corrected from null to its default, [#c:mushroom_caps]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.hugeFungi was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.hugeFungi.logs was corrected from null to its default, [#minecraft:crimson_stems, #minecraft:warped_stems]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.hugeFungi.leaves was corrected from null to its default, [#minecraft:wart_blocks, minecraft:shroomlight]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.problematicLeavesTrees was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.problematicLeavesTrees.logs was corrected from null to its default, [tropicraft:.*_log(_.*)?, mysticbiomes:.*_log, betternether:.*_bark, betternether:.*_log]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.trees.problematicLeavesTrees.leaves was corrected from null to its default, [tropicraft:.*_leaves(_.*)?, betternether:.*_leaves]. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.API was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19:25:12] [Thread-3/WARN]: Incorrect key compatibility.API.verbose was corrected from null to its default, false. 
+[19:25:12] [main/INFO]: [STDOUT]: TxniLib onInitialize!!
+[19:25:12] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[19:25:13] [main/INFO]: Registered JSON trade offer adapter.
+[19:25:13] [main/INFO]: Constructing common components for visualworkbench:main
+[19:25:13] [main/INFO]: [STDOUT]: Config updated!
+[19:25:13] [main/INFO]: [STDOUT]: Config loaded!
+[19:25:13] [main/INFO]: Registering C2S receiver with id wands:key_packet
+[19:25:13] [main/INFO]: Registering C2S receiver with id wands:palette_packet
+[19:25:13] [main/INFO]: Registering C2S receiver with id wands:wand_packet
+[19:25:13] [main/INFO]: Registering C2S receiver with id wands:pos_packet
+[19:25:13] [main/INFO]: Registering C2S receiver with id wands:global_settings_packet
+[19:25:13] [main/INFO]: File exists, reading config for elocindev.ysns.config.DisabledEntities.
+[19:25:13] [main/INFO]: Config for elocindev.ysns.config.DisabledEntities read successfully.
+[19:25:13] [main/INFO]: File exists, reading config for elocindev.ysns.config.PerDimensionEntities.
+[19:25:13] [main/INFO]: Config for elocindev.ysns.config.PerDimensionEntities read successfully.
+[19:25:13] [main/INFO]: You Shall Not Spawn's Config initialized
+[19:25:13] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[19:25:13] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 4 values
+[19:25:13] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[19:25:13] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[19:25:13] [main/INFO]: Registering content
+[19:25:14] [main/INFO]: Registered extendedae config for auto-sync function
+[19:25:14] [main/INFO]: Initialised items.
+[19:25:14] [main/INFO]: Initialised blocks.
+[19:25:14] [main/INFO]: Initialised block entities.
+[19:25:14] [main/INFO]: Initialised AE2WT integration.
+[19:25:14] [main/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsServer'.
+[19:25:14] [main/INFO]: Its Morbin' time
+[19:25:14] [main/INFO]: Initialized Frostiful server!
+[19:25:14] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[19:25:14] [main/INFO]: [STDOUT]: [Modpack Update Checker] Registered commands
+[19:25:14] [main/INFO]: Initialized block sets in 51ms
+[19:25:14] [main/INFO]: Loaded config dummmmmmy-common.json
+[19:25:14] [main/INFO]: Initialized color sets in 149ms
+[19:25:14] [main/INFO]: Finished mod setup in: [21, 0, 0, 0, 0, 0, 22, 8, 1] ms
+[19:25:15] [main/INFO]: Loading Open Parties and Claims!
+[19:25:15] [main/INFO]: File exists, reading config for elocindev.prominent.config.ServerConfig.
+[19:25:15] [main/INFO]: Config for elocindev.prominent.config.ServerConfig read successfully.
+[19:25:15] [main/INFO]: Initializing 'TCD Commons API' 3.5+fabric-1.20.1 as 'TCDCommonsServer'.
+[19:25:15] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[19:25:15] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[19:25:15] [Thread-3/WARN]: Configuration file /workspaces/mc-6/servidor_minecraft/./config/farmersdelight-common.toml is not correct. Correcting
+[19:25:15] [Thread-3/WARN]: Configuration file /workspaces/mc-6/servidor_minecraft/./config/farmersdelight-common.toml could not be parsed. Correcting
+[19:25:15] [Thread-3/WARN]: Configuration file /workspaces/mc-6/servidor_minecraft/./config/farmersdelight-common.toml is not correct. Correcting
+[19:25:15] [Thread-3/WARN]: Configuration file /workspaces/mc-6/servidor_minecraft/./config/farmersdelight-common.toml is not correct. Correcting
+[19:25:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:25:15] [main/ERROR]: Failed to start the minecraft server
+net.minecraft.world.level.storage.SessionLock$AlreadyLockedException: /workspaces/mc-6/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at net.minecraft.world.level.storage.SessionLock$AlreadyLockedException.create(SessionLock.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.world.level.storage.SessionLock.create(SessionLock.java:41) ~[server-intermediary.jar:?]
+	at net.minecraft.world.level.storage.LevelStorage$Session.<init>(LevelStorage.java:398) ~[server-intermediary.jar:?]
+	at net.minecraft.world.level.storage.LevelStorage.createSession(LevelStorage.java:377) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:136) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.10.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.10.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[19:26:07] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
