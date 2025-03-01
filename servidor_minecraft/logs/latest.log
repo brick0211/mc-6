@@ -2783,3 +2783,22 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:14:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3999ms or 79 ticks behind
 [21:15:21] [Server thread/INFO]: <fandangolol> me acabo de dar cuenta que fui a pata 2mil bloques cuando puede ir a la casa del setback y llegar rapido
 [21:15:33] [Server thread/INFO]: <Brick_123> xd
+[21:16:50] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to fandangolol]
+[21:17:50] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[21:17:37] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[21:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 75831ms or 1516 ticks behind
+[21:16:50] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[21:18:06] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[21:18:06] [Server thread/INFO]: fandangolol lost connection: Disconnected
+[21:18:06] [Server thread/INFO]: fandangolol left the game
+[21:18:06] [Server thread/INFO]: remove player wand
+[21:18:06] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[21:18:06] [Server thread/INFO]: Brick_123 lost connection: Disconnected
+[21:18:06] [Server thread/INFO]: Brick_123 left the game
+[21:18:06] [Server thread/INFO]: remove player wand
+[21:18:06] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[21:18:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@55a8b7dd[id=<null>,name=fandangolol,properties={},legacy=false] (/127.199.177.232:40867) lost connection: Disconnected
+[21:18:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c75bd06[id=<null>,name=Brick_123,properties={},legacy=false] (/127.55.168.40:36673) lost connection: Disconnected
+[21:18:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@2bd59478[id=<null>,name=Brick_123,properties={},legacy=false] (/127.55.168.40:39387) lost connection: Disconnected
+[21:18:06] [Server thread/INFO]: [Handshake] Sending channel query
+[21:18:06] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/mc-6/servidor_minecraft/./crash-reports/crash-2025-03-01_21.18.06-server.txt
