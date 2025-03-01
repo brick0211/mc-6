@@ -24877,5 +24877,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/minecells/sign_post_putrid": {
+    "criteria": {
+      "has_planks": "2025-03-01 20:31:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
