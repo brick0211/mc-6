@@ -24394,21 +24394,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-03-01 20:59:54 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/yellow_garnet_storage_block": {
-    "criteria": {
-      "has_yellow_garnet_gem": "2025-03-01 21:01:14 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/blackstone_lantern": {
     "criteria": {
       "has_blackstone_slab": "2025-03-01 20:47:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-03-01 20:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-01 20:59:54 +0000"
     },
     "done": true
   },
@@ -24424,24 +24424,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
-    "criteria": {
-      "has_sphalerite_dust": "2025-03-01 21:01:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
-    "criteria": {
-      "has_netherrack_stalactite": "2025-03-01 20:54:12 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/yellow_garnet_dust": {
-    "criteria": {
-      "has_tag_c_yellow_garnet_gems": "2025-03-01 21:01:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-03-01 20:59:54 +0000"
@@ -24454,9 +24436,288 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-03-01 21:01:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/sphalerite_small_dust_from_dust": {
     "criteria": {
       "has_sphalerite_dust": "2025-03-01 21:01:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/yellow_garnet_storage_block": {
+    "criteria": {
+      "has_yellow_garnet_gem": "2025-03-01 21:01:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/yellow_garnet_dust": {
+    "criteria": {
+      "has_tag_c_yellow_garnet_gems": "2025-03-01 21:01:14 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-03-01 23:24:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate_from_block": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-03-01 21:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-01 22:14:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/vacuum_freezer/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-01 23:38:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-01 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-03-01 22:10:05 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/hexblade": {
+    "criteria": {
+      "requirement": "2025-03-01 21:48:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-03-01 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_stairs_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-03-01 23:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-01 23:38:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-03-01 21:47:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/impact_core": {
+    "criteria": {
+      "has_the_recipe": "2025-03-01 23:02:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow_smithing": {
+    "criteria": {
+      "has_cow": "2025-03-01 21:43:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-03-01 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/destructor_core": {
+    "criteria": {
+      "has_the_recipe": "2025-03-01 23:03:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-03-01 23:42:51 +0000",
+      "silicon": "2025-03-01 23:42:51 +0000",
+      "engineering": "2025-03-01 23:42:50 +0000",
+      "logic": "2025-03-01 23:42:51 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-03-01 23:25:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/tungsten_grinding_head": {
+    "criteria": {
+      "has_steel_block": "2025-03-01 21:47:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube_smithing": {
+    "criteria": {
+      "has_magma_cube": "2025-03-01 22:15:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-03-01 21:47:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-01 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-01 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-03-01 21:47:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-01 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-03-01 21:47:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/ingot/steel_ingot_from_block": {
+    "criteria": {
+      "has_steel_storage_block": "2025-03-01 22:04:38 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_slab_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-03-01 23:38:53 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-03-01 23:47:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-03-01 21:47:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-01 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/reinforced_core": {
+    "criteria": {
+      "has_the_recipe": "2025-03-01 23:03:07 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_wall_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-03-01 23:38:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/steel_dust_from_block": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-03-01 21:47:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/reinforced_impact_core": {
+    "criteria": {
+      "has_the_recipe": "2025-03-01 23:03:27 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-01 23:38:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-03-01 21:47:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_shrub": {
+    "criteria": {
+      "has_pine_sapling": "2025-03-01 23:45:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-03-01 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-01 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-03-01 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper_smithing": {
+    "criteria": {
+      "has_creeper": "2025-03-01 22:50:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
+    "criteria": {
+      "has_lava_bucket": "2025-03-01 22:14:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-03-01 23:42:52 +0000"
     },
     "done": true
   },
