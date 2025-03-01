@@ -24643,9 +24643,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "betternether:recipes/building_blocks/cincinnasite_forged_smelting": {
     "criteria": {
-      "has_emerald_block": "2025-03-01 07:48:44 +0000"
+      "has_block.betternether.cincinnasite_block": "2025-03-01 06:34:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_forged_blasting_blasting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_block": "2025-03-01 06:34:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_tile_small_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_tile_large": "2025-03-01 06:34:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_tile_small": {
+    "criteria": {
+      "has_cincinnasite_tile_large": "2025-03-01 06:34:18 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ram_armor_trim_smithing_template": "2025-03-01 06:42:54 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-01 06:42:54 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-03-01 06:53:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge": {
+    "criteria": {
+      "has_sponge": "2025-03-01 07:04:01 +0000"
     },
     "done": true
   },
@@ -24655,15 +24697,15 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/silver_bullet": {
-    "criteria": {
-      "has_lost_soul": "2025-03-01 07:06:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-03-01 07:04:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/clay_ball_from_clay": {
+    "criteria": {
+      "has_clay": "2025-03-01 07:04:47 +0000"
     },
     "done": true
   },
@@ -24673,15 +24715,15 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/cincinnasite_forged_smelting": {
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
     "criteria": {
-      "has_block.betternether.cincinnasite_block": "2025-03-01 06:34:17 +0000"
+      "has_glow_goop": "2025-03-01 07:06:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp": {
+  "soulsweapons:recipes/combat/silver_bullet": {
     "criteria": {
-      "has_dried_kelp_block": "2025-03-01 07:18:04 +0000"
+      "has_lost_soul": "2025-03-01 07:06:37 +0000"
     },
     "done": true
   },
@@ -24691,39 +24733,15 @@
     },
     "done": true
   },
-  "zenith:enchanting/upgrade_seashelf": {
-    "criteria": {
-      "crystal": "2025-03-01 07:18:04 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
-    "criteria": {
-      "has_core_specification_item": "2025-03-01 07:48:44 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/misc/iron_skull": {
     "criteria": {
       "has_item": "2025-03-01 07:06:37 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/emerald_plate_from_block": {
-    "criteria": {
-      "has_emerald_block": "2025-03-01 07:48:44 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/parts/superconductor": {
     "criteria": {
       "has_energy_flow_chip": "2025-03-01 07:06:37 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
-    "criteria": {
-      "has_warden_upgrade_smithing_template": "2025-03-01 06:53:33 +0000"
     },
     "done": true
   },
@@ -24745,45 +24763,9 @@
     },
     "done": true
   },
-  "endrem:main/wither_eye": {
-    "criteria": {
-      "wither_eye": "2025-03-01 07:44:09 +0000"
-    },
-    "done": true
-  },
-  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template": {
-    "criteria": {
-      "has_ram_armor_trim_smithing_template": "2025-03-01 06:42:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-03-01 07:42:05 +0000"
-    },
-    "done": true
-  },
-  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-03-01 06:42:54 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/building_blocks/soulfire_stain": {
     "criteria": {
       "has_item": "2025-03-01 07:06:37 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sponge": {
-    "criteria": {
-      "has_sponge": "2025-03-01 07:04:01 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/clay_ball_from_clay": {
-    "criteria": {
-      "has_clay": "2025-03-01 07:04:47 +0000"
     },
     "done": true
   },
@@ -24799,45 +24781,15 @@
     },
     "done": true
   },
-  "soulsweapons:uncertainty": {
-    "criteria": {
-      "shard_of_uncertainty": "2025-03-01 07:44:57 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/cincinnasite_forged_blasting_blasting": {
-    "criteria": {
-      "has_block.betternether.cincinnasite_block": "2025-03-01 06:34:17 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
-    "criteria": {
-      "has_glow_goop": "2025-03-01 07:06:23 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
     "criteria": {
       "has_item": "2025-03-01 07:06:37 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/cincinnasite_tile_small_from_large_stonecutting": {
-    "criteria": {
-      "has_block.betternether.cincinnasite_tile_large": "2025-03-01 06:34:18 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
     "criteria": {
       "has_lost_soul": "2025-03-01 07:06:37 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/cincinnasite_tile_small": {
-    "criteria": {
-      "has_cincinnasite_tile_large": "2025-03-01 06:34:18 +0000"
     },
     "done": true
   },
@@ -24865,15 +24817,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_copper": {
-    "criteria": {
-      "has_raw_copper_block": "2025-03-01 07:50:42 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/gatling_gun": {
     "criteria": {
       "has_lost_soul": "2025-03-01 07:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-03-01 07:18:04 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/upgrade_seashelf": {
+    "criteria": {
+      "crystal": "2025-03-01 07:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-01 07:42:05 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-03-01 07:44:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:uncertainty": {
+    "criteria": {
+      "shard_of_uncertainty": "2025-03-01 07:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-01 07:48:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-01 07:48:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/emerald_plate_from_block": {
+    "criteria": {
+      "has_emerald_block": "2025-03-01 07:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-03-01 07:50:42 +0000"
     },
     "done": true
   },
