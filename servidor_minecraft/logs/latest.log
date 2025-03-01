@@ -2441,3 +2441,33 @@ BCLib - The End  BiomeSource (2e804658)
 [20:00:09] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player fandangolol. Claiming: GRAVE / Robbing: INVENTORY
 [20:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3548ms or 70 ticks behind
 [20:00:18] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[20:06:37] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[20:06:37] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[20:07:51] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[20:10:11] [Server thread/INFO]: [Handshake] Sending channel query
+[20:10:11] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[20:10:11] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[20:10:12] [Server thread/INFO]: Brick_123[/127.55.168.40:53023] logged in with entity id 1660 at (-1071.1452593780084, 63.0, -937.9683619219281)
+[20:10:12] [Server thread/INFO]: Sending server config values to client
+[20:10:12] [Server thread/INFO]: Syncing config to Brick_123 (b8ccce96-c699-316b-86ea-02864658d0f4)
+[20:10:12] [Server thread/INFO]: Loading config from file...
+[20:10:12] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:10:12] [Server thread/INFO]: Brick_123 joined the game
+[20:10:12] [Server thread/INFO]: Loading Configs for Sortilege
+[20:10:12] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:10:12] [Server thread/INFO]: PLAYER_JOIN
+[20:10:12] [Server thread/INFO]: add_player wand
+[20:10:12] [Server thread/INFO]: config sent
+[20:10:12] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[20:10:16] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[20:10:24] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Brick_123 -> Global
+[20:10:24] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Brick_123. Claiming: GRAVE / Robbing: INVENTORY
+[20:10:32] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[20:12:39] [Server thread/INFO]: <Brick_123> 2 fps
+[20:12:42] [Server thread/INFO]: <fandangolol> si
+[20:12:49] [Server thread/INFO]: <fandangolol> esa lag
+[20:13:12] [Server thread/INFO]: <fandangolol> ya se anda arreglando
+[20:13:21] [Server thread/INFO]: <Brick_123> :,v papu
+[20:13:43] [Server thread/INFO]: <Brick_123> me va asi pq tengo el gogle abierto si no se cierra el sv
+[20:13:46] [Server thread/INFO]: <Brick_123> pero ya me va 20
+[20:13:55] [Server thread/INFO]: <fandangolol> deja que te cargue todo

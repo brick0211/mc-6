@@ -24082,6 +24082,102 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/oak_pressure_plate_from_slab": {
+    "criteria": {
+      "has_oak_slab": "2025-03-01 07:08:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-03-01 07:08:43 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-03-01 07:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-01 07:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-01 07:10:00 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/deepslate_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/local_void": {
+    "criteria": {
+      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/blackstone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/nether_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/end_stone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/stone_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/red_desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-01 07:42:05 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-03-01 07:42:20 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/glaive_of_hodir": {
     "criteria": {
       "has_item": "2025-03-01 07:42:22 +0000"
@@ -24118,18 +24214,6 @@
     },
     "done": true
   },
-  "fwaystones:recipes/deepslate_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/local_void": {
-    "criteria": {
-      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
     "criteria": {
       "has_item": "2025-03-01 07:42:22 +0000"
@@ -24139,12 +24223,6 @@
   "soulsweapons:recipes/combat/moonlight_greatsword": {
     "criteria": {
       "has_lord_soul": "2025-03-01 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
-    "criteria": {
-      "has_stripped_log": "2025-03-01 07:10:00 +0000"
     },
     "done": true
   },
@@ -24166,33 +24244,9 @@
     },
     "done": true
   },
-  "fwaystones:recipes/blackstone_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/galeforce": {
     "criteria": {
       "has_item": "2025-03-01 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/oak_pressure_plate_from_slab": {
-    "criteria": {
-      "has_oak_slab": "2025-03-01 07:08:43 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/nether_brick_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
     },
     "done": true
   },
@@ -24220,33 +24274,9 @@
     },
     "done": true
   },
-  "fwaystones:recipes/end_stone_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2025-03-01 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/desert_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/wither_eye": {
-    "criteria": {
-      "wither_eye": "2025-03-01 07:42:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-03-01 07:10:00 +0000"
     },
     "done": true
   },
@@ -24262,21 +24292,9 @@
     },
     "done": true
   },
-  "fwaystones:recipes/stone_brick_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/whirligig_sawblade": {
     "criteria": {
       "has_item": "2025-03-01 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-03-01 07:42:05 +0000"
     },
     "done": true
   },
@@ -24304,12 +24322,6 @@
     },
     "done": true
   },
-  "fwaystones:recipes/red_desert_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-03-01 07:30:26 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/nightfall": {
     "criteria": {
       "has_item": "2025-03-01 07:42:22 +0000"
@@ -24328,12 +24340,6 @@
     },
     "done": true
   },
-  "twigs:recipes/tables/oak_table_slab": {
-    "criteria": {
-      "has_bamboo": "2025-03-01 07:08:43 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/moonveil": {
     "criteria": {
       "has_item": "2025-03-01 07:42:22 +0000"
@@ -24343,12 +24349,6 @@
   "soulsweapons:recipes/combat/leviathan_axe_left": {
     "criteria": {
       "has_item": "2025-03-01 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-03-01 07:10:00 +0000"
     },
     "done": true
   },
