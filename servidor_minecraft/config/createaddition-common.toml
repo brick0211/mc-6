@@ -37,10 +37,10 @@
 [rolling_mill]
 	#Rolling Mill duration in ticks.
 	#Range: > 0
-	rolling_mill_processing_duration = 100
+	rolling_mill_processing_duration = 120
 	#Rolling Mill base stress impact.
 	#Range: 0 ~ 1024
-	rolling_mill_stress = 16
+	rolling_mill_stress = 8
 #Wires
 [wires]
 	#Small Connector max output in FE/t (Energy transfer).

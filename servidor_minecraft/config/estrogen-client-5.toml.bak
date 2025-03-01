@@ -66,25 +66,3 @@
 	#.
 	#Custom Splashes on the main menu! Requires resource reload
 	estrogenSplashes = true
-#.
-#Miscellaneous settings
-[misc]
-	#.
-	#Allows you to pat entities by shift right-clicking them!
-	entityPatting = true
-#.
-#Settings for Equippable Items
-[accessory]
-	#.
-	#Render estrogen patches on the player
-	estrogenPatchRender = true
-#.
-#Compatibility between other mods settings
-[compat]
-	#.
-	#Enable ears Compatibility
-	ears = true
-	#.
-	#Enable figura Compatibility
-	figura = true
-igura = true

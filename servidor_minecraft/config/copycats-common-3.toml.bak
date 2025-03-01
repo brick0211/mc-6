@@ -1,6 +1,7 @@
 #.
 #Disables the migration of placed copycats from old versions to new ones. Setting this to true may cause copycats to lose their textures when you upgrade this mod. Restart the game to apply changes.
 disableMigration = false
+feature_categories = {}
 
 #.
 #Enable/disable features. Values on server override clients
