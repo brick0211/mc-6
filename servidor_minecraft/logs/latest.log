@@ -2510,3 +2510,24 @@ BCLib - The End  BiomeSource (2e804658)
 [20:43:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
 [20:44:07] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 11508
 [20:44:19] [Worker-Main-43/INFO]: [betternether] BBox:class_3341{minX=254, minY=22, minZ=-1858, maxX=434, maxY=96, maxZ=-1678}
+[20:46:12] [Server thread/INFO]: fandangolol was shot by Mutant Skeleton
+[20:46:14] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[20:46:17] [Server thread/INFO]: fandangolol was shot by Mutant Skeleton
+[20:46:17] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:46:20] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[20:46:22] [Server thread/INFO]: fandangolol was shot by Mutant Skeleton
+[20:46:22] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:46:25] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[20:46:30] [Server thread/INFO]: fandangolol was shot by Mutant Skeleton
+[20:46:30] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:46:32] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[20:46:36] [Server thread/INFO]: fandangolol was shot by Mutant Skeleton
+[20:46:36] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:46:37] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[20:46:45] [Server thread/INFO]: fandangolol claimed a grave belonging to fandangolol at -1070, 54, -935, minecraft:overworld
+[20:47:02] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 14436
+[20:48:28] [Server thread/WARN]: fandangolol moved wrongly!
+[20:50:12] [Server thread/INFO]: SearchWorkerManager b90ad626: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[20:50:12] [Server thread/INFO]: SearchWorkerManager b90ad626: RandomSpreadSearchWorker succeeded with 530 radius, 1 samples
+[20:53:42] [Server thread/INFO]: <fandangolol> lag
+[20:54:18] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 19495

@@ -5542,6 +5542,7 @@
       "minecraft:blaze": "2025-02-27 07:39:21 +0000",
       "minecraft:skeleton": "2025-02-23 21:37:34 +0000",
       "minecraft:elder_guardian": "2025-02-26 06:49:06 +0000",
+      "minecraft:zoglin": "2025-03-01 20:47:31 +0000",
       "minecraft:ravager": "2025-02-27 20:15:01 +0000",
       "minecraft:ghast": "2025-02-27 07:35:40 +0000",
       "minecraft:hoglin": "2025-02-27 07:27:40 +0000",
@@ -24385,6 +24386,12 @@
   "soulsweapons:recipes/combat/skofnung": {
     "criteria": {
       "has_lord_soul": "2025-03-01 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blackstone_lantern": {
+    "criteria": {
+      "has_blackstone_slab": "2025-03-01 20:47:45 +0000"
     },
     "done": true
   },
