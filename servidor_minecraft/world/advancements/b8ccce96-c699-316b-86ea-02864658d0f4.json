@@ -14798,6 +14798,7 @@
       "betternether:nether_grasslands": "2025-02-27 18:49:56 +0000",
       "betternether:old_swampland": "2025-02-24 05:45:32 +0000",
       "betternether:nether_swampland": "2025-02-27 18:01:14 +0000",
+      "betternether:upside_down_forest": "2025-03-01 20:51:09 +0000",
       "betternether:nether_jungle": "2025-02-27 18:04:59 +0000",
       "betternether:nether_swampland_terraces": "2025-02-27 07:09:23 +0000",
       "betternether:wart_forest": "2025-02-27 18:02:38 +0000",
@@ -24389,9 +24390,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-01 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/yellow_garnet_storage_block": {
+    "criteria": {
+      "has_yellow_garnet_gem": "2025-03-01 21:01:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blackstone_lantern": {
     "criteria": {
       "has_blackstone_slab": "2025-03-01 20:47:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_water": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-01 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-01 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-03-01 21:01:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-03-01 20:54:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/yellow_garnet_dust": {
+    "criteria": {
+      "has_tag_c_yellow_garnet_gems": "2025-03-01 21:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-01 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_mercury": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-01 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/sphalerite_small_dust_from_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-03-01 21:01:03 +0000"
     },
     "done": true
   },
