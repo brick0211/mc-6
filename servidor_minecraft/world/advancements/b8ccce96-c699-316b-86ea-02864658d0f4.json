@@ -25651,6 +25651,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-03-02 19:03:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/dark_oak_pressure_plate_from_slab": {
     "criteria": {
       "has_dark_oak_slab": "2025-03-02 17:55:50 +0000"

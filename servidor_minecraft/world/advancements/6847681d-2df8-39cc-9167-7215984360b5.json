@@ -16814,15 +16814,45 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-03-02 19:09:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_tile_wall": {
     "criteria": {
       "has_stone_tile": "2025-03-02 17:46:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-02 19:09:37 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman_smithing": {
     "criteria": {
       "has_enderman": "2025-03-02 18:15:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-03-02 19:09:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-03-02 19:09:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-03-02 19:09:37 +0000"
     },
     "done": true
   },
@@ -16835,6 +16865,12 @@
   "travelersbackpack:recipes/misc/skeleton_smithing": {
     "criteria": {
       "has_skeleton": "2025-03-02 18:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-02 19:09:37 +0000"
     },
     "done": true
   },
@@ -16868,6 +16904,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-03-02 19:09:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2025-03-02 19:01:35 +0000"
@@ -16883,6 +16925,18 @@
   "supplementaries:recipes/stonecutting/stone_tile_slab": {
     "criteria": {
       "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-03-02 19:09:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-03-02 19:09:37 +0000"
     },
     "done": true
   },
