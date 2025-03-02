@@ -3113,3 +3113,29 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [19:34:54] [Worker-Main-53/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [19:35:14] [Server thread/INFO]: fandangolol was slain by Wither Skeleton
 [19:35:16] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[19:36:38] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 5164446
+[19:36:53] [Server thread/INFO]: No return portal found
+[19:36:53] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[19:36:59] [Server thread/INFO]: [fandangolol: Teleported fandangolol to -488.500000, 85.500000, -374.500000]
+[19:37:34] [Server thread/INFO]: fandangolol fell from a high place
+[19:37:36] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[19:37:40] [Worker-Main-53/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-353,-57,-146],type:"minecraft:block"}}]
+[19:37:58] [Server thread/INFO]: No return portal found
+[19:37:58] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[19:38:02] [Server thread/INFO]: Brick_123 has made the advancement [Always Watching]
+[19:38:08] [Server thread/INFO]: [fandangolol: Teleported fandangolol to -469.500000, 54.500000, -387.500000]
+[19:38:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[19:38:33] [Server thread/INFO]: Brick_123 has completed the challenge [It Spreads]
+[19:38:46] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[19:39:40] [Server thread/INFO]: fandangolol claimed a grave belonging to fandangolol at -490, 85, -376, minecraft:the_nether
+[19:39:44] [Worker-Main-57/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[19:40:25] [Worker-Main-53/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[19:43:14] [Server thread/INFO]: fandangolol was slain by Wither Skeleton
+[19:43:15] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[19:43:20] [Server thread/INFO]: <fandangolol> webon
+[19:43:23] [Server thread/INFO]: <Brick_123> q
+[19:43:33] [Server thread/INFO]: <fandangolol> como mierda me pega 40 de vida un maldita wither skeleton
+[19:43:50] [Server thread/INFO]: No return portal found
+[19:43:50] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[19:43:59] [Server thread/INFO]: [fandangolol: Teleported fandangolol to -491.500000, 84.500000, -375.500000]
+[19:44:03] [Server thread/INFO]: fandangolol claimed a grave belonging to fandangolol at -492, 84, -376, minecraft:the_nether

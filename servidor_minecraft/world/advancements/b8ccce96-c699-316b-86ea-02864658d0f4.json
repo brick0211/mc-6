@@ -25615,6 +25615,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-03-02 19:34:52 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/steamed_crab": {
     "criteria": {
       "has_crab": "2025-03-02 18:01:33 +0000"
@@ -25624,6 +25630,18 @@
   "betterend:recipes/misc/end_fish_smoker": {
     "criteria": {
       "has_item.betterend.end_fish_raw": "2025-03-02 18:01:33 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:the_watcher": {
+    "criteria": {
+      "requirement": "2025-03-02 19:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-02 19:38:33 +0000"
     },
     "done": true
   },
@@ -25645,6 +25663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-03-02 19:34:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_fish_smelting": {
     "criteria": {
       "has_item.betterend.end_fish_raw": "2025-03-02 18:01:33 +0000"
@@ -25654,6 +25678,12 @@
   "zenith:enchanting/deepshelf": {
     "criteria": {
       "deepshelf": "2025-03-02 19:03:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
+    "criteria": {
+      "has_wooden_sword": "2025-03-02 19:38:45 +0000"
     },
     "done": true
   },
@@ -25678,6 +25708,12 @@
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2025-03-02 17:55:55 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/wither_rose": {
+    "criteria": {
+      "has_flower": "2025-03-02 19:34:52 +0000"
     },
     "done": true
   },
