@@ -3179,3 +3179,199 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:28:17] [Server thread/INFO]: Nikuus left the game
 [02:28:17] [Server thread/INFO]: remove player wand
 [02:28:17] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[02:30:05] [Server thread/INFO]: [EMI] Setback cheated in 64 cooked_beef
+[02:30:06] [Server thread/INFO]: [EMI] Setback cheated in 64 cooked_beef
+[02:30:28] [Server thread/INFO]: [STDOUT]: Finalizing fluid item registration
+[02:30:34] [Server thread/INFO]: fandangolol has made the advancement [Bonk!]
+[02:31:36] [Server thread/INFO]: [Setback: Teleported Setback to -4310.500000, 41.500000, -8373.500000]
+[02:31:51] [Server thread/INFO]: [EMI] Setback cheated in 1 flint_and_steel
+[02:38:37] [Server thread/INFO]: [Setback: Teleported Setback to 239.500000, 64.500000, 119.500000]
+[02:38:48] [Server thread/INFO]: [Handshake] Sending channel query
+[02:38:49] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[02:38:49] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[02:38:49] [Server thread/INFO]: Nikuus[/127.61.205.57:43095] logged in with entity id 21305 at (-1131.890728014291, 63.0, -915.1530746081762)
+[02:38:49] [Server thread/INFO]: Sending server config values to client
+[02:38:49] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[02:38:49] [Server thread/INFO]: Loading config from file...
+[02:38:49] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:38:49] [Server thread/INFO]: Nikuus joined the game
+[02:38:49] [Server thread/INFO]: Loading Configs for Sortilege
+[02:38:49] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[02:38:49] [Server thread/INFO]: PLAYER_JOIN
+[02:38:49] [Server thread/INFO]: add_player wand
+[02:38:49] [Server thread/INFO]: config sent
+[02:38:49] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[02:38:52] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[02:38:52] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[02:38:52] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[02:40:09] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[02:40:49] [Server thread/INFO]: Nikuus lost connection: Timed out
+[02:40:49] [Server thread/INFO]: Nikuus left the game
+[02:40:49] [Server thread/INFO]: remove player wand
+[02:40:49] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[02:44:41] [Server thread/INFO]: [Handshake] Sending channel query
+[02:44:41] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[02:44:41] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[02:44:42] [Server thread/INFO]: Brick_123[/127.55.168.40:59521] logged in with entity id 25008 at (-1076.699999988079, 47.0, -936.6999999880791)
+[02:44:42] [Server thread/INFO]: Sending server config values to client
+[02:44:42] [Server thread/INFO]: Syncing config to Brick_123 (b8ccce96-c699-316b-86ea-02864658d0f4)
+[02:44:42] [Server thread/INFO]: Loading config from file...
+[02:44:42] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:44:42] [Server thread/INFO]: Brick_123 joined the game
+[02:44:42] [Server thread/INFO]: Loading Configs for Sortilege
+[02:44:42] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[02:44:42] [Server thread/INFO]: PLAYER_JOIN
+[02:44:42] [Server thread/INFO]: add_player wand
+[02:44:42] [Server thread/INFO]: config sent
+[02:44:42] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[02:44:46] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[02:44:54] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Brick_123 -> Global
+[02:44:54] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Brick_123. Claiming: GRAVE / Robbing: INVENTORY
+[02:45:03] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[02:45:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[02:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2783ms or 55 ticks behind
+[02:45:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[02:45:46] [Server thread/INFO]: [EMI] Setback cheated in 16 armor_stand
+[02:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[02:46:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[02:46:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
+[02:46:44] [Server thread/INFO]: [EMI] Setback cheated in 64 timber_brace
+[02:46:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02:47:07] [Server thread/INFO]: Villager class_1646['Rashad'/24185, l='ServerLevel[world]', x=-588.97, y=73.00, z=-814.59] died, message: 'Rashad discovered the floor was lava'
+[02:47:07] [Server thread/INFO]: Named entity class_1646['Rashad'/24185, l='ServerLevel[world]', x=-588.97, y=73.00, z=-814.59] died: Rashad discovered the floor was lava
+[02:47:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:47:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02:47:30] [Server thread/INFO]: <Brick_123> ES LOS ESQUELETOS P
+[02:47:37] [Server thread/INFO]: <Brick_123> LA RAPPI CAVE
+[02:47:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02:47:52] [Server thread/INFO]: [EMI] Setback deleted 63 timber_brace
+[02:48:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[02:48:22] [Server thread/INFO]: <Brick_123> 3.4 FPS
+[02:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02:48:56] [Server thread/INFO]: [EMI] Setback cheated in 64 item_frame
+[02:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:49:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02:50:18] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[02:50:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[02:50:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2670ms or 53 ticks behind
+[02:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2788ms or 55 ticks behind
+[02:51:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2932ms or 58 ticks behind
+[02:51:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[02:51:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[02:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[02:52:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[02:52:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:53:08] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[02:53:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02:53:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[02:53:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[02:54:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2684ms or 53 ticks behind
+[02:54:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2487ms or 49 ticks behind
+[02:56:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:56:49] [Server thread/INFO]: [Handshake] Sending channel query
+[02:56:49] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[02:56:49] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[02:56:50] [Server thread/INFO]: Nikuus[/127.61.205.57:56523] logged in with entity id 33712 at (-1131.890728014291, 63.0, -915.1530746081762)
+[02:56:50] [Server thread/INFO]: Sending server config values to client
+[02:56:50] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[02:56:50] [Server thread/INFO]: Loading config from file...
+[02:56:50] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:56:50] [Server thread/INFO]: Nikuus joined the game
+[02:56:50] [Server thread/INFO]: Loading Configs for Sortilege
+[02:56:50] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[02:56:50] [Server thread/INFO]: PLAYER_JOIN
+[02:56:50] [Server thread/INFO]: add_player wand
+[02:56:50] [Server thread/INFO]: config sent
+[02:56:50] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[02:56:55] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[02:56:59] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[02:56:59] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[02:57:11] [Server thread/WARN]: Setback moved wrongly!
+[02:57:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:57:35] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[02:58:25] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 0.2615926302942171
+[02:58:25] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 0.4130664924737175
+[02:58:25] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 0.6631594978878184
+[02:58:25] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 0.9300052460453117
+[02:58:25] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 2.125
+[02:58:25] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 2.125
+[02:58:25] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 2.125
+[02:58:25] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 1.5984216081403702
+[02:58:25] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 1.234723969161223
+[02:58:25] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 0.8030465494125565
+[02:58:26] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 2.125
+[02:58:26] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 1.2950679919053982
+[02:58:26] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 0.8276929172332075
+[02:58:26] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 0.3711509460729303
+[02:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02:58:50] [Server thread/INFO]: Nikuus lost connection: Timed out
+[02:58:50] [Server thread/INFO]: Nikuus left the game
+[02:58:50] [Server thread/INFO]: remove player wand
+[02:58:50] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[02:58:57] [Server thread/INFO]: [Handshake] Sending channel query
+[02:58:58] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[02:58:58] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[02:58:58] [Server thread/INFO]: Nikuus[/127.61.205.57:47635] logged in with entity id 34952 at (-1131.890728014291, 63.0, -915.1530746081762)
+[02:58:58] [Server thread/INFO]: Sending server config values to client
+[02:58:58] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[02:58:58] [Server thread/INFO]: Loading config from file...
+[02:58:59] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:58:59] [Server thread/INFO]: Nikuus joined the game
+[02:58:59] [Server thread/INFO]: Loading Configs for Sortilege
+[02:58:59] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[02:58:59] [Server thread/INFO]: PLAYER_JOIN
+[02:58:59] [Server thread/INFO]: add_player wand
+[02:58:59] [Server thread/INFO]: config sent
+[02:58:59] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[02:58:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[02:59:01] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[02:59:02] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[02:59:02] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[02:59:27] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[02:59:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[02:59:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[03:00:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[03:00:28] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[03:00:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
+[03:00:34] [Server thread/INFO]: <Nikuus> s
+[03:00:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3732ms or 74 ticks behind
+[03:01:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4102ms or 82 ticks behind
+[03:01:23] [Server thread/INFO]: <Nikuus> a
+[03:01:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4265ms or 85 ticks behind
+[03:01:30] [Server thread/INFO]: <Nikuus> hola
+[03:01:41] [Server thread/INFO]: <Nikuus> s
+[03:01:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5509ms or 110 ticks behind
+[03:02:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2497ms or 49 ticks behind
+[03:02:18] [Server thread/INFO]: [fandangolol: Teleported Nikuus to fandangolol]
+[03:02:24] [Server thread/INFO]: [Nikuus: Teleported Nikuus to fandangolol]
+[03:02:40] [Server thread/INFO]: <Nikuus> s
+[03:03:43] [Server thread/INFO]: <Nikuus> a
+[03:04:05] [Server thread/INFO]: <Nikuus> a
+[03:04:10] [Server thread/INFO]: fandangolol has made the advancement [Arcane Power]
+[03:04:10] [Server thread/INFO]: fandangolol has reached the goal [Enchantments from the Depths]
+[03:04:10] [Server thread/INFO]: fandangolol has made the advancement [Magical Energy]
+[03:04:10] [Server thread/INFO]: fandangolol has made the advancement [Introduction to Chaos]
+[03:04:10] [Server thread/INFO]: fandangolol has reached the goal [Mastering Hell and Sea]
+[03:04:10] [Server thread/INFO]: fandangolol has made the advancement [Rolling the Dice]
+[03:04:14] [Server thread/INFO]: <Nikuus> aç
+[03:05:19] [Server thread/INFO]: Nikuus claimed a grave belonging to Nikuus at -1053, 64, -936, minecraft:overworld
+[03:06:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[03:06:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3278ms or 65 ticks behind
+[03:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
+[03:07:00] [Server thread/INFO]: Brick_123 lost connection: Disconnected
+[03:07:00] [Server thread/INFO]: Brick_123 left the game
+[03:07:00] [Server thread/INFO]: remove player wand
+[03:07:00] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[03:07:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[03:07:15] [Server thread/INFO]: <fandangolol> xaero-waypoint:dungeon:D:567:154:-808:6:false:0:Internal-overworld-waypoints
+[03:07:22] [Server thread/INFO]: <Nikuus> a
+[03:07:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03:08:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
+[03:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3701ms or 74 ticks behind
+[03:08:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4411ms or 88 ticks behind
+[03:09:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4405ms or 88 ticks behind
+[03:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4323ms or 86 ticks behind
+[03:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4868ms or 97 ticks behind
+[03:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5309ms or 106 ticks behind

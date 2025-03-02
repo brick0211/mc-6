@@ -162,6 +162,7 @@
       "redstone_abyss": "2025-02-27 07:34:20 +0000",
       "steppe": "2025-02-24 04:47:07 +0000",
       "pine_taiga": "2025-02-27 19:09:55 +0000",
+      "sparse_rainforest": "2025-03-02 02:59:58 +0000",
       "willow_forest": "2025-02-27 19:13:30 +0000",
       "frozen_tundra": "2025-02-28 05:50:21 +0000",
       "rocky_reef": "2025-02-23 21:23:11 +0000",
@@ -176,6 +177,7 @@
       "magnolia_highlands": "2025-02-27 19:12:34 +0000",
       "outback": "2025-02-23 21:16:43 +0000",
       "mountains": "2025-02-27 19:11:32 +0000",
+      "sparse_redwoods": "2025-03-02 03:00:25 +0000",
       "deciduous_forest": "2025-02-24 05:21:16 +0000",
       "boreal_forest": "2025-02-27 19:33:40 +0000",
       "glistering_meadow": "2025-02-27 18:23:44 +0000",
@@ -223,6 +225,7 @@
       "arid_mountains": "2025-02-27 06:56:39 +0000",
       "steppe": "2025-02-24 04:47:07 +0000",
       "pine_taiga": "2025-02-27 19:09:55 +0000",
+      "sparse_rainforest": "2025-03-02 02:59:58 +0000",
       "willow_forest": "2025-02-27 19:13:30 +0000",
       "frozen_tundra": "2025-02-28 05:50:21 +0000",
       "rocky_reef": "2025-02-23 21:23:11 +0000",
@@ -237,6 +240,7 @@
       "magnolia_highlands": "2025-02-27 19:12:34 +0000",
       "outback": "2025-02-23 21:16:43 +0000",
       "mountains": "2025-02-27 19:11:32 +0000",
+      "sparse_redwoods": "2025-03-02 03:00:25 +0000",
       "deciduous_forest": "2025-02-24 05:21:16 +0000",
       "boreal_forest": "2025-02-27 19:33:40 +0000",
       "towering_cliffs": "2025-02-27 19:58:21 +0000",
@@ -4448,8 +4452,10 @@
       "minecraft:sunflower_plains": "2025-02-27 19:17:13 +0000",
       "minecraft:windswept_hills": "2025-02-27 20:50:41 +0000",
       "minecraft:wooded_badlands": "2025-02-23 22:13:06 +0000",
+      "minecraft:bamboo_jungle": "2025-03-02 03:00:17 +0000",
       "minecraft:beach": "2025-02-23 21:28:00 +0000",
       "minecraft:dark_forest": "2025-02-27 19:57:21 +0000",
+      "minecraft:sparse_jungle": "2025-03-02 03:06:58 +0000",
       "minecraft:river": "2025-02-24 19:33:08 +0000",
       "minecraft:lukewarm_ocean": "2025-02-25 02:35:07 +0000",
       "minecraft:stony_shore": "2025-02-26 05:23:57 +0000",
@@ -4463,6 +4469,7 @@
       "minecraft:ice_spikes": "2025-02-28 06:33:13 +0000",
       "minecraft:desert": "2025-02-23 21:25:53 +0000",
       "minecraft:ocean": "2025-02-26 05:28:52 +0000",
+      "minecraft:jungle": "2025-03-02 03:03:16 +0000",
       "minecraft:snowy_beach": "2025-02-28 05:36:58 +0000",
       "minecraft:windswept_savanna": "2025-02-27 19:58:28 +0000",
       "minecraft:warm_ocean": "2025-02-23 22:37:49 +0000",
@@ -20657,9 +20664,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-02 02:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_medium_pot": {
+    "criteria": {
+      "has_terracotta_medium_pot": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:rageblade": {
     "criteria": {
       "rageblade": "2025-03-02 02:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_wide_pot": {
+    "criteria": {
+      "has_terracotta_wide_pot": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-02 02:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
     },
     "done": true
   },
@@ -20669,9 +20730,189 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/terracotta_thin_pot": {
+    "criteria": {
+      "has_terracotta_thin_pot": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-02 02:56:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/host_armor_trim_smithing_template": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
     "criteria": {
       "has_golden_helmet": "2025-03-02 02:14:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2025-03-02 02:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-02 02:56:10 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-03-02 02:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-02 02:56:10 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2025-03-02 02:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-02 02:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-02 02:58:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/garlic_seed": {
+    "criteria": {
+      "has_garlic": "2025-03-02 03:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-03-02 02:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_plate": {
+    "criteria": {
+      "has_terracotta_plate": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-02 02:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-03-02 02:58:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2025-03-02 02:58:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_cup": {
+    "criteria": {
+      "has_terracotta_cup": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_bowl": {
+    "criteria": {
+      "has_terracotta_bowl": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_thick_pot": {
+    "criteria": {
+      "has_terracotta_thick_pot": "2025-03-02 02:58:22 +0000"
     },
     "done": true
   },
