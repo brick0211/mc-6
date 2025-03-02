@@ -3048,3 +3048,15 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [07:32:40] [Server thread/INFO]: [Setback: Set the time to 1000]
+[07:34:27] [Server thread/INFO]: [EMI] Setback cheated in 64 obsidian
+[07:34:28] [Server thread/INFO]: [EMI] Setback cheated in 64 obsidian
+[07:34:28] [Server thread/INFO]: [EMI] Setback cheated in 64 obsidian
+[07:34:28] [Server thread/INFO]: [EMI] Setback cheated in 64 obsidian
+[07:34:28] [Server thread/INFO]: [EMI] Setback cheated in 64 obsidian
+[07:34:28] [Server thread/INFO]: [EMI] Setback cheated in 64 obsidian
+[07:40:40] [Server thread/WARN]: Lithium Class Analysis Error: Class com.faboslav.friendsandfoes.entity.PlayerIllusionEntity cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_640. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07:40:40] [Server thread/WARN]: Lithium Class Analysis Error: Class com.faboslav.friendsandfoes.entity.PlayerIllusionEntity cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_640. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07:40:44] [Server thread/INFO]: Villager class_1646['Roselle'/26, l='ServerLevel[world]', x=27.91, y=62.52, z=10.62] died, message: 'Roselle was slain by Drowned'
+[07:40:44] [Server thread/INFO]: Named entity class_1646['Roselle'/26, l='ServerLevel[world]', x=27.91, y=62.52, z=10.62] died: Roselle was slain by Drowned
+[07:41:27] [Server thread/INFO]: [EMI] Setback cheated in 16 milk_bottle
+[07:43:41] [Server thread/INFO]: [Setback: Teleported Setback to 938.500000, 130.500000, -898.500000]
