@@ -16984,27 +16984,33 @@
     },
     "done": true
   },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-03-02 20:18:42 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grass_slab": {
     "criteria": {
       "has_grass_block": "2025-03-02 20:19:16 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+  "techreborn:recipes/centrifuge/grass_block": {
     "criteria": {
-      "has_hyssop": "2025-03-02 21:05:12 +0000"
+      "has_grass_block": "2025-03-02 20:19:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray_double": {
+    "criteria": {
+      "has_item": "2025-03-02 20:37:18 +0000"
     },
     "done": true
   },
   "botania:recipes/decorations/gray_shiny_flower": {
     "criteria": {
       "has_item": "2025-03-02 20:37:22 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/sausage": {
-    "criteria": {
-      "has_cooked_beef": "2025-03-02 20:18:42 +0000"
     },
     "done": true
   },
@@ -17026,15 +17032,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/grass_block": {
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
     "criteria": {
-      "has_grass_block": "2025-03-02 20:19:16 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_gray_double": {
-    "criteria": {
-      "has_item": "2025-03-02 20:37:18 +0000"
+      "has_hyssop": "2025-03-02 21:05:12 +0000"
     },
     "done": true
   },
