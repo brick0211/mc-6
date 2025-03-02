@@ -21726,6 +21726,12 @@
     },
     "done": true
   },
+  "rpg_series:path_choose_fire": {
+    "criteria": {
+      "book": "2025-03-02 08:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-03-02 07:18:30 +0000"

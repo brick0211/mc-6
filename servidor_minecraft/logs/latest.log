@@ -3191,3 +3191,34 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [08:25:25] [Server thread/INFO]: [EMI] Setback deleted 1 flint_and_steel
 [08:25:27] [Server thread/INFO]: [EMI] Setback deleted 1 cobblestone
 [08:25:29] [Server thread/INFO]: [EMI] Setback deleted 63 fire_stone
+[08:29:45] [Server thread/INFO]: [EMI] Setback cheated in 64 experience_bottle
+[08:30:08] [Server thread/INFO]: Setback has made the advancement [Path of Fire]
+[08:31:26] [Server thread/INFO]: [EMI] Setback cheated in 64 lapis_lazuli
+[08:31:28] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: spellbladenext:fire_battlemage isComplete: false
+[08:32:32] [Server thread/INFO]: [EMI] Setback cheated in 64 fire_stone
+[08:33:09] [Server thread/INFO]: [EMI] Setback deleted 15 polished_blackstone_bricks
+[08:33:11] [Server thread/INFO]: [EMI] Setback deleted 32 netherite_ingot
+[08:33:13] [Server thread/INFO]: [EMI] Setback deleted 1 netherite_longbow
+[08:33:14] [Server thread/INFO]: [EMI] Setback deleted 5 white_banner
+[08:33:15] [Server thread/INFO]: [EMI] Setback deleted 1 golden_horse_armor
+[08:33:16] [Server thread/INFO]: [EMI] Setback deleted 47 coal
+[08:33:17] [Server thread/INFO]: [EMI] Setback deleted 23 string
+[08:33:18] [Server thread/INFO]: [EMI] Setback deleted 3 arrow
+[08:33:21] [Server thread/INFO]: [EMI] Setback deleted 30 fire_stone
+[08:34:45] [Server thread/INFO]: [Server] alguien en el sv?
+[08:34:49] [Server thread/INFO]: <Setback> yo
+[08:34:56] [Server thread/INFO]: [Server] alguien mas?
+[08:34:57] [Server thread/INFO]: <Setback> una ayudita tito o si no ya mañana
+[08:35:01] [Server thread/INFO]: <INTENCITIES> yo
+[08:35:07] [Server thread/INFO]: [Server] quieren seguir?
+[08:35:12] [Server thread/INFO]: <Setback> no entiendo lo del libro
+[08:35:15] [Server thread/INFO]: <INTENCITIES> dame 15
+[08:35:21] [Server thread/INFO]: [Server] que libro?
+[08:35:33] [Server thread/INFO]: INTENCITIES was killed by Guardian using magic
+[08:35:35] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of INTENCITIES accepted server config.
+[08:35:36] [Server thread/INFO]: <Setback> tecnicas de fuego convinado con el rogue no lo entiendo
+[08:35:43] [Server thread/INFO]: INTENCITIES claimed a grave belonging to INTENCITIES at 193, 63, 119, minecraft:overworld
+[08:35:43] [Server thread/INFO]: <Setback> como lo subo de nivel
+[08:35:55] [Server thread/INFO]: [Server] ya mañana, eso es para clases hibridas
+[08:36:11] [Server thread/INFO]: [Server] yo soy hibrido con todos los tipos de mago, pero para eso se necesita hacer dungeons miticas
+[08:36:14] [Server thread/INFO]: <Setback> ya entonces mañana me enseña
