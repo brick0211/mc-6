@@ -2961,3 +2961,13 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [18:31:51] [Server thread/INFO]: <fandangolol> bastiones o fortalezas
 [18:31:51] [Server thread/INFO]: <INTENCITIES> esta afk el bgrick
 [18:32:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18:32:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18:38:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:38:46] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[18:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[18:39:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18:40:01] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to INTENCITIES]
+[18:40:14] [Server thread/INFO]: <Brick_123> barto
+[18:40:16] [Server thread/INFO]: <Brick_123> estas en la house
+[18:40:52] [Server thread/INFO]: <fandangolol> si
+[18:42:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
