@@ -3076,3 +3076,23 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [07:53:05] [Server thread/INFO]: [EMI] Setback cheated in 1 netherite_sapphire_ring
 [07:54:11] [Server thread/INFO]: [Setback: Teleported Setback to -4310.500000, 41.500000, -8373.500000]
 [08:04:36] [Server thread/INFO]: [Setback: Teleported Setback to -3744.500000, 70.500000, -9044.500000]
+[08:07:38] [Server thread/INFO]: [Setback: Teleported Setback to -909.500000, 49.500000, 149.500000]
+[08:07:39] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:07:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[08:08:38] [Server thread/INFO]: [EMI] Setback deleted 1 netherite_prior_robe_feet
+[08:10:22] [Server thread/INFO]: [Setback: Teleported INTENCITIES to Setback]
+[08:10:22] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of INTENCITIES accepted server config.
+[08:10:40] [Server thread/INFO]: [EMI] Setback cheated in 1 potion
+[08:10:51] [Server thread/INFO]: [EMI] Setback cheated in 1 potion
+[08:11:24] [Server thread/INFO]: INTENCITIES was slain by The Decaying King
+[08:11:26] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of INTENCITIES accepted server config.
+[08:11:38] [Server thread/INFO]: [Setback: Teleported INTENCITIES to Setback]
+[08:11:39] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of INTENCITIES accepted server config.
+[08:11:48] [Server thread/INFO]: INTENCITIES claimed a grave belonging to INTENCITIES at -924, 33, 177, minecraft:the_nether
+[08:12:40] [Server thread/INFO]: INTENCITIES has completed the challenge [Oh, The Misery]
+[08:12:56] [Server thread/INFO]: INTENCITIES has completed the challenge [Steeped in Strength]
+[08:13:48] [Server thread/INFO]: [Setback: Teleported Setback to 239.500000, 64.500000, 119.500000]
+[08:13:48] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:13:59] [Server thread/INFO]: [Setback: Teleported INTENCITIES to Setback]
+[08:13:59] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of INTENCITIES accepted server config.
+[08:15:06] [Server thread/INFO]: [Setback: Teleported Setback to 833.500000, -50.500000, -971.500000]
