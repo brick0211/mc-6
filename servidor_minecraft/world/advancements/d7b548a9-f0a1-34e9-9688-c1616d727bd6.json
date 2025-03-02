@@ -2668,6 +2668,7 @@
       "minecraft:vindicator": "2025-02-27 20:14:10 +0000",
       "minecraft:magma_cube": "2025-02-26 05:51:20 +0000",
       "minecraft:spider": "2025-02-23 22:27:38 +0000",
+      "minecraft:piglin_brute": "2025-03-02 19:20:11 +0000",
       "minecraft:creeper": "2025-02-23 23:49:41 +0000",
       "minecraft:phantom": "2025-02-24 02:36:21 +0000",
       "minecraft:zombified_piglin": "2025-02-27 21:19:26 +0000",
@@ -20205,6 +20206,7 @@
       "betternether:bone_reef": "2025-02-27 21:17:50 +0000",
       "betternether:flooded_deltas": "2025-02-27 21:19:35 +0000",
       "betternether:gravel_desert": "2025-02-27 21:14:17 +0000",
+      "betternether:nether_swampland": "2025-03-02 19:16:45 +0000",
       "betternether:nether_jungle": "2025-02-27 21:12:06 +0000",
       "betternether:nether_swampland_terraces": "2025-02-25 03:07:11 +0000",
       "betternether:wart_forest": "2025-02-26 06:40:52 +0000",
@@ -25831,6 +25833,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/quartz_from_nether_quartz_ore_with_water": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-03-02 19:17:57 +0000"
+    },
+    "done": true
+  },
   "minecells:cell_crafter": {
     "criteria": {
       "use_cell_crafter": "2025-03-02 17:26:44 +0000"
@@ -25843,15 +25851,63 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_water": {
+    "criteria": {
+      "has_tag_minecraft_gold_ores": "2025-03-02 19:17:31 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/music_disc_tanker_on_the_levantines": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-03-02 19:18:47 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/runner": {
     "criteria": {
       "requirement": "2025-03-02 17:36:14 +0000"
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-03-02 19:18:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/pyrite_dust_from_pyrite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_pyrite_ores": "2025-03-02 19:23:17 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_20_grenadiers": {
     "criteria": {
       "grenadiers_killed": "2025-03-02 17:45:02 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-03-02 19:16:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/cinnabar_dust_from_cinnabar_ore_with_water": {
+    "criteria": {
+      "has_tag_c_cinnabar_ores": "2025-03-02 19:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-03-02 19:17:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_gold_ores": "2025-03-02 19:17:31 +0000"
     },
     "done": true
   },
@@ -25864,6 +25920,12 @@
   "netherdepthsupgrade:recipes/netherdepthsupgrade/soul_sucker_leather": {
     "criteria": {
       "has_soul_sucker": "2025-03-02 18:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-03-02 19:17:31 +0000"
     },
     "done": true
   },
@@ -25885,6 +25947,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-03-02 19:16:37 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-03-02 17:59:39 +0000"
@@ -25897,9 +25965,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-03-02 19:17:57 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/packed_snow_block": {
     "criteria": {
       "has_snow_block": "2025-03-02 18:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-03-02 19:17:57 +0000"
     },
     "done": true
   },
@@ -25927,6 +26007,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/refined_iron_ingot_from_pyrite_ore": {
+    "criteria": {
+      "has_pyrite_ore": "2025-03-02 19:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2025-03-02 18:01:05 +0000"
@@ -25939,9 +26025,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/raw_gold": {
+    "criteria": {
+      "has_tag_c_gold_ores": "2025-03-02 19:17:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-03-02 18:24:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_sodium_persulfate": {
+    "criteria": {
+      "has_tag_minecraft_gold_ores": "2025-03-02 19:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-02 19:18:21 +0000"
     },
     "done": true
   },

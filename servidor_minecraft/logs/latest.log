@@ -3040,3 +3040,44 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [19:13:30] [Server thread/WARN]: Boat (vehicle of INTENCITIES) moved wrongly! 0.5738374533232502
 [19:13:33] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to INTENCITIES]
 [19:14:03] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to fandangolol]
+[19:14:27] [Server thread/WARN]: Courierbird (vehicle of INTENCITIES) moved wrongly! 0.30825285326017277
+[19:14:27] [Server thread/WARN]: Courierbird (vehicle of INTENCITIES) moved wrongly! 0.8357090553298915
+[19:14:27] [Server thread/WARN]: Courierbird (vehicle of INTENCITIES) moved wrongly! 1.3766147965992417
+[19:15:23] [Server thread/INFO]: No return portal found
+[19:15:23] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[19:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19:15:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4750ms or 95 ticks behind
+[19:16:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:16:22] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -1062.500000, 63.500000, -928.500000]
+[19:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19:16:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[19:17:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:17:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[19:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4332ms or 86 ticks behind
+[19:17:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:18:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:18:21] [Server thread/INFO]: fandangolol has made the advancement [Those Were the Days]
+[19:18:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[19:18:36] [Server thread/INFO]: fandangolol has made the advancement [War Pigs]
+[19:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[19:19:12] [Server thread/INFO]: Brick_123 has made the advancement [Patience Is The Road To Wisdom]
+[19:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:19:52] [Server thread/INFO]: <Brick_123> FALTAN 3 OJOS P BARTO
+[19:20:14] [Server thread/INFO]: <Brick_123> OJO ILEO(NEGRO), UNDEAD Y
+[19:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19:20:21] [Server thread/INFO]: <Brick_123> EVIL EYE
+[19:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:21:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19:21:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:22:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:22:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:22:43] [Server thread/INFO]: <Brick_123> donde consigo el ojo ese undead
+[19:23:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19:23:43] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[19:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19:23:47] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker stopped with 6903 radius, 282 samples
+[19:23:47] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[19:23:48] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 1003 radius, 5 samples
+[19:24:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[19:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:24:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
