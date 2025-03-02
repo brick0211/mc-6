@@ -660,6 +660,7 @@
       "minecraft:deep_ocean": "2025-03-02 05:56:30 +0000",
       "minecraft:frozen_river": "2025-03-02 06:01:05 +0000",
       "minecraft:wooded_badlands": "2025-02-27 20:07:48 +0000",
+      "minecraft:bamboo_jungle": "2025-03-02 16:19:18 +0000",
       "minecraft:badlands": "2025-02-27 20:11:30 +0000",
       "minecraft:savanna_plateau": "2025-02-27 23:44:23 +0000",
       "minecraft:beach": "2025-02-24 04:58:00 +0000",
@@ -16755,6 +16756,12 @@
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-03-02 06:43:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
+    "criteria": {
+      "has_redwood_sapling": "2025-03-02 16:16:00 +0000"
     },
     "done": true
   },

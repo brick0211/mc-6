@@ -2455,3 +2455,60 @@ BCLib - Nether BiomeSource (3add3a69)
 [16:11:54] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [16:11:54] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [16:15:27] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[16:19:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:19:00] [Server thread/INFO]: nikus<--[HERE]
+[16:19:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:19:04] [Server thread/INFO]: ohayo clan<--[HERE]
+[16:19:34] [Server thread/INFO]: <Nikuus> a
+[16:19:38] [Server thread/INFO]: [Handshake] Sending channel query
+[16:19:38] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[16:19:38] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[16:19:39] [Server thread/INFO]: Brick_123[/127.55.168.40:48523] logged in with entity id 4413 at (-1070.5, 63.0, -937.5)
+[16:19:39] [Server thread/INFO]: Sending server config values to client
+[16:19:39] [Server thread/INFO]: Syncing config to Brick_123 (b8ccce96-c699-316b-86ea-02864658d0f4)
+[16:19:39] [Server thread/INFO]: Loading config from file...
+[16:19:39] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:19:39] [Server thread/INFO]: Brick_123 joined the game
+[16:19:39] [Server thread/INFO]: Loading Configs for Sortilege
+[16:19:39] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:19:39] [Server thread/INFO]: PLAYER_JOIN
+[16:19:39] [Server thread/INFO]: add_player wand
+[16:19:39] [Server thread/INFO]: config sent
+[16:19:39] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[16:19:43] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[16:19:49] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Brick_123 -> Global
+[16:19:49] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Brick_123. Claiming: GRAVE / Robbing: INVENTORY
+[16:19:55] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[16:21:58] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[16:21:58] [Server thread/INFO]: Nikuus lost connection: Disconnected
+[16:21:58] [Server thread/INFO]: Nikuus left the game
+[16:21:58] [Server thread/INFO]: remove player wand
+[16:21:58] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[16:22:48] [Server thread/INFO]: [Handshake] Sending channel query
+[16:22:48] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[16:22:48] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[16:22:49] [Server thread/INFO]: Nikuus[/127.61.205.57:45981] logged in with entity id 5385 at (-224.2671938529091, 112.88698790038063, -347.14332707254783)
+[16:22:49] [Server thread/INFO]: Sending server config values to client
+[16:22:49] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[16:22:49] [Server thread/INFO]: Loading config from file...
+[16:22:49] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:22:49] [Server thread/INFO]: Nikuus joined the game
+[16:22:49] [Server thread/INFO]: Loading Configs for Sortilege
+[16:22:49] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:22:49] [Server thread/INFO]: PLAYER_JOIN
+[16:22:49] [Server thread/INFO]: add_player wand
+[16:22:49] [Server thread/INFO]: config sent
+[16:22:49] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[16:22:52] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[16:22:52] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[16:22:52] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[16:23:06] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[16:24:29] [Server thread/INFO]: <Brick_123> NIKUS MARICON
+[16:24:35] [Server thread/INFO]: <Nikuus> sa
+[16:25:29] [Server thread/INFO]: <Nikuus> s
+[16:26:46] [Server thread/INFO]: <Nikuus> s
+[16:26:49] [Server thread/INFO]: Nikuus lost connection: Timed out
+[16:26:49] [Server thread/INFO]: Nikuus left the game
+[16:26:49] [Server thread/INFO]: remove player wand
+[16:26:49] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
