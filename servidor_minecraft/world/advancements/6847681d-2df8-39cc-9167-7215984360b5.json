@@ -15970,6 +15970,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-03-02 07:49:30 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
       "has_material": "2025-03-02 07:19:06 +0000"
@@ -15994,6 +16000,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/cherry_shrub": {
+    "criteria": {
+      "has_cherry_sapling": "2025-03-02 07:49:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/diamond_plate_from_block": {
     "criteria": {
       "has_diamond_block": "2025-03-02 07:19:06 +0000"
@@ -16003,6 +16015,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_depth": {
     "criteria": {
       "has_core_specification_item": "2025-03-02 07:19:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2025-03-02 07:49:26 +0000"
     },
     "done": true
   },

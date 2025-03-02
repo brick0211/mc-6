@@ -3060,3 +3060,18 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [07:40:44] [Server thread/INFO]: Named entity class_1646['Roselle'/26, l='ServerLevel[world]', x=27.91, y=62.52, z=10.62] died: Roselle was slain by Drowned
 [07:41:27] [Server thread/INFO]: [EMI] Setback cheated in 16 milk_bottle
 [07:43:41] [Server thread/INFO]: [Setback: Teleported Setback to 938.500000, 130.500000, -898.500000]
+[07:45:32] [Server thread/INFO]: Villager class_1646['Elva'/431, l='ServerLevel[world]', x=51.51, y=62.46, z=-7.81] died, message: 'Elva was slain by Drowned'
+[07:45:32] [Server thread/INFO]: Named entity class_1646['Elva'/431, l='ServerLevel[world]', x=51.51, y=62.46, z=-7.81] died: Elva was slain by Drowned
+[07:45:42] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[07:45:58] [Server thread/INFO]: [EMI] Setback deleted 42 obsidian
+[07:45:59] [Server thread/INFO]: [EMI] Setback deleted 64 obsidian
+[07:46:21] [Server thread/INFO]: [EMI] Setback deleted 4 obsidian
+[07:47:46] [Server thread/INFO]: [Setback: Teleported Setback to INTENCITIES]
+[07:47:56] [Server thread/INFO]: [EMI] Setback cheated in 64 birch_sapling
+[07:48:42] [Server thread/INFO]: [EMI] Setback cheated in 64 dark_oak_sapling
+[07:48:47] [Server thread/INFO]: [EMI] Setback cheated in 64 cherry_sapling
+[07:49:20] [Server thread/INFO]: [EMI] Setback cheated in 64 mikado_maple_sapling
+[07:50:59] [Server thread/INFO]: [EMI] Setback cheated in 64 pine_sapling
+[07:51:47] [Server thread/WARN]: Setback moved wrongly!
+[07:53:05] [Server thread/INFO]: [EMI] Setback cheated in 1 netherite_sapphire_ring
+[07:54:11] [Server thread/INFO]: [Setback: Teleported Setback to -4310.500000, 41.500000, -8373.500000]
