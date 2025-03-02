@@ -17038,6 +17038,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/rubber_from_rubber_sapling": {
+    "criteria": {
+      "has_rubber_sapling": "2025-03-02 23:34:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_red": {
     "criteria": {
       "has_item": "2025-03-02 23:31:41 +0000"
