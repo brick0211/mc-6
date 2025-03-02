@@ -2643,3 +2643,34 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [17:05:58] [Server thread/INFO]: Named entity class_1646['Reed'/50331, l='ServerLevel[world]', x=6999.49, y=69.00, z=1716.09] died: Reed was slain by Vindicator
 [17:08:16] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -1062.500000, 63.500000, -928.500000]
 [17:08:46] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[17:11:37] [Server thread/WARN]: Boat (vehicle of Brick_123) moved wrongly! 0.28841632666899386
+[17:11:37] [Server thread/WARN]: Boat (vehicle of Brick_123) moved wrongly! 0.3873887829809064
+[17:11:37] [Server thread/WARN]: Boat (vehicle of Brick_123) moved wrongly! 0.47574700414224935
+[17:11:37] [Server thread/WARN]: Boat (vehicle of Brick_123) moved wrongly! 0.5747111340238007
+[17:11:37] [Server thread/WARN]: Boat (vehicle of Brick_123) moved wrongly! 0.7177502416091102
+[17:11:38] [Server thread/WARN]: Boat (vehicle of Brick_123) moved wrongly! 0.25450549090669483
+[17:11:38] [Server thread/WARN]: Boat (vehicle of Brick_123) moved wrongly! 0.33776602265538713
+[17:11:38] [Server thread/WARN]: Boat (vehicle of Brick_123) moved wrongly! 0.4247544404627206
+[17:11:38] [Server thread/WARN]: Boat (vehicle of Brick_123) moved wrongly! 0.5163028379697607
+[17:16:44] [Server thread/INFO]: [Handshake] Sending channel query
+[17:16:45] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[17:16:45] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[17:16:45] [Server thread/INFO]: fandangolol[/127.199.177.232:36155] logged in with entity id 54098 at (-1063.9451061703191, 24.0, -965.2421859063948)
+[17:16:45] [Server thread/INFO]: Sending server config values to client
+[17:16:45] [Server thread/INFO]: Syncing config to fandangolol (d7b548a9-f0a1-34e9-9688-c1616d727bd6)
+[17:16:45] [Server thread/INFO]: Loading config from file...
+[17:16:45] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:16:45] [Server thread/INFO]: fandangolol joined the game
+[17:16:45] [Server thread/INFO]: Loading Configs for Sortilege
+[17:16:45] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:16:45] [Server thread/INFO]: PLAYER_JOIN
+[17:16:45] [Server thread/INFO]: add_player wand
+[17:16:45] [Server thread/INFO]: config sent
+[17:16:45] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[17:16:48] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[17:16:59] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: fandangolol -> Global
+[17:16:59] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player fandangolol. Claiming: GRAVE / Robbing: INVENTORY
+[17:17:04] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[17:19:21] [Server thread/INFO]: <Brick_123> oe barto
+[17:19:23] [Server thread/INFO]: <Brick_123> solo faltan 3 ojos
+[17:19:26] [Server thread/INFO]: <fandangolol> ??
