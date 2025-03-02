@@ -690,6 +690,7 @@
       "minecraft:hoglin": "2025-02-27 04:24:15 +0000",
       "minecraft:vindicator": "2025-02-24 04:02:34 +0000",
       "minecraft:spider": "2025-02-23 21:36:54 +0000",
+      "minecraft:creeper": "2025-03-02 20:50:25 +0000",
       "minecraft:phantom": "2025-02-24 19:15:34 +0000",
       "minecraft:witch": "2025-02-24 04:04:36 +0000",
       "minecraft:husk": "2025-02-23 21:24:19 +0000",
@@ -3318,6 +3319,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-03-02 20:37:09 +0000",
       "baked_potato": "2025-02-26 23:13:59 +0000",
       "bread": "2025-02-23 21:20:39 +0000",
       "golden_apple": "2025-02-27 04:02:35 +0000",
@@ -16778,15 +16780,105 @@
     },
     "done": true
   },
-  "zenith:enchanting/80ench": {
+  "supplementaries:recipes/stonecutting/stone_tile_stairs_from_bricks": {
     "criteria": {
-      "enchanted_item": "2025-03-02 18:18:22 +0000"
+      "has_stone_tile": "2025-03-02 17:46:40 +0000"
     },
     "done": true
   },
-  "vinery:recipes/flower_box": {
+  "supplementaries:recipes/stone_tile_wall": {
     "criteria": {
-      "has_podzol": "2025-03-02 18:52:36 +0000"
+      "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile_stairs": {
+    "criteria": {
+      "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile_slab": {
+    "criteria": {
+      "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile_slab": {
+    "criteria": {
+      "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile_wall_from_bricks": {
+    "criteria": {
+      "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/cherry_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-03-02 18:06:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/cherry_pressure_plate_from_slab": {
+    "criteria": {
+      "has_cherry_slab": "2025-03-02 18:06:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-03-02 18:06:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-03-02 18:06:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+    "criteria": {
+      "has_barrel": "2025-03-02 18:06:18 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-03-02 18:06:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-03-02 18:06:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper_smithing": {
+    "criteria": {
+      "has_creeper": "2025-03-02 18:15:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman_smithing": {
+    "criteria": {
+      "has_enderman": "2025-03-02 18:15:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton_smithing": {
+    "criteria": {
+      "has_skeleton": "2025-03-02 18:15:32 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-02 18:18:22 +0000"
     },
     "done": true
   },
@@ -16802,15 +16894,39 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/stone_tile_stairs_from_bricks": {
+  "zenith:enchanting/quanta50": {
     "criteria": {
-      "has_stone_tile": "2025-03-02 17:46:40 +0000"
+      "enchanted_item": "2025-03-02 18:18:22 +0000"
     },
     "done": true
   },
-  "twigs:recipes/tables/cherry_table_slab": {
+  "zenith:enchanting/quanta100": {
     "criteria": {
-      "has_bamboo": "2025-03-02 18:06:11 +0000"
+      "enchanted_item": "2025-03-02 18:18:22 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-02 18:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-02 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/flower_box": {
+    "criteria": {
+      "has_podzol": "2025-03-02 18:52:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-03-02 19:01:35 +0000"
     },
     "done": true
   },
@@ -16820,21 +16936,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stone_tile_wall": {
-    "criteria": {
-      "has_stone_tile": "2025-03-02 17:46:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-03-02 19:09:37 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman_smithing": {
-    "criteria": {
-      "has_enderman": "2025-03-02 18:15:30 +0000"
     },
     "done": true
   },
@@ -16856,75 +16960,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stone_tile_stairs": {
-    "criteria": {
-      "has_stone_tile": "2025-03-02 17:46:40 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/skeleton_smithing": {
-    "criteria": {
-      "has_skeleton": "2025-03-02 18:15:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-03-02 19:09:37 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
-    "criteria": {
-      "has_item": "2025-03-02 18:06:18 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/quanta50": {
-    "criteria": {
-      "enchanted_item": "2025-03-02 18:18:22 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/fermentation_barrel": {
-    "criteria": {
-      "has_barrel": "2025-03-02 18:06:18 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stone_tile_slab": {
-    "criteria": {
-      "has_stone_tile": "2025-03-02 17:46:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-03-02 18:22:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-03-02 19:09:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/map": {
-    "criteria": {
-      "has_filled_map": "2025-03-02 19:01:35 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/cherry_pressure_plate_from_slab": {
-    "criteria": {
-      "has_cherry_slab": "2025-03-02 18:06:11 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stonecutting/stone_tile_slab": {
-    "criteria": {
-      "has_stone_tile": "2025-03-02 17:46:40 +0000"
     },
     "done": true
   },
@@ -16940,45 +16984,57 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+  "vinery:recipes/grass_slab": {
     "criteria": {
-      "has_barrel": "2025-03-02 18:06:18 +0000"
+      "has_grass_block": "2025-03-02 20:19:16 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/stone_tile_wall_from_bricks": {
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
     "criteria": {
-      "has_stone_tile": "2025-03-02 17:46:40 +0000"
+      "has_hyssop": "2025-03-02 21:05:12 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/creeper_smithing": {
+  "botania:recipes/decorations/gray_shiny_flower": {
     "criteria": {
-      "has_creeper": "2025-03-02 18:15:20 +0000"
+      "has_item": "2025-03-02 20:37:22 +0000"
     },
     "done": true
   },
-  "brewery:recipes/barrel_main": {
+  "brewery:recipes/sausage": {
     "criteria": {
-      "has_barrel": "2025-03-02 18:06:18 +0000"
+      "has_cooked_beef": "2025-03-02 20:18:42 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+  "botania:recipes/misc/petal_gray": {
     "criteria": {
-      "has_item": "2025-03-02 18:06:18 +0000"
+      "has_item": "2025-03-02 20:37:22 +0000"
     },
     "done": true
   },
-  "zenith:enchanting/quanta100": {
+  "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
-      "enchanted_item": "2025-03-02 18:18:22 +0000"
+      "skeleton_creeper": "2025-03-02 20:50:30 +0000"
     },
     "done": true
   },
-  "zenith:enchanting/60ench": {
+  "graveyard:graveyard/corruption": {
     "criteria": {
-      "enchanted_item": "2025-03-02 18:18:22 +0000"
+      "corruption": "2025-03-02 20:51:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-03-02 20:19:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray_double": {
+    "criteria": {
+      "has_item": "2025-03-02 20:37:18 +0000"
     },
     "done": true
   },

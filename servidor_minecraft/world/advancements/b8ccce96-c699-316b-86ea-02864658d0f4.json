@@ -14810,13 +14810,17 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:wart_forest_edge": "2025-02-27 18:02:29 +0000",
+      "betternether:upside_down_forest_cleared": "2025-03-02 21:23:35 +0000",
       "betternether:gravel_desert": "2025-02-27 07:41:13 +0000",
       "betternether:poor_nether_grasslands": "2025-02-27 18:49:20 +0000",
+      "betternether:flooded_deltas": "2025-03-02 21:23:54 +0000",
       "betternether:crimson_pinewood": "2025-03-01 21:12:57 +0000",
       "betternether:nether_grasslands": "2025-02-27 18:49:56 +0000",
       "betternether:old_fungiwoods": "2025-03-01 21:16:09 +0000",
       "betternether:old_swampland": "2025-02-24 05:45:32 +0000",
       "betternether:nether_swampland": "2025-02-27 18:01:14 +0000",
+      "betternether:crimson_glowing_woods": "2025-03-02 21:25:06 +0000",
+      "betternether:magma_land": "2025-03-02 21:19:34 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-03-01 21:15:55 +0000",
       "betternether:upside_down_forest": "2025-03-01 20:51:09 +0000",
       "betternether:nether_jungle": "2025-02-27 18:04:59 +0000",
@@ -25609,93 +25613,15 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/end_fish_campfire": {
-    "criteria": {
-      "has_item.betterend.end_fish_raw": "2025-03-02 18:01:33 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-03-02 19:34:52 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/steamed_crab": {
-    "criteria": {
-      "has_crab": "2025-03-02 18:01:33 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_fish_smoker": {
-    "criteria": {
-      "has_item.betterend.end_fish_raw": "2025-03-02 18:01:33 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:the_watcher": {
-    "criteria": {
-      "requirement": "2025-03-02 19:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-03-02 19:38:33 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/crab_legs": {
-    "criteria": {
-      "has_crab": "2025-03-02 18:01:33 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/exotic_eye": {
-    "criteria": {
-      "exotic_eye": "2025-03-02 18:55:49 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-03-02 17:51:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-03-02 19:34:52 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_fish_smelting": {
-    "criteria": {
-      "has_item.betterend.end_fish_raw": "2025-03-02 18:01:33 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/deepshelf": {
-    "criteria": {
-      "deepshelf": "2025-03-02 19:03:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
-    "criteria": {
-      "has_wooden_sword": "2025-03-02 19:38:45 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/industrial_sawmill/dark_oak_pressure_plate_from_slab": {
     "criteria": {
       "has_dark_oak_slab": "2025-03-02 17:55:50 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/blue_dye_from_tube_coral": {
-    "criteria": {
-      "has_tube_coral": "2025-03-02 18:54:26 +0000"
     },
     "done": true
   },
@@ -25711,21 +25637,129 @@
     },
     "done": true
   },
-  "promenade:recipes/crafting/vanilla_piles/wither_rose": {
-    "criteria": {
-      "has_flower": "2025-03-02 19:34:52 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/industrial_sawmill/dark_oak_slab_from_stairs": {
     "criteria": {
       "has_dark_oak_stairs": "2025-03-02 18:00:38 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/end_fish_campfire": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-03-02 18:01:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/steamed_crab": {
+    "criteria": {
+      "has_crab": "2025-03-02 18:01:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_smoker": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-03-02 18:01:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/crab_legs": {
+    "criteria": {
+      "has_crab": "2025-03-02 18:01:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_smelting": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-03-02 18:01:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_tube_coral": {
+    "criteria": {
+      "has_tube_coral": "2025-03-02 18:54:26 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/exotic_eye": {
+    "criteria": {
+      "exotic_eye": "2025-03-02 18:55:49 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-03-02 19:03:36 +0000"
+    },
+    "done": true
+  },
   "endrem:main/cryptic_eye": {
     "criteria": {
       "cryptic_eye": "2025-03-02 19:19:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-03-02 19:34:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-03-02 19:34:52 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/wither_rose": {
+    "criteria": {
+      "has_flower": "2025-03-02 19:34:52 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:the_watcher": {
+    "criteria": {
+      "requirement": "2025-03-02 19:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-02 19:38:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
+    "criteria": {
+      "has_wooden_sword": "2025-03-02 19:38:45 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-03-02 20:42:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_galena_ores": "2025-03-02 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-03-02 20:42:41 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/rhino_leather_recipe": {
+    "criteria": {
+      "got_the_rhino_leather": "2025-03-02 20:09:57 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/rhino_meat": {
+    "criteria": {
+      "got_the_rhino_meat": "2025-03-02 20:09:57 +0000"
     },
     "done": true
   },
