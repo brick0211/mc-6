@@ -42,6 +42,25 @@ solarPanelHeatMultiplier = 1.0
 #Range: > 1
 maxWireLength = 16
 
+["Motor Extensions"]
+	#Power Multiplier of a basic motor extension
+	#Range: 1.0 ~ 1.7976931348623157E308
+	basicMotorExtensionMultiplier = 2.0
+	#Extra energy capacity of a basic motor extension
+	#Range: > 1
+	basicMotorExtensionExtraCapacity = 64000
+	#Power Multiplier of a basic motor extension
+	#Range: 1.0 ~ 1.7976931348623157E308
+	advancedMotorExtensionMultiplier = 8.0
+	#Basic motor extension scroll step
+	#Range: > 1
+	basicMotorExtensionScrollStep = 1
+	#Extra energy capacity of an advanced motor extension
+	#Range: > 1
+	advancedMotorExtensionExtraCapacity = 256000
+	#Advanced motor extension scroll step
+	#Range: > 1
+	advancedMotorExtensionScrollStep = 8
 [Motors]
 	#Internal energy capacity of a basic motor
 	#Range: > 1
@@ -73,22 +92,3 @@ maxWireLength = 16
 	#Top Speed of a basic motor
 	#Range: 1.0 ~ 1.7976931348623157E308
 	basicMotorSpeed = 128.0
-["Motor Extensions"]
-	#Power Multiplier of a basic motor extension
-	#Range: 1.0 ~ 1.7976931348623157E308
-	basicMotorExtensionMultiplier = 2.0
-	#Extra energy capacity of a basic motor extension
-	#Range: > 1
-	basicMotorExtensionExtraCapacity = 64000
-	#Power Multiplier of a basic motor extension
-	#Range: 1.0 ~ 1.7976931348623157E308
-	advancedMotorExtensionMultiplier = 8.0
-	#Basic motor extension scroll step
-	#Range: > 1
-	basicMotorExtensionScrollStep = 1
-	#Extra energy capacity of an advanced motor extension
-	#Range: > 1
-	advancedMotorExtensionExtraCapacity = 256000
-	#Advanced motor extension scroll step
-	#Range: > 1
-	advancedMotorExtensionScrollStep = 8
