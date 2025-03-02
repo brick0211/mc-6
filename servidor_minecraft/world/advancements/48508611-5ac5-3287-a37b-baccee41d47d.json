@@ -21609,6 +21609,67 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/goat_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-03-01 06:17:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-03-01 06:17:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-03-01 06:17:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-03-01 06:17:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-03-01 06:53:10 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/verdant_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-03-01 06:53:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-03-01 07:05:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "rhubarb_seed": "2025-03-01 07:05:02 +0000",
+      "pineapple_seed": "2025-03-01 07:05:02 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "rhubarb_seed": "2025-03-01 07:05:02 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "white_jungle_grape_seeds": "2025-03-01 07:05:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-01 07:22:09 +0000"
@@ -21618,30 +21679,6 @@
   "handcrafted:recipes/misc/terracotta_medium_pot": {
     "criteria": {
       "has_terracotta_medium_pot": "2025-03-01 07:22:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/glaive_of_hodir": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/dark_moon_greatsword": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/goat_gear_leggings": {
-    "criteria": {
-      "has_leather_leggings": "2025-03-01 06:17:17 +0000"
-    },
-    "done": true
-  },
-  "croptopia:getseeds": {
-    "criteria": {
-      "has_seeds": "2025-03-01 07:05:02 +0000"
     },
     "done": true
   },
@@ -21657,18 +21694,6 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/darkin_scythe_pre": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/leviathan_axe_right": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-01 07:22:09 +0000"
@@ -21681,45 +21706,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/comet_spear": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-03-01 07:42:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-03-01 07:47:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-01 07:22:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/moonlight_greatsword": {
-    "criteria": {
-      "has_lord_soul": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_reaper": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
     },
     "done": true
   },
@@ -21741,39 +21730,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-03-01 07:47:45 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/assembling_machine/host_armor_trim_smithing_template": {
     "criteria": {
       "has_terracotta": "2025-03-01 07:22:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/mjolnir": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/master_sword": {
-    "criteria": {
-      "has_lord_soul": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/galeforce": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "oxidized:recipes/copper_button": {
-    "criteria": {
-      "has_copper_block": "2025-03-01 07:47:45 +0000"
     },
     "done": true
   },
@@ -21783,84 +21742,11 @@
     },
     "done": true
   },
-  "oxidized:recipes/vertical_cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-03-01 07:47:45 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/copper_plate_from_block": {
-    "criteria": {
-      "has_copper_block": "2025-03-01 07:47:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/moonlight_shortsword": {
-    "criteria": {
-      "has_lord_soul": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/ember_robe_chestplate": {
-    "criteria": {
-      "has_evocation_robe_chestplate": "2025-03-01 06:53:10 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/rageblade": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/archers_leggings": {
-    "criteria": {
-      "has_leather_leggings": "2025-03-01 06:17:17 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/crucible_sword": {
-    "criteria": {
-      "has_lord_soul": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:lord_soul": {
-    "criteria": {
-      "condition_0": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/kraken_slayer": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-03-01 07:47:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-01 07:22:09 +0000"
     },
     "done": true
-  },
-  "soulsweapons:recipes/combat/lich_bane": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_jungle": {
-    "criteria": {
-      "rhubarb_seed": "2025-03-01 07:05:02 +0000",
-      "pineapple_seed": "2025-03-01 07:05:02 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
@@ -21868,33 +21754,9 @@
     },
     "done": true
   },
-  "croptopia:gather_all": {
-    "criteria": {
-      "rhubarb_seed": "2025-03-01 07:05:02 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-01 07:22:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/frostmourne": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/whirligig_sawblade": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-03-01 07:42:05 +0000"
     },
     "done": true
   },
@@ -21904,39 +21766,9 @@
     },
     "done": true
   },
-  "fwaystones:recipes/pocket_wormhole": {
-    "criteria": {
-      "has_nether_star": "2025-03-01 07:42:51 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/forlorn_scythe": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-01 07:22:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/darkin_blade": {
-    "criteria": {
-      "has_lord_soul": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/freyr_sword": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-03-01 07:47:45 +0000"
     },
     "done": true
   },
@@ -21946,45 +21778,9 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/scale_mail_leggings": {
-    "criteria": {
-      "has_leather_leggings": "2025-03-01 06:17:17 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/nightfall": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/excalibur": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-03-01 07:47:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-01 07:22:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/moonveil": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
-    "criteria": {
-      "has_cut_copper_slab": "2025-03-01 07:47:45 +0000"
     },
     "done": true
   },
@@ -21994,69 +21790,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/leviathan_axe_left": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-01 07:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-03-01 07:47:45 +0000"
-    },
-    "done": true
-  },
-  "indrev:nikolite": {
-    "criteria": {
-      "checkInv": "2025-03-01 07:49:40 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/wild_harvest": {
-    "criteria": {
-      "white_jungle_grape_seeds": "2025-03-01 07:05:02 +0000"
-    },
-    "done": true
-  },
-  "netherchested:recipes/decorations/nether_chest": {
-    "criteria": {
-      "has_nether_star": "2025-03-01 07:42:51 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/dragonslayer_swordspear": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/verdant_robe_chestplate": {
-    "criteria": {
-      "has_evocation_robe_chestplate": "2025-03-01 06:53:10 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/dawnbreaker": {
-    "criteria": {
-      "has_lord_soul": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/draupnir_spear": {
-    "criteria": {
-      "has_item": "2025-03-01 07:44:36 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/holy_moonlight_sword": {
-    "criteria": {
-      "has_lord_soul": "2025-03-01 07:44:36 +0000"
     },
     "done": true
   },
@@ -22078,15 +21814,363 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/climbing_gear_leggings": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "has_leather_leggings": "2025-03-01 06:17:17 +0000"
+      "summoned": "2025-03-01 07:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-03-01 07:42:51 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/pocket_wormhole": {
+    "criteria": {
+      "has_nether_star": "2025-03-01 07:42:51 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_nether_star": "2025-03-01 07:42:51 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/glaive_of_hodir": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dark_moon_greatsword": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkin_scythe_pre": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/leviathan_axe_right": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_greatsword": {
+    "criteria": {
+      "has_lord_soul": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_reaper": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/mjolnir": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/master_sword": {
+    "criteria": {
+      "has_lord_soul": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/galeforce": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_shortsword": {
+    "criteria": {
+      "has_lord_soul": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/rageblade": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/crucible_sword": {
+    "criteria": {
+      "has_lord_soul": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:lord_soul": {
+    "criteria": {
+      "condition_0": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kraken_slayer": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/lich_bane": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/frostmourne": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/whirligig_sawblade": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/forlorn_scythe": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkin_blade": {
+    "criteria": {
+      "has_lord_soul": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/freyr_sword": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/nightfall": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/excalibur": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonveil": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/leviathan_axe_left": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragonslayer_swordspear": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dawnbreaker": {
+    "criteria": {
+      "has_lord_soul": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draupnir_spear": {
+    "criteria": {
+      "has_item": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/holy_moonlight_sword": {
+    "criteria": {
+      "has_lord_soul": "2025-03-01 07:44:36 +0000"
     },
     "done": true
   },
   "soulsweapons:recipes/combat/skofnung": {
     "criteria": {
       "has_lord_soul": "2025-03-01 07:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-01 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-03-01 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_button": {
+    "criteria": {
+      "has_copper_block": "2025-03-01 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/vertical_cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-03-01 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/copper_plate_from_block": {
+    "criteria": {
+      "has_copper_block": "2025-03-01 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-01 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-03-01 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-01 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-03-01 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-03-01 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "indrev:nikolite": {
+    "criteria": {
+      "checkInv": "2025-03-01 07:49:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-03-02 03:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-02 03:35:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-02 03:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-03-02 03:35:20 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/light_blue_coffin": {
+    "criteria": {
+      "has_item": "2025-03-02 03:33:48 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-03-02 03:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-03-02 03:35:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/gray_bed_from_wool": {
+    "criteria": {
+      "has_gray_wool": "2025-03-02 03:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-02 03:35:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-03-02 03:35:20 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-03-02 03:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-03-02 03:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-02 03:35:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-03-02 03:35:20 +0000"
     },
     "done": true
   },
