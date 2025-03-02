@@ -2625,3 +2625,21 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [16:57:44] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 339 radius, 5 samples
 [16:58:41] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [16:58:41] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 21 radius, 1 samples
+[16:58:47] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:58:47] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 104 radius, 1 samples
+[16:59:57] [Server thread/INFO]: Brick_123 has made the advancement [Fortune Seeker]
+[17:01:51] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[17:01:52] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker failed with 10580 radius, 69 samples
+[17:02:58] [Worker-Main-2/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1525245269,1540113467,-1220055943,-1016494837],type:"minecraft:entity",y_offset:0.36f}}]
+[17:03:06] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[17:03:07] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 6450 radius, 137 samples
+[17:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3261ms or 65 ticks behind
+[17:03:17] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
+[17:03:17] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
+[17:03:51] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 50183
+[17:05:41] [Server thread/INFO]: Villager class_1646['Graig'/50343, l='ServerLevel[world]', x=7003.69, y=64.00, z=1691.51] died, message: 'Graig was slain by Vindicator'
+[17:05:41] [Server thread/INFO]: Named entity class_1646['Graig'/50343, l='ServerLevel[world]', x=7003.69, y=64.00, z=1691.51] died: Graig was slain by Vindicator
+[17:05:58] [Server thread/INFO]: Villager class_1646['Reed'/50331, l='ServerLevel[world]', x=6999.49, y=69.00, z=1716.09] died, message: 'Reed was slain by Vindicator'
+[17:05:58] [Server thread/INFO]: Named entity class_1646['Reed'/50331, l='ServerLevel[world]', x=6999.49, y=69.00, z=1716.09] died: Reed was slain by Vindicator
+[17:08:16] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -1062.500000, 63.500000, -928.500000]
+[17:08:46] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
