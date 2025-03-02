@@ -25884,6 +25884,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/packed_snow_block": {
+    "criteria": {
+      "has_snow_block": "2025-03-02 18:24:15 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/run_in_the_promenade": {
     "criteria": {
       "run": "2025-03-02 17:30:13 +0000"
@@ -25911,6 +25917,12 @@
   "rpg_series:path_choose_warrior": {
     "criteria": {
       "book": "2025-03-02 18:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-03-02 18:24:08 +0000"
     },
     "done": true
   },
