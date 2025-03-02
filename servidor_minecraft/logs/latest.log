@@ -2564,3 +2564,24 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [16:33:42] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -751.500000, -55.500000, -1001.500000]
 [16:33:47] [Server thread/INFO]: Brick_123 claimed a grave belonging to Brick_123 at -753, -55, -1004, minecraft:overworld
 [16:34:15] [Server thread/INFO]: Brick_123 has made the advancement [Extreme Weeding]
+[16:38:46] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[16:44:54] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:44:55] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker failed with 10805 radius, 71 samples
+[16:45:02] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:45:02] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 1286 radius, 51 samples
+[16:46:37] [Server thread/INFO]: Brick_123 was killed by magic whilst trying to escape Ocean Creeper
+[16:46:38] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[16:46:41] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -57.500000, 44.500000, 314.500000]
+[16:46:46] [Server thread/INFO]: Brick_123 claimed a grave belonging to Brick_123 at -57, 45, 314, minecraft:overworld
+[16:46:47] [Server thread/INFO]: Brick_123 was slain by Ocean Creeper
+[16:46:48] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[16:46:52] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -53.500000, 45.500000, 312.500000]
+[16:46:56] [Server thread/INFO]: Brick_123 claimed a grave belonging to Brick_123 at -56, 46, 313, minecraft:overworld
+[16:47:51] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:47:51] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker failed with 10341 radius, 54 samples
+[16:47:55] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:47:55] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 977 radius, 9 samples
+[16:48:03] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:48:03] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 1128 radius, 9 samples
+[16:48:14] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:48:18] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker failed with 10093 radius, 522 samples

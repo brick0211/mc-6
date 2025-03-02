@@ -5559,6 +5559,7 @@
       "minecraft:spider": "2025-02-23 22:33:55 +0000",
       "minecraft:piglin_brute": "2025-02-27 18:09:39 +0000",
       "minecraft:creeper": "2025-02-27 06:58:18 +0000",
+      "minecraft:wither": "2025-03-02 16:35:26 +0000",
       "minecraft:slime": "2025-02-23 22:19:14 +0000",
       "minecraft:evoker": "2025-02-27 20:16:38 +0000",
       "minecraft:phantom": "2025-02-23 23:52:04 +0000",
@@ -25199,6 +25200,18 @@
   "botania:recipes/redstone/red_string_dispenser": {
     "criteria": {
       "has_base_block": "2025-03-02 06:33:16 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2025-03-02 16:34:15 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-03-02 16:34:30 +0000"
     },
     "done": true
   },
