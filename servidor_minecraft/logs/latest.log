@@ -3096,3 +3096,98 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [08:13:59] [Server thread/INFO]: [Setback: Teleported INTENCITIES to Setback]
 [08:13:59] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of INTENCITIES accepted server config.
 [08:15:06] [Server thread/INFO]: [Setback: Teleported Setback to 833.500000, -50.500000, -971.500000]
+[08:15:30] [Server thread/WARN]: Setback moved wrongly!
+[08:15:37] [Server thread/INFO]: [EMI] Setback cheated in 1 potion
+[08:15:38] [Server thread/INFO]: [EMI] Setback deleted 1 glass_bottle
+[08:15:39] [Server thread/INFO]: [EMI] Setback deleted 1 glass_bottle
+[08:15:42] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[08:16:06] [Server thread/INFO]: Setback was obliterated by a sonically-charged shriek
+[08:16:06] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08:16:06] [Netty Epoll Server IO #3/ERROR]: Combo count: 1 is dual wielding: false
+[08:16:06] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[08:16:06] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[08:16:06] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[08:16:08] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:16:11] [Server thread/INFO]: [Setback: Teleported Setback to 841.500000, -50.500000, -990.500000]
+[08:16:16] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 842, -51, -983, minecraft:overworld
+[08:16:19] [Server thread/INFO]: Setback was slain by Warden
+[08:16:21] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:16:25] [Server thread/INFO]: [Setback: Teleported Setback to 841.500000, -50.500000, -984.500000]
+[08:16:26] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 840, -51, -986, minecraft:overworld
+[08:16:28] [Server thread/INFO]: Setback was slain by Warden
+[08:16:28] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08:16:28] [Netty Epoll Server IO #3/ERROR]: Combo count: 4 is dual wielding: false
+[08:16:28] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[08:16:28] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[08:16:28] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[08:16:30] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:16:33] [Server thread/INFO]: [Setback: Teleported Setback to 842.500000, -50.500000, -985.500000]
+[08:16:35] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 842, -51, -986, minecraft:overworld
+[08:16:37] [Server thread/INFO]: Setback was slain by Warden
+[08:16:37] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08:16:37] [Netty Epoll Server IO #3/ERROR]: Combo count: 4 is dual wielding: false
+[08:16:37] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[08:16:37] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[08:16:37] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[08:16:39] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:16:42] [Server thread/INFO]: [Setback: Teleported Setback to 840.500000, -50.500000, -984.500000]
+[08:16:43] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 840, -51, -986, minecraft:overworld
+[08:16:46] [Server thread/INFO]: Setback was slain by Warden
+[08:16:46] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08:16:46] [Netty Epoll Server IO #3/ERROR]: Combo count: 4 is dual wielding: false
+[08:16:46] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[08:16:46] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[08:16:46] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[08:16:48] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:16:51] [Server thread/INFO]: [Setback: Teleported Setback to 841.500000, -50.500000, -987.500000]
+[08:16:53] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 840, -51, -987, minecraft:overworld
+[08:17:03] [Server thread/INFO]: Setback was slain by Warden
+[08:17:03] [Server thread/WARN]: Setback moved wrongly!
+[08:17:03] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08:17:03] [Netty Epoll Server IO #3/ERROR]: Combo count: 3 is dual wielding: false
+[08:17:03] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[08:17:03] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[08:17:03] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[08:17:04] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:17:07] [Server thread/INFO]: [Setback: Teleported Setback to 843.500000, -50.500000, -987.500000]
+[08:17:09] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 842, -51, -987, minecraft:overworld
+[08:17:10] [Server thread/INFO]: Setback was slain by Warden
+[08:17:10] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08:17:10] [Netty Epoll Server IO #3/ERROR]: Combo count: 1 is dual wielding: false
+[08:17:10] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[08:17:10] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[08:17:10] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[08:17:12] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:17:15] [Server thread/INFO]: [Setback: Teleported Setback to 840.500000, -50.500000, -989.500000]
+[08:17:17] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 842, -51, -988, minecraft:overworld
+[08:17:25] [Server thread/INFO]: [EMI] Setback cheated in 1 potion
+[08:17:39] [Server thread/INFO]: Setback was obliterated by a sonically-charged shriek
+[08:17:41] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:17:44] [Server thread/INFO]: [Setback: Teleported Setback to 811.500000, -55.500000, -1002.500000]
+[08:17:46] [Server thread/INFO]: Setback tried to swim in lava
+[08:17:48] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:17:55] [Server thread/INFO]: [Setback: Teleported Setback to 833.500000, -50.500000, -971.500000]
+[08:18:01] [Server thread/INFO]: [Setback: Teleported Setback to 811.500000, -56.500000, -1002.500000]
+[08:18:04] [Server thread/INFO]: Setback tried to swim in lava
+[08:18:06] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:18:11] [Server thread/INFO]: [Setback: Teleported Setback to 833.500000, -50.500000, -971.500000]
+[08:18:23] [Server thread/INFO]: [EMI] Setback cheated in 1 monocle
+[08:18:25] [Server thread/INFO]: Setback has made the advancement [Inner Arts]
+[08:18:34] [Server thread/INFO]: [EMI] Setback deleted 1 monocle
+[08:18:36] [Server thread/INFO]: [EMI] Setback cheated in 1 monocle
+[08:18:49] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 823, -53, -1000, minecraft:overworld
+[08:19:44] [Server thread/INFO]: [EMI] Setback deleted 1 glass_bottle
+[08:19:44] [Server thread/INFO]: [EMI] Setback deleted 45 silt_dirt
+[08:19:46] [Server thread/INFO]: [EMI] Setback deleted 42 raw_iron
+[08:19:52] [Server thread/INFO]: Setback was obliterated by a sonically-charged shriek
+[08:19:53] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[08:19:57] [Server thread/INFO]: [Setback: Teleported Setback to 818.500000, -50.500000, -1021.500000]
+[08:19:58] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 818, -51, -1030, minecraft:overworld
+[08:20:02] [Server thread/INFO]: [Setback: Teleported Setback to 938.500000, 130.500000, -898.500000]
+[08:21:05] [Server thread/INFO]: [EMI] Setback cheated in 64 fire_stone
+[08:24:26] [Server thread/INFO]: [Setback: Teleported Setback to 938.500000, 130.500000, -898.500000]
+[08:25:20] [Server thread/INFO]: [EMI] Setback cheated in 64 book
+[08:25:24] [Server thread/INFO]: [EMI] Setback deleted 54 tnt
+[08:25:25] [Server thread/INFO]: [EMI] Setback deleted 1 flint_and_steel
+[08:25:27] [Server thread/INFO]: [EMI] Setback deleted 1 cobblestone
+[08:25:29] [Server thread/INFO]: [EMI] Setback deleted 63 fire_stone
