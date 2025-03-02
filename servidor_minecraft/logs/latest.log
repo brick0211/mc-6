@@ -2585,3 +2585,43 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [16:48:03] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 1128 radius, 9 samples
 [16:48:14] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [16:48:18] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker failed with 10093 radius, 522 samples
+[16:48:25] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:48:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16:48:38] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker failed with 10186 radius, 575 samples
+[16:49:00] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:49:01] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 1345 radius, 129 samples
+[16:49:49] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:49:49] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 1256 radius, 39 samples
+[16:50:45] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:50:45] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker failed with 10073 radius, 67 samples
+[16:50:50] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:50:51] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 1741 radius, 61 samples
+[16:51:03] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga]] from pos class_2338{x=85, y=75, z=1531}
+[16:51:28] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 37237
+[16:52:42] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 38552
+[16:52:42] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 38581
+[16:52:43] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 38581
+[16:52:43] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 38581
+[16:53:02] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:53:02] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker failed with 10145 radius, 70 samples
+[16:53:14] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:53:16] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker failed with 10015 radius, 574 samples
+[16:54:03] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:54:05] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 2441 radius, 469 samples
+[16:54:21] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:54:23] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 5914 radius, 180 samples
+[16:54:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7432ms or 148 ticks behind
+[16:54:49] [Server thread/INFO]: <Brick_123> a
+[16:54:49] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest]] from pos class_2338{x=3131, y=71, z=7099}
+[16:55:12] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:55:22] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker failed with 10216 radius, 575 samples
+[16:55:22] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:55:22] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 15 radius, 1 samples
+[16:55:28] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:55:28] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 265 radius, 1 samples
+[16:55:37] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=3343, y=107, z=7128}
+[16:55:37] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=3343, y=107, z=7128}
+[16:57:44] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:57:44] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 339 radius, 5 samples
+[16:58:41] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16:58:41] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 21 radius, 1 samples

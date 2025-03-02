@@ -3402,6 +3402,7 @@
       "minecraft:jagged_peaks": "2025-03-02 05:00:09 +0000",
       "minecraft:cold_ocean": "2025-02-27 20:45:05 +0000",
       "minecraft:forest": "2025-02-24 06:37:34 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-02 16:53:18 +0000",
       "minecraft:ice_spikes": "2025-02-27 20:49:46 +0000",
       "minecraft:frozen_ocean": "2025-02-28 04:50:55 +0000",
       "minecraft:desert": "2025-02-23 21:26:06 +0000",
@@ -25206,6 +25207,36 @@
   "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:void_blossom": "2025-03-02 16:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-03-02 16:52:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/oxidized_copper_pillar": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-03-02 16:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_exposed_cut_copper_slab": "2025-03-02 16:52:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/exposed_copper_pillar": {
+    "criteria": {
+      "has_exposed_cut_copper_slab": "2025-03-02 16:52:32 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_archeology_table": {
+    "criteria": {
+      "has_item": "2025-03-02 16:43:52 +0000"
     },
     "done": true
   },
