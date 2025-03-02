@@ -25848,9 +25848,21 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/soul_sucker_leather": {
+    "criteria": {
+      "has_soul_sucker": "2025-03-02 18:02:27 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/protector": {
     "criteria": {
       "requirement": "2025-03-02 17:37:08 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/eyeball": {
+    "criteria": {
+      "has_eyeball_fish": "2025-03-02 18:02:30 +0000"
     },
     "done": true
   },
@@ -25860,9 +25872,39 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-03-02 17:59:39 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/get_eyeball_fish": {
+    "criteria": {
+      "eyeball_fish": "2025-03-02 18:02:30 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/run_in_the_promenade": {
     "criteria": {
       "run": "2025-03-02 17:30:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_pufferfish": {
+    "criteria": {
+      "has_pufferfish": "2025-03-02 18:02:27 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/grilled_soulsucker": {
+    "criteria": {
+      "has_soulsucker": "2025-03-02 18:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-03-02 18:01:05 +0000"
     },
     "done": true
   },
