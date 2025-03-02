@@ -25633,6 +25633,12 @@
     },
     "done": true
   },
+  "endrem:main/exotic_eye": {
+    "criteria": {
+      "exotic_eye": "2025-03-02 18:55:49 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-03-02 17:51:08 +0000"
@@ -25648,6 +25654,12 @@
   "techreborn:recipes/industrial_sawmill/dark_oak_pressure_plate_from_slab": {
     "criteria": {
       "has_dark_oak_slab": "2025-03-02 17:55:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_tube_coral": {
+    "criteria": {
+      "has_tube_coral": "2025-03-02 18:54:26 +0000"
     },
     "done": true
   },

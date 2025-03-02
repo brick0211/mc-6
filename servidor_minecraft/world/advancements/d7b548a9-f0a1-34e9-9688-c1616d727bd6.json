@@ -19516,7 +19516,8 @@
     "criteria": {
       "clam": "2025-03-01 05:38:19 +0000",
       "calamari": "2025-02-24 23:35:56 +0000",
-      "glowing_calamari": "2025-03-01 02:47:39 +0000"
+      "glowing_calamari": "2025-03-01 02:47:39 +0000",
+      "crab": "2025-03-02 18:44:48 +0000"
     },
     "done": false
   },
@@ -25836,6 +25837,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/steamed_crab": {
+    "criteria": {
+      "has_crab": "2025-03-02 18:44:48 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/runner": {
     "criteria": {
       "requirement": "2025-03-02 17:36:14 +0000"
@@ -25845,6 +25852,12 @@
   "minecells:unlock/kill_20_grenadiers": {
     "criteria": {
       "grenadiers_killed": "2025-03-02 17:45:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/crab_legs": {
+    "criteria": {
+      "has_crab": "2025-03-02 18:44:48 +0000"
     },
     "done": true
   },
@@ -25905,6 +25918,12 @@
   "netherdepthsupgrade:recipes/food/grilled_soulsucker": {
     "criteria": {
       "has_soulsucker": "2025-03-02 18:02:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_frame": {
+    "criteria": {
+      "has_the_recipe": "2025-03-02 18:56:08 +0000"
     },
     "done": true
   },

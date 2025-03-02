@@ -2767,6 +2767,7 @@
     "criteria": {
       "minecraft:frozen_river": "2025-03-02 06:00:57 +0000",
       "minecraft:wooded_badlands": "2025-02-23 21:29:44 +0000",
+      "minecraft:beach": "2025-03-02 18:47:37 +0000",
       "minecraft:sparse_jungle": "2025-02-23 21:08:20 +0000",
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:16 +0000",
       "minecraft:river": "2025-02-24 04:46:40 +0000",
@@ -16783,6 +16784,12 @@
     },
     "done": true
   },
+  "vinery:recipes/flower_box": {
+    "criteria": {
+      "has_podzol": "2025-03-02 18:52:36 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/arcana50": {
     "criteria": {
       "enchanted_item": "2025-03-02 18:18:22 +0000"
@@ -16858,6 +16865,12 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-03-02 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-03-02 19:01:35 +0000"
     },
     "done": true
   },
