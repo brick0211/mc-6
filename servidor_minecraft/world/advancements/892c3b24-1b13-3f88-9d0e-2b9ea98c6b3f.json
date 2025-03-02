@@ -18370,7 +18370,8 @@
   "soulsweapons:all_weapons": {
     "criteria": {
       "darkin_blade": "2025-02-27 21:13:30 +0000",
-      "draugr": "2025-03-01 07:18:51 +0000"
+      "draugr": "2025-03-01 07:18:51 +0000",
+      "rageblade": "2025-03-02 02:06:54 +0000"
     },
     "done": false
   },
@@ -20653,6 +20654,24 @@
   "netherchested:recipes/decorations/nether_chest": {
     "criteria": {
       "has_nether_star": "2025-03-01 07:46:29 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:rageblade": {
+    "criteria": {
+      "rageblade": "2025-03-02 02:06:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-03-02 02:13:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-02 02:14:53 +0000"
     },
     "done": true
   },
