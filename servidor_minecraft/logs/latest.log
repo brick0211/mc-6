@@ -3990,3 +3990,4 @@ Caused by: com.electronwill.nightconfig.core.io.ParsingException: Invalid TOML d
 	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:399) ~[fabric-loader-0.16.10.jar:?]
 	... 7 more
 [23:13:22] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[23:43:22] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!

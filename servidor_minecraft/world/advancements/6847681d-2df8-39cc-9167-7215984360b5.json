@@ -17050,6 +17050,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-03-02 23:45:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/red_shiny_flower": {
     "criteria": {
       "has_item": "2025-03-02 23:31:41 +0000"
