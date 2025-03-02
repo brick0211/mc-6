@@ -158,6 +158,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-03-02 03:17:43 +0000",
       "arid_mountains": "2025-02-27 06:56:39 +0000",
       "redstone_abyss": "2025-02-27 07:34:20 +0000",
       "steppe": "2025-02-24 04:47:07 +0000",
@@ -222,6 +223,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-03-02 03:17:43 +0000",
       "arid_mountains": "2025-02-27 06:56:39 +0000",
       "steppe": "2025-02-24 04:47:07 +0000",
       "pine_taiga": "2025-02-27 19:09:55 +0000",
@@ -20712,6 +20714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-02 03:17:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-03-02 02:58:45 +0000"
@@ -20796,6 +20804,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-03-02 03:17:27 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_torch": {
     "criteria": {
       "has_bamboo": "2025-03-02 02:58:45 +0000"
@@ -20856,6 +20870,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-03-02 03:17:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-02 02:58:22 +0000"
@@ -20898,6 +20918,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-03-02 03:17:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_bowl": {
     "criteria": {
       "has_terracotta_bowl": "2025-03-02 02:58:22 +0000"
@@ -20913,6 +20939,12 @@
   "handcrafted:recipes/misc/terracotta_thick_pot": {
     "criteria": {
       "has_terracotta_thick_pot": "2025-03-02 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-03-02 03:17:27 +0000"
     },
     "done": true
   },

@@ -25400,6 +25400,12 @@
     },
     "done": true
   },
+  "mythicupgrades:recipes/misc/music_disc_nelumbo": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-03-02 03:17:01 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_candle_from_candle_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2025-03-02 01:59:33 +0000"
@@ -25485,15 +25491,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-03-02 03:19:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-02 01:59:33 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/cacophonium": {
+    "criteria": {
+      "has_item": "2025-03-02 03:19:03 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/arcana50": {
     "criteria": {
       "enchanted_item": "2025-03-02 03:04:10 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-03-02 03:17:04 +0000"
     },
     "done": true
   },
@@ -25626,6 +25650,12 @@
   "techreborn:recipes/chemical_reactor/magenta_candle_from_pink_candle_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2025-03-02 01:59:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_lightning_harp": {
+    "criteria": {
+      "has_creeper_head": "2025-03-02 03:19:03 +0000"
     },
     "done": true
   },
