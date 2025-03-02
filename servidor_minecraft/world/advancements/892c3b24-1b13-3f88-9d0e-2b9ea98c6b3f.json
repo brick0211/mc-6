@@ -20235,15 +20235,177 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "betternether:flaming_tools": {
     "criteria": {
-      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
+      "flaming_ruby_EquipmentSlot[name\u003daxe, category\u003dTOOLS]": "2025-03-01 06:04:20 +0000"
+    },
+    "done": false
+  },
+  "mcda:recipes/base_armors/goat_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-03-01 06:58:47 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-03-01 06:58:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper_smithing": {
+    "criteria": {
+      "has_creeper": "2025-03-01 06:58:47 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-03-01 06:58:47 +0000"
     },
     "done": true
   },
   "croptopia:recipes/doughnut": {
     "criteria": {
       "has_milk": "2025-03-01 07:11:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2025-03-01 07:11:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-01 07:11:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-01 07:11:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2025-03-01 07:11:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_milk": "2025-03-01 07:11:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-03-01 07:11:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2025-03-01 07:11:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_milk": "2025-03-01 07:11:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_milk": "2025-03-01 07:11:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_milk_bucket": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-01 07:11:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-01 07:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
     },
     "done": true
   },
@@ -20266,12 +20428,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2025-03-01 07:24:16 +0000"
@@ -20290,27 +20446,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-03-01 07:46:29 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
     "criteria": {
       "has_item": "2025-03-01 07:24:16 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/churros": {
-    "criteria": {
-      "has_milk": "2025-03-01 07:11:17 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cow": {
-    "criteria": {
-      "has_milk_bucket": "2025-03-01 07:11:17 +0000"
     },
     "done": true
   },
@@ -20320,21 +20458,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/soul_reaper": {
     "criteria": {
       "has_item": "2025-03-01 07:24:16 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/chungus_staff": {
-    "criteria": {
-      "has_item": "2025-03-01 07:24:37 +0000"
     },
     "done": true
   },
@@ -20344,21 +20470,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-01 07:11:17 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/master_sword": {
     "criteria": {
       "has_lord_soul": "2025-03-01 07:24:16 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/goat_gear_chestplate": {
-    "criteria": {
-      "has_leather_chestplate": "2025-03-01 06:58:47 +0000"
     },
     "done": true
   },
@@ -20374,39 +20488,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/mashed_potatoes": {
-    "criteria": {
-      "has_milk": "2025-03-01 07:11:17 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/draugr": {
-    "criteria": {
-      "has_item": "2025-03-01 07:24:37 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/rageblade": {
     "criteria": {
       "has_item": "2025-03-01 07:24:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/crucible_sword": {
     "criteria": {
       "has_lord_soul": "2025-03-01 07:24:16 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/cheese": {
-    "criteria": {
-      "has_milk": "2025-03-01 07:11:17 +0000"
     },
     "done": true
   },
@@ -20422,45 +20512,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/oatmeal": {
-    "criteria": {
-      "has_milk": "2025-03-01 07:11:17 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/wither_eye": {
-    "criteria": {
-      "wither_eye": "2025-03-01 07:44:18 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/darkmoon_longbow": {
-    "criteria": {
-      "has_item": "2025-03-01 07:24:37 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/lich_bane": {
     "criteria": {
       "has_item": "2025-03-01 07:24:16 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/climbing_gear_chestplate": {
-    "criteria": {
-      "has_leather_chestplate": "2025-03-01 06:58:47 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_milk_bottle": {
-    "criteria": {
-      "has_milk": "2025-03-01 07:11:17 +0000"
     },
     "done": true
   },
@@ -20473,18 +20527,6 @@
   "soulsweapons:recipes/combat/whirligig_sawblade": {
     "criteria": {
       "has_item": "2025-03-01 07:24:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-03-01 07:42:05 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/pocket_wormhole": {
-    "criteria": {
-      "has_nether_star": "2025-03-01 07:46:29 +0000"
     },
     "done": true
   },
@@ -20506,39 +20548,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/crema": {
-    "criteria": {
-      "has_milk": "2025-03-01 07:11:17 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/nightfall": {
     "criteria": {
       "has_item": "2025-03-01 07:24:16 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/butter": {
-    "criteria": {
-      "has_milk": "2025-03-01 07:11:17 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/excalibur": {
     "criteria": {
       "has_item": "2025-03-01 07:24:16 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/bucket_from_milk_bucket": {
-    "criteria": {
-      "has_milk_bucket": "2025-03-01 07:11:17 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:uncertainty": {
-    "criteria": {
-      "shard_of_uncertainty": "2025-03-01 07:44:32 +0000"
     },
     "done": true
   },
@@ -20554,36 +20572,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
-    },
-    "done": true
-  },
-  "netherchested:recipes/decorations/nether_chest": {
-    "criteria": {
-      "has_nether_star": "2025-03-01 07:46:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-03-01 07:11:17 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/dragonslayer_swordspear": {
     "criteria": {
       "has_item": "2025-03-01 07:24:16 +0000"
@@ -20595,12 +20583,6 @@
       "has_lord_soul": "2025-03-01 07:24:16 +0000"
     },
     "done": true
-  },
-  "betternether:flaming_tools": {
-    "criteria": {
-      "flaming_ruby_EquipmentSlot[name\u003daxe, category\u003dTOOLS]": "2025-03-01 06:04:20 +0000"
-    },
-    "done": false
   },
   "soulsweapons:recipes/combat/draupnir_spear": {
     "criteria": {
@@ -20614,45 +20596,63 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/creeper_smithing": {
-    "criteria": {
-      "has_creeper": "2025-03-01 06:58:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/scale_mail_chestplate": {
-    "criteria": {
-      "has_leather_chestplate": "2025-03-01 06:58:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-01 07:12:49 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/skofnung": {
     "criteria": {
       "has_lord_soul": "2025-03-01 07:24:16 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/chungus_staff": {
+    "criteria": {
+      "has_item": "2025-03-01 07:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draugr": {
+    "criteria": {
+      "has_item": "2025-03-01 07:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkmoon_longbow": {
+    "criteria": {
+      "has_item": "2025-03-01 07:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-01 07:42:05 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-03-01 07:44:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:uncertainty": {
+    "criteria": {
+      "shard_of_uncertainty": "2025-03-01 07:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-03-01 07:46:29 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/pocket_wormhole": {
+    "criteria": {
+      "has_nether_star": "2025-03-01 07:46:29 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_nether_star": "2025-03-01 07:46:29 +0000"
     },
     "done": true
   },
