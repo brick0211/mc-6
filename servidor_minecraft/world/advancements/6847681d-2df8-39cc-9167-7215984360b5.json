@@ -15652,129 +15652,33 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-03-02 06:10:29 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_sodium_persulfate": {
-    "criteria": {
-      "has_tag_c_copper_ores": "2025-03-02 06:21:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_stairs": {
-    "criteria": {
-      "has_cut_veridium_bricks": "2025-03-02 07:00:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-03-02 06:21:12 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/vacuum_freezer/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-03-02 06:03:40 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/prismarine": {
-    "criteria": {
-      "has_item": "2025-03-02 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/raw_lead_from_lead_ore_with_water": {
-    "criteria": {
-      "has_tag_c_lead_ores": "2025-03-02 06:10:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_slab_recycling": {
-    "criteria": {
-      "has_cut_veridium_brick_slab": "2025-03-02 06:58:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/polished_basalt_basalt_bricks": {
-    "criteria": {
-      "has_polished_basalt": "2025-03-02 06:00:15 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_packed_ice_stairs_from_packed_ice_stonecutting": {
-    "criteria": {
-      "has_packed_ice": "2025-03-02 06:03:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/prism": {
-    "criteria": {
-      "has_item": "2025-03-02 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-03-02 06:03:40 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/basalt_blocks/polished_basalt_bricks_stonecutting": {
-    "criteria": {
-      "has_item": "2025-03-02 06:00:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_slab_recycling": {
-    "criteria": {
-      "has_cut_veridium_slab": "2025-03-02 06:58:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_slab": {
-    "criteria": {
-      "has_cut_veridium_bricks": "2025-03-02 07:00:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-03-02 06:10:29 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/silver_ore_with_water": {
-    "criteria": {
-      "has_silver_ore": "2025-03-02 06:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-03-02 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "prominent:level_10": {
-    "criteria": {
-      "requirement": "2025-03-02 06:06:57 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_mercury": {
-    "criteria": {
-      "has_tag_c_copper_ores": "2025-03-02 06:21:12 +0000"
-    },
-    "done": true
-  },
   "graveyard:graveyard/lich_prison": {
     "criteria": {
       "lich_prison": "2025-03-02 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-02 05:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-02 05:51:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-02 05:51:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-02 05:51:47 +0000"
     },
     "done": true
   },
@@ -15790,87 +15694,27 @@
     },
     "done": true
   },
-  "twigs:recipes/basalt_blocks/polished_basalt_bricks": {
+  "immersive_armors:recipes/misc/prismarine": {
     "criteria": {
-      "has_item": "2025-03-02 06:00:15 +0000"
+      "has_item": "2025-03-02 05:57:58 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/misc/blasting/lead_ingot_from_c_lead_ores": {
+  "botania:recipes/decorations/prism": {
     "criteria": {
-      "has_tag_c_lead_ores": "2025-03-02 06:10:15 +0000"
+      "has_item": "2025-03-02 05:57:58 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/extractor/pink_dye_from_brain_coral_block": {
+  "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "has_brain_coral_block": "2025-03-02 06:23:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-03-02 06:00:15 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-03-02 05:51:47 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_packed_ice_slab_from_packed_ice_stonecutting": {
-    "criteria": {
-      "has_packed_ice": "2025-03-02 06:03:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-03-02 05:51:47 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/raw_lead": {
-    "criteria": {
-      "has_tag_c_lead_ores": "2025-03-02 06:10:15 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/snow": {
-    "criteria": {
-      "has_snowball": "2025-03-02 06:00:15 +0000"
+      "has_prismarine_shard": "2025-03-02 05:57:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-03-02 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_packed_ice_wall_from_packed_ice_stonecutting": {
-    "criteria": {
-      "has_packed_ice": "2025-03-02 06:03:40 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/smelting/silver_ingot_from_c_silver_ores": {
-    "criteria": {
-      "has_tag_c_silver_ores": "2025-03-02 06:10:09 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/smelting/lead_ingot_from_c_lead_ores": {
-    "criteria": {
-      "has_tag_c_lead_ores": "2025-03-02 06:10:15 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/raw_copper": {
-    "criteria": {
-      "has_tag_c_copper_ores": "2025-03-02 06:21:12 +0000"
     },
     "done": true
   },
@@ -15886,48 +15730,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_veridium_brick_wall": {
-    "criteria": {
-      "has_cut_veridium_bricks": "2025-03-02 07:00:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-03-02 06:00:15 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_packed_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-03-02 06:03:40 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/blasting/silver_ingot_from_c_silver_ores": {
-    "criteria": {
-      "has_tag_c_silver_ores": "2025-03-02 06:10:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_veridium_brick_slab_recycling": {
-    "criteria": {
-      "has_small_veridium_brick_slab": "2025-03-02 06:58:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-03-02 06:21:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_slab_recycling": {
-    "criteria": {
-      "has_polished_cut_veridium_slab": "2025-03-02 06:58:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-03-02 05:57:58 +0000"
@@ -15940,21 +15742,39 @@
     },
     "done": true
   },
-  "techreborn:recipes/grinder/raw_silver": {
+  "betternether:recipes/building_blocks/polished_basalt_basalt_bricks": {
     "criteria": {
-      "has_tag_c_silver_ores": "2025-03-02 06:10:09 +0000"
+      "has_polished_basalt": "2025-03-02 06:00:15 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/dragon_bone_block": {
+  "twigs:recipes/basalt_blocks/polished_basalt_bricks_stonecutting": {
     "criteria": {
-      "has_bone_block": "2025-03-02 05:51:47 +0000"
+      "has_item": "2025-03-02 06:00:15 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_water": {
+  "twigs:recipes/basalt_blocks/polished_basalt_bricks": {
     "criteria": {
-      "has_tag_c_copper_ores": "2025-03-02 06:21:12 +0000"
+      "has_item": "2025-03-02 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-02 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-02 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-02 06:00:15 +0000"
     },
     "done": true
   },
@@ -15964,9 +15784,243 @@
     },
     "done": false
   },
-  "betternether:recipes/building_blocks/bn_bone_block": {
+  "techreborn:recipes/vacuum_freezer/blue_ice": {
     "criteria": {
-      "has_bone_block": "2025-03-02 05:51:47 +0000"
+      "has_packed_ice": "2025-03-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_stairs_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-03-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_slab_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-03-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_wall_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-03-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-03-02 06:06:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/silver_ore_with_water": {
+    "criteria": {
+      "has_silver_ore": "2025-03-02 06:10:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_silver_ores": {
+    "criteria": {
+      "has_tag_c_silver_ores": "2025-03-02 06:10:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_silver_ores": {
+    "criteria": {
+      "has_tag_c_silver_ores": "2025-03-02 06:10:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_silver": {
+    "criteria": {
+      "has_tag_c_silver_ores": "2025-03-02 06:10:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_lead_from_lead_ore_with_water": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-03-02 06:10:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_lead_ores": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-03-02 06:10:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_lead": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-03-02 06:10:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_lead_ores": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-03-02 06:10:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-03-02 06:10:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-03-02 06:10:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_sodium_persulfate": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2025-03-02 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-02 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2025-03-02 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_copper": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2025-03-02 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-02 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_water": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2025-03-02 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/pink_dye_from_brain_coral_block": {
+    "criteria": {
+      "has_brain_coral_block": "2025-03-02 06:23:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_recycling": {
+    "criteria": {
+      "has_cut_veridium_slab": "2025-03-02 06:58:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_veridium_brick_slab": "2025-03-02 06:58:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_veridium_slab": "2025-03-02 06:58:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_recycling": {
+    "criteria": {
+      "has_small_veridium_brick_slab": "2025-03-02 06:58:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-03-02 07:00:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-03-02 07:00:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-03-02 07:00:34 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-03-02 07:19:06 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-03-02 07:19:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_item": "2025-03-02 07:19:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/ender_chest_with_water": {
+    "criteria": {
+      "has_ender_chest": "2025-03-02 07:19:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate_from_block": {
+    "criteria": {
+      "has_diamond_block": "2025-03-02 07:19:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-02 07:19:06 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-02 07:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-02 07:19:06 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-02 07:19:06 +0000"
     },
     "done": true
   },
