@@ -2764,13 +2764,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-03-02 06:00:57 +0000",
       "minecraft:wooded_badlands": "2025-02-23 21:29:44 +0000",
       "minecraft:sparse_jungle": "2025-02-23 21:08:20 +0000",
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:16 +0000",
       "minecraft:river": "2025-02-24 04:46:40 +0000",
       "minecraft:dripstone_caves": "2025-02-26 21:59:55 +0000",
+      "minecraft:frozen_ocean": "2025-03-02 05:58:54 +0000",
       "minecraft:desert": "2025-02-23 21:26:16 +0000",
       "minecraft:jungle": "2025-02-24 04:52:15 +0000",
+      "minecraft:snowy_beach": "2025-03-02 05:58:48 +0000",
+      "minecraft:warm_ocean": "2025-03-02 06:22:38 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-26 22:11:42 +0000"
     },
     "done": false
@@ -15354,9 +15358,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_counter": {
+  "simplyswords:slumbering_lichblade": {
     "criteria": {
-      "has_spruce_counter": "2025-03-02 05:07:04 +0000"
+      "requirement": "2025-03-02 04:38:06 +0000"
     },
     "done": true
   },
@@ -15366,9 +15370,93 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_hoe_with_water": {
+    "criteria": {
+      "has_diamond_hoe": "2025-03-02 04:48:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_hoe_with_mercury": {
+    "criteria": {
+      "has_diamond_hoe": "2025-03-02 04:48:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/black_dye_from_ink_sac": {
     "criteria": {
       "has_ink_sac": "2025-03-02 04:58:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-03-02 04:58:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-03-02 04:58:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-03-02 04:58:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-03-02 04:58:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-03-02 04:58:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-03-02 04:58:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-03-02 04:58:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-03-02 04:58:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-02 04:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-02 04:58:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-03-02 04:58:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-03-02 05:07:04 +0000"
     },
     "done": true
   },
@@ -15390,27 +15478,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/glass_black": {
-    "criteria": {
-      "has_dyes/black": "2025-03-02 04:58:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-03-02 05:07:04 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_helmet": {
-    "criteria": {
-      "has_ink_sac": "2025-03-02 04:58:13 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/squid": {
-    "criteria": {
-      "has_ink_sac": "2025-03-02 04:58:13 +0000"
     },
     "done": true
   },
@@ -15456,12 +15526,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_hoe_with_water": {
-    "criteria": {
-      "has_diamond_hoe": "2025-03-02 04:48:19 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/grapevine_pot": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 05:07:04 +0000"
@@ -15492,21 +15556,9 @@
     },
     "done": true
   },
-  "simplyswords:slumbering_lichblade": {
-    "criteria": {
-      "requirement": "2025-03-02 04:38:06 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
     "criteria": {
       "has_plank": "2025-03-02 05:07:04 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_black": {
-    "criteria": {
-      "has_dyes/black": "2025-03-02 04:58:13 +0000"
     },
     "done": true
   },
@@ -15516,33 +15568,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_smart_black": {
-    "criteria": {
-      "has_dyes/black": "2025-03-02 04:58:13 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_boots": {
-    "criteria": {
-      "has_ink_sac": "2025-03-02 04:58:13 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-03-02 05:07:04 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_black": {
-    "criteria": {
-      "has_dyes/black": "2025-03-02 04:58:13 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_hoe_with_mercury": {
-    "criteria": {
-      "has_diamond_hoe": "2025-03-02 04:48:19 +0000"
     },
     "done": true
   },
@@ -15564,39 +15592,9 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/squid_armor_chestplate": {
-    "criteria": {
-      "has_ink_sac": "2025-03-02 04:58:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-03-02 05:07:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-02 04:58:13 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2025-03-02 05:19:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-03-02 04:58:13 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_leggings": {
-    "criteria": {
-      "has_ink_sac": "2025-03-02 04:58:13 +0000"
     },
     "done": true
   },
@@ -15645,6 +15643,330 @@
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2025-03-02 05:07:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-03-02 05:19:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-03-02 06:10:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_sodium_persulfate": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2025-03-02 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-03-02 07:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-02 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/vacuum_freezer/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-03-02 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_lead_from_lead_ore_with_water": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-03-02 06:10:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_veridium_brick_slab": "2025-03-02 06:58:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/polished_basalt_basalt_bricks": {
+    "criteria": {
+      "has_polished_basalt": "2025-03-02 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_stairs_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-03-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-03-02 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/polished_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-02 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_recycling": {
+    "criteria": {
+      "has_cut_veridium_slab": "2025-03-02 06:58:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-03-02 07:00:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-03-02 06:10:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/silver_ore_with_water": {
+    "criteria": {
+      "has_silver_ore": "2025-03-02 06:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-02 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-03-02 06:06:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2025-03-02 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2025-03-02 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quartz_pedestal": {
+    "criteria": {
+      "has_quartz_slab": "2025-03-02 05:52:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quartz_lantern": {
+    "criteria": {
+      "has_quartz_slab": "2025-03-02 05:52:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/polished_basalt_bricks": {
+    "criteria": {
+      "has_item": "2025-03-02 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_lead_ores": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-03-02 06:10:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/pink_dye_from_brain_coral_block": {
+    "criteria": {
+      "has_brain_coral_block": "2025-03-02 06:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-02 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-02 05:51:47 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_slab_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-03-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-02 05:51:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_lead": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-03-02 06:10:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-02 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-02 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_wall_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-03-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_silver_ores": {
+    "criteria": {
+      "has_tag_c_silver_ores": "2025-03-02 06:10:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_lead_ores": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-03-02 06:10:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_copper": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2025-03-02 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-02 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/prismarine_shard": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-02 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-03-02 07:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-02 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_silver_ores": {
+    "criteria": {
+      "has_tag_c_silver_ores": "2025-03-02 06:10:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_recycling": {
+    "criteria": {
+      "has_small_veridium_brick_slab": "2025-03-02 06:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-02 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_veridium_slab": "2025-03-02 06:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-02 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-02 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_silver": {
+    "criteria": {
+      "has_tag_c_silver_ores": "2025-03-02 06:10:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-02 05:51:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_water": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2025-03-02 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-03-02 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-02 05:51:47 +0000"
     },
     "done": true
   },

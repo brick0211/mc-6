@@ -845,15 +845,18 @@
       "minecraft:blaze": "2025-02-26 06:50:05 +0000",
       "minecraft:skeleton": "2025-02-23 21:36:00 +0000",
       "minecraft:ravager": "2025-02-27 07:28:52 +0000",
+      "minecraft:hoglin": "2025-03-02 05:47:29 +0000",
       "minecraft:guardian": "2025-02-27 20:35:21 +0000",
       "minecraft:vindicator": "2025-02-27 07:08:52 +0000",
       "minecraft:magma_cube": "2025-02-26 06:41:34 +0000",
       "minecraft:spider": "2025-02-23 21:36:17 +0000",
+      "minecraft:piglin_brute": "2025-03-02 06:27:39 +0000",
       "minecraft:creeper": "2025-02-24 07:01:10 +0000",
       "minecraft:wither": "2025-03-01 07:42:20 +0000",
       "minecraft:evoker": "2025-02-27 07:32:50 +0000",
       "minecraft:slime": "2025-02-27 18:18:39 +0000",
       "minecraft:phantom": "2025-02-24 04:19:07 +0000",
+      "minecraft:zombified_piglin": "2025-03-02 06:07:58 +0000",
       "minecraft:witch": "2025-02-26 06:17:58 +0000",
       "minecraft:wither_skeleton": "2025-02-26 06:44:20 +0000",
       "minecraft:husk": "2025-02-24 02:49:02 +0000",
@@ -15104,8 +15107,14 @@
     "criteria": {
       "betternether:wart_forest_edge": "2025-02-26 06:36:35 +0000",
       "betternether:bone_reef": "2025-02-27 21:21:29 +0000",
+      "betternether:upside_down_forest_cleared": "2025-03-02 06:00:33 +0000",
       "betternether:gravel_desert": "2025-02-27 07:34:53 +0000",
       "betternether:flooded_deltas": "2025-02-27 21:22:22 +0000",
+      "betternether:crimson_pinewood": "2025-03-02 06:05:02 +0000",
+      "betternether:old_swampland": "2025-03-02 05:54:52 +0000",
+      "betternether:nether_swampland": "2025-03-02 05:53:42 +0000",
+      "betternether:crimson_glowing_woods": "2025-03-02 06:03:46 +0000",
+      "betternether:magma_land": "2025-03-02 05:58:24 +0000",
       "betternether:nether_jungle": "2025-02-27 18:24:55 +0000",
       "betternether:nether_swampland_terraces": "2025-02-26 06:29:54 +0000",
       "betternether:wart_forest": "2025-02-26 06:41:25 +0000",
@@ -18714,7 +18723,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-02 06:04:02 +0000",
       "minecraft:nether_wastes": "2025-02-27 21:34:18 +0000",
+      "minecraft:soul_sand_valley": "2025-03-02 06:11:52 +0000",
       "minecraft:basalt_deltas": "2025-02-27 21:22:33 +0000"
     },
     "done": false
@@ -21000,36 +21011,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_bed": {
-    "criteria": {
-      "has_orange_wool": "2025-03-02 04:02:52 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-02 04:03:20 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
-    "criteria": {
-      "has_yellow_wool": "2025-03-02 04:02:56 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/goat_gear_boots": {
-    "criteria": {
-      "has_light_gray_fabric_bolt": "2025-03-02 04:10:08 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
-    "criteria": {
-      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/assembling_machine/red_bed_from_wool": {
     "criteria": {
       "has_red_wool": "2025-03-02 04:02:50 +0000"
@@ -21042,117 +21023,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-02 04:03:20 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/purple_cushion": {
-    "criteria": {
-      "has_purple_cushion": "2025-03-02 04:03:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_bed": {
-    "criteria": {
-      "has_green_wool": "2025-03-02 04:03:06 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_purple": {
-    "criteria": {
-      "has_purple_wool": "2025-03-02 04:03:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blue_sheet": {
-    "criteria": {
-      "has_blue_sheet": "2025-03-02 04:03:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_yellow_wool": "2025-03-02 04:02:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet": {
-    "criteria": {
-      "has_orange_wool": "2025-03-02 04:02:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cake_from_milk_bottle": {
-    "criteria": {
-      "has_milk_bottle": "2025-03-02 05:20:28 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/purple_sheet": {
-    "criteria": {
-      "has_purple_sheet": "2025-03-02 04:03:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/black_cushion": {
-    "criteria": {
-      "has_black_cushion": "2025-03-02 04:08:58 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_orange": {
-    "criteria": {
-      "has_orange_wool": "2025-03-02 04:02:52 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_hive": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-02 04:06:35 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/black_eye": {
-    "criteria": {
-      "black_eye": "2025-03-02 05:24:58 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/guardian_eye": {
-    "criteria": {
-      "guardian_eye": "2025-03-02 05:23:25 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_gray": {
-    "criteria": {
-      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_red_wool": "2025-03-02 04:02:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2025-03-02 04:02:56 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/patterned_wool": {
-    "criteria": {
-      "has_blue_wool": "2025-03-02 04:03:15 +0000"
     },
     "done": true
   },
@@ -21168,184 +21041,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/assembling_machine/green_bed_from_wool": {
-    "criteria": {
-      "has_green_wool": "2025-03-02 04:03:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_carpet": {
-    "criteria": {
-      "has_blue_wool": "2025-03-02 04:03:15 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/yellow_sheet": {
-    "criteria": {
-      "has_yellow_sheet": "2025-03-02 04:02:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2025-03-02 04:03:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_banner": {
-    "criteria": {
-      "has_orange_wool": "2025-03-02 04:02:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-03-02 04:08:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_carpet": {
-    "criteria": {
-      "has_green_wool": "2025-03-02 04:03:06 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/shadow_walker_armor_boots": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-02 04:07:10 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_purple": {
-    "criteria": {
-      "has_purple_wool": "2025-03-02 04:03:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cyan_sheet": {
-    "criteria": {
-      "has_cyan_sheet": "2025-03-02 04:03:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2025-03-02 04:03:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-03-02 04:02:50 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/souldancer_robe_chestplate": {
-    "criteria": {
-      "has_soul_robe_chestplate": "2025-03-02 04:11:33 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-02 04:06:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-02 04:03:20 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cyan_cushion": {
-    "criteria": {
-      "has_cyan_cushion": "2025-03-02 04:03:20 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blue_cushion": {
-    "criteria": {
-      "has_blue_cushion": "2025-03-02 04:03:15 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_metal": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-02 04:06:35 +0000",
-      "has_the_recipe": "2025-03-02 04:06:35 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_green": {
-    "criteria": {
-      "has_green_wool": "2025-03-02 04:03:06 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_yellow": {
-    "criteria": {
-      "has_yellow_wool": "2025-03-02 04:02:56 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_glut": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-02 04:06:35 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_blue": {
-    "criteria": {
-      "has_blue_wool": "2025-03-02 04:03:15 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_yellow": {
-    "criteria": {
-      "has_yellow_wool": "2025-03-02 04:02:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/light_gray_cushion": {
-    "criteria": {
-      "has_light_gray_cushion": "2025-03-02 04:08:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/black_sheet": {
-    "criteria": {
-      "has_black_sheet": "2025-03-02 04:08:58 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/green_sleeping_bag": {
-    "criteria": {
-      "has_green_wool": "2025-03-02 04:03:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-03-02 04:03:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-02 04:03:20 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/shadow_walker_armor_leggings": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-02 04:07:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
     },
     "done": true
   },
@@ -21355,51 +21053,9 @@
     },
     "done": true
   },
-  "mcda:recipes/unique_armors/souldancer_robe_leggings": {
-    "criteria": {
-      "has_soul_robe_leggings": "2025-03-02 04:12:18 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/red_sheet": {
     "criteria": {
       "has_red_sheet": "2025-03-02 04:02:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_green": {
-    "criteria": {
-      "has_green_wool": "2025-03-02 04:03:06 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
-    "criteria": {
-      "has_blue_wool": "2025-03-02 04:03:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2025-03-02 04:03:15 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/shadow_walker_armor_helmet": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-02 04:07:10 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/light_gray_sheet": {
-    "criteria": {
-      "has_light_gray_sheet": "2025-03-02 04:08:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/orange_cushion": {
-    "criteria": {
-      "has_orange_cushion": "2025-03-02 04:02:52 +0000"
     },
     "done": true
   },
@@ -21409,33 +21065,39 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/green_sheet": {
-    "criteria": {
-      "has_green_sheet": "2025-03-02 04:03:06 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/yellow_cushion": {
-    "criteria": {
-      "has_yellow_cushion": "2025-03-02 04:02:56 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_blue": {
-    "criteria": {
-      "has_blue_wool": "2025-03-02 04:03:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/decorations/red_sleeping_bag": {
     "criteria": {
       "has_red_wool": "2025-03-02 04:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-03-02 04:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-03-02 04:02:52 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_orange_wool": "2025-03-02 04:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-03-02 04:02:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/orange_cushion": {
+    "criteria": {
+      "has_orange_cushion": "2025-03-02 04:02:52 +0000"
     },
     "done": true
   },
@@ -21451,99 +21113,9 @@
     },
     "done": true
   },
-  "mcda:recipes/upgrade_cores/upgrade_core_metal_var": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-02 04:06:35 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_cyan": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-02 04:03:20 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/light_gray_bed_from_wool": {
-    "criteria": {
-      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/green_cushion": {
-    "criteria": {
-      "has_green_cushion": "2025-03-02 04:03:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-03-02 04:08:58 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/climbing_gear_boots": {
-    "criteria": {
-      "has_light_gray_fabric_bolt": "2025-03-02 04:10:08 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_orange_wool": "2025-03-02 04:02:52 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_wolf": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-02 04:06:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
-    "criteria": {
-      "has_milk_bottle": "2025-03-02 05:20:28 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/blue_bed_from_wool": {
-    "criteria": {
-      "has_blue_wool": "2025-03-02 04:03:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_banner": {
-    "criteria": {
-      "has_green_wool": "2025-03-02 04:03:06 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_black": {
-    "criteria": {
-      "has_black_wool": "2025-03-02 04:08:58 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_fox": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-02 04:06:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-03-02 04:08:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-03-02 04:03:25 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
-    "criteria": {
-      "has_purple_wool": "2025-03-02 04:03:25 +0000"
     },
     "done": true
   },
@@ -21553,15 +21125,207 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
     "criteria": {
-      "has_black_wool": "2025-03-02 04:08:58 +0000"
+      "has_yellow_wool": "2025-03-02 04:02:56 +0000"
     },
     "done": true
   },
-  "comforts:hammock_black": {
+  "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
-      "has_black_wool": "2025-03-02 04:08:58 +0000"
+      "has_yellow_wool": "2025-03-02 04:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-02 04:02:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_sheet": {
+    "criteria": {
+      "has_yellow_sheet": "2025-03-02 04:02:56 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-02 04:02:56 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-02 04:02:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cushion": {
+    "criteria": {
+      "has_yellow_cushion": "2025-03-02 04:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-02 04:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-03-02 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/green_bed_from_wool": {
+    "criteria": {
+      "has_green_wool": "2025-03-02 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-03-02 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_green_wool": "2025-03-02 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/green_sleeping_bag": {
+    "criteria": {
+      "has_green_wool": "2025-03-02 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_green_wool": "2025-03-02 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/green_sheet": {
+    "criteria": {
+      "has_green_sheet": "2025-03-02 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/green_cushion": {
+    "criteria": {
+      "has_green_cushion": "2025-03-02 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-03-02 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_blue_sheet": "2025-03-02 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/patterned_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-03-02 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-03-02 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-03-02 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cushion": {
+    "criteria": {
+      "has_blue_cushion": "2025-03-02 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-03-02 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-03-02 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-03-02 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-03-02 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/blue_bed_from_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-03-02 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-02 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-02 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2025-03-02 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-02 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-03-02 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-02 04:03:20 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-02 04:03:20 +0000"
     },
     "done": true
   },
@@ -21577,6 +21341,54 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/purple_cushion": {
+    "criteria": {
+      "has_purple_cushion": "2025-03-02 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-03-02 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_sheet": {
+    "criteria": {
+      "has_purple_sheet": "2025-03-02 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-03-02 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-03-02 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-03-02 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-03-02 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-03-02 04:03:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/purple_bed_from_wool": {
     "criteria": {
       "has_purple_wool": "2025-03-02 04:03:25 +0000"
@@ -21589,15 +21401,64 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_banner": {
+  "mcda:recipes/upgrade_cores/upgrade_core_hive": {
     "criteria": {
-      "has_yellow_wool": "2025-03-02 04:02:56 +0000"
+      "has_upgrade_core": "2025-03-02 04:06:35 +0000"
     },
     "done": true
   },
-  "comforts:hammock_light_gray": {
+  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
     "criteria": {
-      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
+      "has_upgrade_core": "2025-03-02 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_metal": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-02 04:06:35 +0000",
+      "has_the_recipe": "2025-03-02 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_glut": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-02 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_metal_var": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-02 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wolf": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-02 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_fox": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-02 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/shadow_walker_armor_boots": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-02 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/shadow_walker_armor_leggings": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-02 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/shadow_walker_armor_helmet": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-02 04:07:10 +0000"
     },
     "done": true
   },
@@ -21607,9 +21468,255 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-03-02 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-03-02 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/light_gray_bed_from_wool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-02 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-03-02 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-03-02 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-03-02 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-03-02 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-03-02 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-03-02 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-03-02 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-03-02 04:08:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/black_bed_from_wool": {
     "criteria": {
       "has_black_wool": "2025-03-02 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_light_gray_fabric_bolt": "2025-03-02 04:10:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_light_gray_fabric_bolt": "2025-03-02 04:10:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/souldancer_robe_chestplate": {
+    "criteria": {
+      "has_soul_robe_chestplate": "2025-03-02 04:11:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/souldancer_robe_leggings": {
+    "criteria": {
+      "has_soul_robe_leggings": "2025-03-02 04:12:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2025-03-02 05:20:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-03-02 05:20:28 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2025-03-02 05:23:25 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-03-02 05:24:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/heart_of_the_sea_from_conduit": {
+    "criteria": {
+      "has_conduit": "2025-03-02 05:33:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-03-02 05:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-02 05:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-02 05:42:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
+    "criteria": {
+      "has_cod": "2025-03-02 05:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-02 05:42:45 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-03-02 05:42:45 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-03-02 05:47:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-03-02 05:47:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
+    "criteria": {
+      "has_magma_block": "2025-03-02 05:59:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-03-02 06:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-02 06:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-03-02 06:14:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/cinnabar_small_dust_from_dust": {
+    "criteria": {
+      "has_cinnabar_dust": "2025-03-02 06:26:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/cinnabar_dust": {
+    "criteria": {
+      "has_cinnabar_dust": "2025-03-02 06:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-03-02 06:28:02 +0000"
     },
     "done": true
   },

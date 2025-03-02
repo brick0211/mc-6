@@ -25764,9 +25764,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
     "criteria": {
-      "has_milk_bottle": "2025-03-02 05:19:36 +0000"
+      "has_item": "2025-03-02 03:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2025-03-02 05:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-03-02 05:07:59 +0000"
     },
     "done": true
   },
@@ -25782,15 +25794,9 @@
     },
     "done": true
   },
-  "minecells:prison": {
+  "minecells:book/mobs/leaping_zombie": {
     "criteria": {
-      "requirement": "2025-03-02 05:07:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/clipboard_clear": {
-    "criteria": {
-      "has_item": "2025-03-02 03:56:25 +0000"
+      "requirement": "2025-03-02 05:08:56 +0000"
     },
     "done": true
   },
@@ -25800,21 +25806,15 @@
     },
     "done": true
   },
-  "minecells:book/mobs/shieldbearer": {
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
     "criteria": {
-      "requirement": "2025-03-02 05:07:59 +0000"
+      "has_milk_bottle": "2025-03-02 05:19:36 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
     "criteria": {
       "has_milk_bottle": "2025-03-02 05:19:36 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/leaping_zombie": {
-    "criteria": {
-      "requirement": "2025-03-02 05:08:56 +0000"
     },
     "done": true
   },

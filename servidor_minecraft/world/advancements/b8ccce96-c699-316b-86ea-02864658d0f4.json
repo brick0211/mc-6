@@ -24776,9 +24776,81 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+  "frostiful:recipes/combat/armor/fur_boots": {
     "criteria": {
-      "has_pine_planks": "2025-03-02 05:06:14 +0000"
+      "has_fur": "2025-03-02 03:55:36 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_leggings": {
+    "criteria": {
+      "has_fur": "2025-03-02 03:55:36 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_helmet": {
+    "criteria": {
+      "has_fur": "2025-03-02 03:55:36 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_chestplate": {
+    "criteria": {
+      "has_fur": "2025-03-02 03:55:36 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_padding": {
+    "criteria": {
+      "has_fur": "2025-03-02 03:55:36 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-03-02 04:08:29 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:draugr_boss": {
+    "criteria": {
+      "condition_0": "2025-03-02 04:23:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-02 04:45:39 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-03-02 04:45:39 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-03-02 04:45:39 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-03-02 04:45:39 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-03-02 04:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-03-02 04:49:51 +0000"
     },
     "done": true
   },
@@ -24788,9 +24860,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/doughnut": {
+  "minecraft:recipes/misc/raw_gold": {
     "criteria": {
-      "has_milk": "2025-03-02 05:20:12 +0000"
+      "has_raw_gold_block": "2025-03-02 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 05:06:14 +0000"
     },
     "done": true
   },
@@ -24799,12 +24877,6 @@
       "has_pine_planks": "2025-03-02 05:06:14 +0000"
     },
     "done": true
-  },
-  "soulsweapons:draugr_boss": {
-    "criteria": {
-      "condition_0": "2025-03-02 04:23:22 +0000"
-    },
-    "done": false
   },
   "regions_unexplored:recipes/decorations/pine_fence": {
     "criteria": {
@@ -24818,39 +24890,45 @@
     },
     "done": true
   },
-  "frostiful:recipes/combat/armor/fur_boots": {
-    "criteria": {
-      "has_fur": "2025-03-02 03:55:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cake_from_milk_bottle": {
-    "criteria": {
-      "has_milk_bottle": "2025-03-02 05:20:38 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/guardian_eye": {
-    "criteria": {
-      "guardian_eye": "2025-03-02 05:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-03-02 04:49:51 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/pine_stairs": {
     "criteria": {
       "has_pine_planks": "2025-03-02 05:06:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapped_chest": {
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
     "criteria": {
-      "has_tripwire_hook": "2025-03-02 04:45:39 +0000"
+      "has_planks": "2025-03-02 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2025-03-02 05:20:12 +0000"
     },
     "done": true
   },
@@ -24866,39 +24944,9 @@
     },
     "done": true
   },
-  "endrem:main/rogue_eye": {
-    "criteria": {
-      "rogue_eye": "2025-03-02 04:08:29 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-03-02 05:20:12 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_leggings": {
-    "criteria": {
-      "has_fur": "2025-03-02 03:55:36 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
-    "criteria": {
-      "has_planks": "2025-03-02 05:06:14 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/redstone/trapped_elder_chest": {
-    "criteria": {
-      "has_item": "2025-03-02 04:45:39 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_helmet": {
-    "criteria": {
-      "has_fur": "2025-03-02 03:55:36 +0000"
     },
     "done": true
   },
@@ -24911,12 +24959,6 @@
   "croptopia:recipes/cheese": {
     "criteria": {
       "has_milk": "2025-03-02 05:20:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-03-02 04:51:52 +0000"
     },
     "done": true
   },
@@ -24938,33 +24980,9 @@
     },
     "done": true
   },
-  "bewitchment:recipes/redstone/trapped_juniper_chest": {
-    "criteria": {
-      "has_item": "2025-03-02 04:45:39 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_chestplate": {
-    "criteria": {
-      "has_fur": "2025-03-02 03:55:36 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_button": {
-    "criteria": {
-      "has_pine_planks": "2025-03-02 05:06:14 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/crema": {
     "criteria": {
       "has_milk": "2025-03-02 05:20:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_door": {
-    "criteria": {
-      "has_pine_planks": "2025-03-02 05:06:14 +0000"
     },
     "done": true
   },
@@ -24980,15 +24998,15 @@
     },
     "done": true
   },
-  "bewitchment:recipes/redstone/trapped_cypress_chest": {
-    "criteria": {
-      "has_item": "2025-03-02 04:45:39 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-03-02 05:20:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2025-03-02 05:20:38 +0000"
     },
     "done": true
   },
@@ -24998,27 +25016,189 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/pine_sign": {
+  "endrem:main/guardian_eye": {
     "criteria": {
-      "has_pine_planks": "2025-03-02 05:06:14 +0000"
+      "guardian_eye": "2025-03-02 05:22:46 +0000"
     },
     "done": true
   },
-  "frostiful:recipes/misc/fur_padding": {
+  "botania:challenge/root": {
     "criteria": {
-      "has_fur": "2025-03-02 03:55:36 +0000"
+      "flower": "2025-03-02 06:11:19 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/pine_slab": {
+  "botania:recipes/tools/flower_bag": {
     "criteria": {
-      "has_pine_planks": "2025-03-02 05:06:14 +0000"
+      "has_item": "2025-03-02 06:11:19 +0000"
     },
     "done": true
   },
-  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+  "farmersdelight:recipes/food/potato_from_crate": {
     "criteria": {
-      "has_item": "2025-03-02 04:45:39 +0000"
+      "has_potato_crate": "2025-03-02 06:17:54 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-03-02 06:11:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_tube_coral_block": {
+    "criteria": {
+      "has_tube_coral_block": "2025-03-02 06:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-03-02 06:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-03-02 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-03-02 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_ancient_anima": "2025-03-02 06:01:35 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
+    "criteria": {
+      "has_seagrass": "2025-03-02 06:26:53 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-03-02 06:11:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2025-03-02 05:43:47 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_ancient_anima": "2025-03-02 06:01:35 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quartz_pedestal": {
+    "criteria": {
+      "has_quartz_slab": "2025-03-02 05:47:50 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quartz_lantern": {
+    "criteria": {
+      "has_quartz_slab": "2025-03-02 05:47:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2025-03-02 06:33:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/pink_dye_from_brain_coral_block": {
+    "criteria": {
+      "has_brain_coral_block": "2025-03-02 06:22:46 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-03-02 06:05:01 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-03-02 06:11:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/desert_graveyard": {
+    "criteria": {
+      "small_desert_graveyard": "2025-03-02 06:30:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/oxidized_copper_pillar_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-03-02 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/heart_of_the_sea_from_conduit": {
+    "criteria": {
+      "has_conduit": "2025-03-02 05:38:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-02 06:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-03-02 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-03-02 05:47:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_horn_coral": {
+    "criteria": {
+      "has_horn_coral": "2025-03-02 05:37:21 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_upgrade_template": {
+    "criteria": {
+      "has_fur_upgrade_template": "2025-03-02 06:05:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-03-02 06:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-03-02 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-03-02 05:57:11 +0000"
     },
     "done": true
   },
