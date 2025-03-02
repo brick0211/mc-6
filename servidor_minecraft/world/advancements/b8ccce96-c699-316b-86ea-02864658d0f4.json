@@ -25207,6 +25207,72 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2025-03-02 16:34:15 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-03-02 16:34:30 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_archeology_table": {
+    "criteria": {
+      "has_item": "2025-03-02 16:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_exposed_cut_copper_slab": "2025-03-02 16:52:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/exposed_copper_pillar": {
+    "criteria": {
+      "has_exposed_cut_copper_slab": "2025-03-02 16:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-03-02 16:52:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/oxidized_copper_pillar": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-03-02 16:52:33 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/topaz_upgrade_smithing_template": {
+    "criteria": {
+      "has_topaz_upgrade_smithing_template": "2025-03-02 16:59:52 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-03-02 16:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-03-02 17:07:23 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_lightning_harp": {
+    "criteria": {
+      "has_creeper_head": "2025-03-02 17:07:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-02 17:09:26 +0000"
@@ -25225,18 +25291,6 @@
     },
     "done": true
   },
-  "endrem:main/old_eye": {
-    "criteria": {
-      "old_eye": "2025-03-02 16:59:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-03-02 17:13:29 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_deepslate_bricks_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-03-02 17:09:26 +0000"
@@ -25249,21 +25303,9 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
-    "criteria": {
-      "bosses_of_mass_destruction:void_blossom": "2025-03-02 16:34:15 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/deepslate_pillar_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-03-02 17:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2025-03-02 17:07:23 +0000"
     },
     "done": true
   },
@@ -25309,12 +25351,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_cut_copper_slab": "2025-03-02 16:52:33 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-02 17:09:26 +0000"
@@ -25324,12 +25360,6 @@
   "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-02 17:09:26 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
-    "criteria": {
-      "has_core_specification_item": "2025-03-02 17:13:29 +0000"
     },
     "done": true
   },
@@ -25351,21 +25381,9 @@
     },
     "done": true
   },
-  "twigs:recipes/copper_pillar/oxidized_copper_pillar": {
-    "criteria": {
-      "has_oxidized_cut_copper_slab": "2025-03-02 16:52:33 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-02 17:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_honeycomb": {
-    "criteria": {
-      "has_exposed_cut_copper_slab": "2025-03-02 16:52:32 +0000"
     },
     "done": true
   },
@@ -25465,12 +25483,6 @@
     },
     "done": true
   },
-  "twigs:recipes/copper_pillar/exposed_copper_pillar": {
-    "criteria": {
-      "has_exposed_cut_copper_slab": "2025-03-02 16:52:32 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_deepslate_brick_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-03-02 17:09:26 +0000"
@@ -25480,18 +25492,6 @@
   "regions_unexplored:recipes/building_blocks/deepslate_grass_block": {
     "criteria": {
       "has_deepslate": "2025-03-02 17:09:26 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_lightning_harp": {
-    "criteria": {
-      "has_creeper_head": "2025-03-02 17:07:23 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/recipe_archeology_table": {
-    "criteria": {
-      "has_item": "2025-03-02 16:43:52 +0000"
     },
     "done": true
   },
@@ -25549,18 +25549,6 @@
     },
     "done": true
   },
-  "mythicupgrades:recipes/misc/topaz_upgrade_smithing_template": {
-    "criteria": {
-      "has_topaz_upgrade_smithing_template": "2025-03-02 16:59:52 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/earthdive_spear": {
-    "criteria": {
-      "has_void_thorn": "2025-03-02 16:34:30 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-02 17:09:26 +0000"
@@ -25570,6 +25558,48 @@
   "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-02 17:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-02 17:13:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-02 17:13:29 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-03-02 17:37:41 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-03-02 17:37:41 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-03-02 17:37:41 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-03-02 17:37:41 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-03-02 17:37:41 +0000"
     },
     "done": true
   },

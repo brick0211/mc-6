@@ -15972,57 +15972,69 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/cherry_support": {
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
-      "has_plank": "2025-03-02 07:52:45 +0000"
+      "has_material": "2025-03-02 07:19:06 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
     "criteria": {
-      "has_pine_planks": "2025-03-02 07:52:48 +0000"
+      "has_material": "2025-03-02 07:19:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_fence": {
+  "techreborn:recipes/compressor/diamond_plate_from_block": {
     "criteria": {
-      "has_planks": "2025-03-02 07:52:45 +0000"
+      "has_diamond_block": "2025-03-02 07:19:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_planks": {
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
     "criteria": {
-      "has_log": "2025-03-02 07:50:41 +0000"
+      "has_core_specification_item": "2025-03-02 07:19:06 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dark_oak_table": {
+  "justhammers:recipes/tools/diamond_impact_hammer": {
     "criteria": {
-      "has_dark_oak_table": "2025-03-02 07:53:56 +0000"
+      "has_material": "2025-03-02 07:19:06 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_log": "2025-03-02 07:50:41 +0000"
+      "has_diamond_block": "2025-03-02 07:19:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
     "criteria": {
-      "has_planks": "2025-03-02 07:53:56 +0000"
+      "has_material": "2025-03-02 07:19:06 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+  "botania:recipes/tools/ender_hand": {
     "criteria": {
-      "has_pine_planks": "2025-03-02 07:52:48 +0000"
+      "has_item": "2025-03-02 07:19:26 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/glaive_of_hodir": {
+  "techreborn:recipes/industrial_grinder/ender_chest_with_water": {
     "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
+      "has_ender_chest": "2025-03-02 07:19:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2025-03-02 07:49:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_shrub": {
+    "criteria": {
+      "has_cherry_sapling": "2025-03-02 07:49:27 +0000"
     },
     "done": true
   },
@@ -16032,9 +16044,63 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/dark_moon_greatsword": {
+  "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
+      "has_log": "2025-03-02 07:50:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+    "criteria": {
+      "has_log": "2025-03-02 07:50:41 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/cherry_palisade": {
+    "criteria": {
+      "has_log": "2025-03-02 07:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-03-02 07:50:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_shrub": {
+    "criteria": {
+      "has_pine_sapling": "2025-03-02 07:51:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-03-02 07:51:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-03-02 07:51:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-03-02 07:51:26 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/cherry_support": {
+    "criteria": {
+      "has_plank": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-03-02 07:52:45 +0000"
     },
     "done": true
   },
@@ -16044,21 +16110,255 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/pine_fence": {
-    "criteria": {
-      "has_pine_planks": "2025-03-02 07:52:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-02 07:52:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_drawer": {
+    "criteria": {
+      "has_cherry_drawer": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/cherry_table": {
+    "criteria": {
+      "has_bamboo": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_bench": {
+    "criteria": {
+      "has_cherry_bench": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_corner_trim": {
+    "criteria": {
+      "has_cherry_corner_trim": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_cupboard": {
+    "criteria": {
+      "has_cherry_cupboard": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_counter": {
+    "criteria": {
+      "has_cherry_counter": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_planks": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_dining_bench": {
+    "criteria": {
+      "has_cherry_dining_bench": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_desk": {
+    "criteria": {
+      "has_cherry_desk": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_table": {
+    "criteria": {
+      "has_cherry_table": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/cherry_seat": {
+    "criteria": {
+      "has_plank": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_fancy_bed": {
+    "criteria": {
+      "has_cherry_fancy_bed": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_couch": {
+    "criteria": {
+      "has_cherry_couch": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_side_table": {
+    "criteria": {
+      "has_cherry_side_table": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_nightstand": {
+    "criteria": {
+      "has_cherry_nightstand": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_chair": {
+    "criteria": {
+      "has_cherry_chair": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_shelf": {
+    "criteria": {
+      "has_cherry_shelf": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_pillar_trim": {
+    "criteria": {
+      "has_cherry_pillar_trim": "2025-03-02 07:52:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 07:52:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 07:52:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 07:52:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_pressure_plate": {
     "criteria": {
       "has_pine_planks": "2025-03-02 07:52:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 07:52:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
+    "criteria": {
+      "has_planks": "2025-03-02 07:52:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 07:52:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 07:52:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 07:52:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-03-02 07:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-03-02 07:53:44 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-03-02 07:53:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-03-02 07:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-02 07:53:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-03-02 07:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-02 07:53:56 +0000"
     },
     "done": true
   },
@@ -16080,48 +16380,6 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/darkin_scythe_pre": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/leviathan_axe_right": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-03-02 07:54:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
-    "criteria": {
-      "has_log": "2025-03-02 07:51:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_stairs": {
-    "criteria": {
-      "has_pine_planks": "2025-03-02 07:52:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/comet_spear": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_drawer": "2025-03-02 07:53:56 +0000"
@@ -16140,66 +16398,6 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/cherry_palisade": {
-    "criteria": {
-      "has_log": "2025-03-02 07:50:41 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_cherry": {
-    "criteria": {
-      "has_the_recipe": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cherry_drawer": {
-    "criteria": {
-      "has_cherry_drawer": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-03-02 07:19:06 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/moonlight_greatsword": {
-    "criteria": {
-      "has_lord_soul": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-03-02 07:19:06 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_reaper": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/cherry_table": {
-    "criteria": {
-      "has_bamboo": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/mjolnir": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_shelf": {
     "criteria": {
       "has_dark_oak_shelf": "2025-03-02 07:53:56 +0000"
@@ -16209,24 +16407,6 @@
   "handcrafted:recipes/misc/dark_oak_dining_bench": {
     "criteria": {
       "has_dark_oak_dining_bench": "2025-03-02 07:53:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/master_sword": {
-    "criteria": {
-      "has_lord_soul": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/ender_hand": {
-    "criteria": {
-      "has_item": "2025-03-02 07:19:26 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/galeforce": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
     },
     "done": true
   },
@@ -16242,27 +16422,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
-    "criteria": {
-      "has_planks": "2025-03-02 07:52:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/ender_chest_with_water": {
-    "criteria": {
-      "has_ender_chest": "2025-03-02 07:19:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-02 07:53:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cherry_bench": {
-    "criteria": {
-      "has_cherry_bench": "2025-03-02 07:52:45 +0000"
     },
     "done": true
   },
@@ -16272,63 +16434,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cherry_corner_trim": {
-    "criteria": {
-      "has_cherry_corner_trim": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/moonlight_shortsword": {
-    "criteria": {
-      "has_lord_soul": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-03-02 07:53:44 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/rageblade": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/crucible_sword": {
-    "criteria": {
-      "has_lord_soul": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2025-03-02 07:53:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_planks": {
-    "criteria": {
-      "has_logs": "2025-03-02 07:51:26 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cherry_cupboard": {
-    "criteria": {
-      "has_cherry_cupboard": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:lord_soul": {
-    "criteria": {
-      "condition_0": "2025-03-02 08:12:56 +0000"
     },
     "done": true
   },
@@ -16344,18 +16452,6 @@
     },
     "done": true
   },
-  "soulsweapons:end_of_reigns": {
-    "criteria": {
-      "condition_0": "2025-03-02 08:12:40 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/kraken_slayer": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2025-03-02 07:53:56 +0000"
@@ -16368,69 +16464,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/cherry_shrub": {
-    "criteria": {
-      "has_cherry_sapling": "2025-03-02 07:49:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-03-02 07:53:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/lich_bane": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:44 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/frostmourne": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
-    "criteria": {
-      "has_log": "2025-03-02 07:53:44 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/whirligig_sawblade": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/forlorn_scythe": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cherry_counter": {
-    "criteria": {
-      "has_cherry_counter": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_cherry": {
-    "criteria": {
-      "has_planks": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/diamond_plate_from_block": {
-    "criteria": {
-      "has_diamond_block": "2025-03-02 07:19:06 +0000"
     },
     "done": true
   },
@@ -16440,33 +16476,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-03-02 07:50:41 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/darkin_blade": {
-    "criteria": {
-      "has_lord_soul": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-02 07:53:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/freyr_sword": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
     },
     "done": true
   },
@@ -16476,57 +16488,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/pine_button": {
-    "criteria": {
-      "has_pine_planks": "2025-03-02 07:52:48 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cherry_dining_bench": {
-    "criteria": {
-      "has_cherry_dining_bench": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_door": {
-    "criteria": {
-      "has_pine_planks": "2025-03-02 07:52:48 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
-    "criteria": {
-      "has_core_specification_item": "2025-03-02 07:19:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
-    "criteria": {
-      "has_dark_oak_sapling": "2025-03-02 07:49:26 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_desk": "2025-03-02 07:53:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/nightfall": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cherry_desk": {
-    "criteria": {
-      "has_cherry_desk": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/excalibur": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
     },
     "done": true
   },
@@ -16536,87 +16500,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_sawmill/dark_oak_pressure_plate_from_slab": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-03-02 07:54:50 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_wood": {
-    "criteria": {
-      "has_log": "2025-03-02 07:51:26 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cherry_table": {
-    "criteria": {
-      "has_cherry_table": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/withered_chest": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:44 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/moonveil": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
-    "criteria": {
-      "has_log": "2025-03-02 07:53:44 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/leviathan_axe_left": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_nightstand": {
     "criteria": {
       "has_dark_oak_nightstand": "2025-03-02 07:53:56 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/dark_oak_table_slab": {
-    "criteria": {
-      "has_bamboo": "2025-03-02 07:54:50 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_shrub": {
-    "criteria": {
-      "has_pine_sapling": "2025-03-02 07:51:03 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/cherry_seat": {
-    "criteria": {
-      "has_plank": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cherry_fancy_bed": {
-    "criteria": {
-      "has_cherry_fancy_bed": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-03-02 07:19:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-03-02 07:52:45 +0000"
     },
     "done": true
   },
@@ -16626,64 +16512,15 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/dragonslayer_swordspear": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_corner_trim": {
     "criteria": {
       "has_dark_oak_corner_trim": "2025-03-02 07:53:56 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/cherry_couch": {
-    "criteria": {
-      "has_cherry_couch": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-02 07:53:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-03-02 07:19:06 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/dawnbreaker": {
-    "criteria": {
-      "has_lord_soul": "2025-03-02 08:12:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:all_weapons": {
-    "criteria": {
-      "galeforce": "2025-03-02 08:15:25 +0000",
-      "darkin_blade": "2025-03-02 08:12:44 +0000"
-    },
-    "done": false
-  },
-  "handcrafted:recipes/misc/cherry_side_table": {
-    "criteria": {
-      "has_cherry_side_table": "2025-03-02 07:52:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/draupnir_spear": {
-    "criteria": {
-      "has_item": "2025-03-02 08:12:56 +0000"
     },
     "done": true
   },
@@ -16699,9 +16536,15 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/holy_moonlight_sword": {
+  "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
-      "has_lord_soul": "2025-03-02 08:12:56 +0000"
+      "has_planks": "2025-03-02 07:53:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-03-02 07:54:33 +0000"
     },
     "done": true
   },
@@ -16711,69 +16554,262 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/cherry_nightstand": {
+  "techreborn:recipes/industrial_sawmill/dark_oak_pressure_plate_from_slab": {
     "criteria": {
-      "has_cherry_nightstand": "2025-03-02 07:52:45 +0000"
+      "has_dark_oak_slab": "2025-03-02 07:54:50 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/pine_sign": {
+  "twigs:recipes/tables/dark_oak_table_slab": {
     "criteria": {
-      "has_pine_planks": "2025-03-02 07:52:48 +0000"
+      "has_bamboo": "2025-03-02 07:54:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_fence": {
+  "soulsweapons:end_of_reigns": {
     "criteria": {
-      "has_planks": "2025-03-02 07:53:56 +0000"
+      "condition_0": "2025-03-02 08:12:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
+  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
     "criteria": {
-      "has_planks": "2025-03-02 07:52:45 +0000"
+      "has_item": "2025-03-02 08:12:44 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/cherry_chair": {
+  "soulsweapons:recipes/combat/withered_chest": {
     "criteria": {
-      "has_cherry_chair": "2025-03-02 07:52:45 +0000"
+      "has_item": "2025-03-02 08:12:44 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/pine_slab": {
+  "soulsweapons:all_weapons": {
     "criteria": {
-      "has_pine_planks": "2025-03-02 07:52:48 +0000"
+      "galeforce": "2025-03-02 08:15:25 +0000",
+      "darkin_blade": "2025-03-02 08:12:44 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/glaive_of_hodir": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+  "soulsweapons:recipes/combat/dark_moon_greatsword": {
     "criteria": {
-      "has_material": "2025-03-02 07:19:06 +0000"
+      "has_item": "2025-03-02 08:12:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
-      "has_log": "2025-03-02 07:53:44 +0000"
+      "has_item": "2025-03-02 08:12:56 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/cherry_shelf": {
+  "soulsweapons:recipes/combat/leviathan_axe_right": {
     "criteria": {
-      "has_cherry_shelf": "2025-03-02 07:52:45 +0000"
+      "has_item": "2025-03-02 08:12:56 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/cherry_pillar_trim": {
+  "soulsweapons:recipes/combat/comet_spear": {
     "criteria": {
-      "has_cherry_pillar_trim": "2025-03-02 07:52:45 +0000"
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_greatsword": {
+    "criteria": {
+      "has_lord_soul": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_reaper": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/mjolnir": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/master_sword": {
+    "criteria": {
+      "has_lord_soul": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/galeforce": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_shortsword": {
+    "criteria": {
+      "has_lord_soul": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/rageblade": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/crucible_sword": {
+    "criteria": {
+      "has_lord_soul": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:lord_soul": {
+    "criteria": {
+      "condition_0": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kraken_slayer": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/lich_bane": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/frostmourne": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/whirligig_sawblade": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/forlorn_scythe": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkin_blade": {
+    "criteria": {
+      "has_lord_soul": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/freyr_sword": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/nightfall": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/excalibur": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonveil": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/leviathan_axe_left": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragonslayer_swordspear": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dawnbreaker": {
+    "criteria": {
+      "has_lord_soul": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draupnir_spear": {
+    "criteria": {
+      "has_item": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/holy_moonlight_sword": {
+    "criteria": {
+      "has_lord_soul": "2025-03-02 08:12:56 +0000"
     },
     "done": true
   },
   "soulsweapons:recipes/combat/skofnung": {
     "criteria": {
       "has_lord_soul": "2025-03-02 08:12:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile_stairs_from_bricks": {
+    "criteria": {
+      "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile_wall": {
+    "criteria": {
+      "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile_stairs": {
+    "criteria": {
+      "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile_slab": {
+    "criteria": {
+      "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile_slab": {
+    "criteria": {
+      "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile_wall_from_bricks": {
+    "criteria": {
+      "has_stone_tile": "2025-03-02 17:46:40 +0000"
     },
     "done": true
   },

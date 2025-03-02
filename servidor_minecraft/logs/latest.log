@@ -2700,3 +2700,121 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [17:29:30] [Server thread/INFO]: fandangolol has made the advancement [Love the serenity...]
 [17:29:30] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
 [17:29:37] [Server thread/INFO]: <Brick_123> ontas
+[17:29:49] [Server thread/INFO]: <fandangolol> la sala donde estabas a la derecha
+[17:29:57] [Server thread/INFO]: <fandangolol> al fondo hay otro portal
+[17:30:01] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[17:30:01] [Server thread/INFO]: <fandangolol> oe
+[17:30:08] [Server thread/INFO]: <fandangolol> de aqui son los arboles que use
+[17:30:23] [Server thread/INFO]: <Brick_123> okok
+[17:30:26] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[17:31:03] [Server thread/INFO]: fandangolol was blown up by Grenadier
+[17:31:04] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[17:31:27] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[17:31:31] [Server thread/INFO]: Search failed: 10001 radius, 24532 samples
+[17:31:36] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[17:31:37] [Server thread/INFO]: Search succeeded: 2842 radius, 2638 samples
+[17:33:10] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[17:33:10] [Server thread/INFO]: SearchWorkerManager 0f83a7cc: RandomSpreadSearchWorker succeeded with 4383 radius, 17 samples
+[17:33:43] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -1062.500000, 63.500000, -928.500000]
+[17:33:57] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[17:34:35] [Server thread/INFO]: [Handshake] Sending channel query
+[17:34:36] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[17:34:36] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[17:34:36] [Server thread/INFO]: INTENCITIES[/127.111.146.137:39705] logged in with entity id 309819 at (203.30000001192093, 64.0, 113.30000001192093)
+[17:34:36] [Server thread/INFO]: Sending server config values to client
+[17:34:36] [Server thread/INFO]: Syncing config to INTENCITIES (6847681d-2df8-39cc-9167-7215984360b5)
+[17:34:36] [Server thread/INFO]: Loading config from file...
+[17:34:36] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:34:36] [Server thread/INFO]: INTENCITIES joined the game
+[17:34:36] [Server thread/INFO]: Loading Configs for Sortilege
+[17:34:36] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:34:36] [Server thread/INFO]: Updating all forceload tickets for 6847681d-2df8-39cc-9167-7215984360b5
+[17:34:36] [Server thread/INFO]: PLAYER_JOIN
+[17:34:36] [Server thread/INFO]: add_player wand
+[17:34:36] [Server thread/INFO]: config sent
+[17:34:39] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[17:34:54] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: INTENCITIES -> Global
+[17:34:54] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player INTENCITIES. Claiming: GRAVE / Robbing: INVENTORY
+[17:34:59] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of INTENCITIES accepted server config.
+[17:35:15] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[17:35:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[17:35:28] [Server thread/INFO]: fandangolol claimed a grave belonging to fandangolol at -1006, 66, -987, minecells:promenade
+[17:35:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
+[17:35:52] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-1989, y=70, z=-2053}
+[17:35:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3787ms or 75 ticks behind
+[17:36:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3622ms or 72 ticks behind
+[17:36:18] [Server thread/INFO]: <INTENCITIES> SEXOOOOOO
+[17:36:25] [Server thread/INFO]: <INTENCITIES> BRICK QUIERES PENE?
+[17:36:32] [Server thread/INFO]: <Brick_123> SI
+[17:36:37] [Server thread/INFO]: <INTENCITIES> MI NOVIA SE FUE DE VIAJE Y YA NO SE QUE HACER
+[17:36:43] [Server thread/INFO]: <INTENCITIES> LA PAJA NO AYUDA EN NADA
+[17:36:49] [Server thread/INFO]: <Brick_123> SUICIDATE
+[17:36:56] [Server thread/INFO]: <INTENCITIES> OYE
+[17:36:59] [Server thread/INFO]: <INTENCITIES> BUENA IDEA
+[17:37:14] [Server thread/INFO]: <INTENCITIES> PERO CREO QUE NI ASI SE ME QUITA LO CALIENTE
+[17:37:16] [Server thread/INFO]: <Brick_123> A
+[17:37:19] [Server thread/INFO]: <INTENCITIES> PQ EL INFIRNO ES CALIENTE NO?
+[17:37:24] [Server thread/INFO]: <Brick_123> no
+[17:37:25] [Server thread/INFO]: <INTENCITIES> XD
+[17:38:46] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[17:40:19] [Server thread/INFO]: Brick_123 lost connection: Disconnected
+[17:40:19] [Server thread/INFO]: Brick_123 left the game
+[17:40:19] [Server thread/INFO]: remove player wand
+[17:40:19] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[17:40:28] [Server thread/INFO]: [Handshake] Sending channel query
+[17:40:28] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[17:40:28] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[17:40:29] [Server thread/INFO]: Brick_123[/127.55.168.40:57647] logged in with entity id 1140519 at (-2226.395476304632, 71.0, -2935.3982946983256)
+[17:40:29] [Server thread/INFO]: Sending server config values to client
+[17:40:29] [Server thread/INFO]: Syncing config to Brick_123 (b8ccce96-c699-316b-86ea-02864658d0f4)
+[17:40:29] [Server thread/INFO]: Loading config from file...
+[17:40:29] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:40:29] [Server thread/INFO]: Brick_123 joined the game
+[17:40:29] [Server thread/INFO]: Loading Configs for Sortilege
+[17:40:29] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:40:29] [Server thread/INFO]: PLAYER_JOIN
+[17:40:29] [Server thread/INFO]: add_player wand
+[17:40:29] [Server thread/INFO]: config sent
+[17:40:29] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[17:40:31] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[17:40:33] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Brick_123 -> Global
+[17:40:33] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Brick_123. Claiming: GRAVE / Robbing: INVENTORY
+[17:40:38] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[17:42:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[17:47:57] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2486, y=-32, z=-3281}
+[17:47:57] [pool-12-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:small/village_underground], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains]] from pos class_2338{x=-2405, y=74, z=-3243}
+[17:48:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6234ms or 124 ticks behind
+[17:48:03] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2441, y=-8, z=-3371}
+[17:48:03] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2441, y=-8, z=-3372}
+[17:48:03] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2465, y=-11, z=-3374}
+[17:48:05] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2411, y=35, z=-3384}
+[17:48:11] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2504, y=10, z=-3394}
+[17:48:17] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2337, y=-50, z=-3431}
+[17:48:17] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2337, y=-50, z=-3432}
+[17:48:21] [Server thread/INFO]: <Brick_123> A
+[17:48:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9341ms or 186 ticks behind
+[17:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8955ms or 179 ticks behind
+[17:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3229ms or 64 ticks behind
+[17:49:15] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 0.3000883378776962
+[17:49:15] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 0.9060318378060401
+[17:49:15] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 1.450486437372092
+[17:49:15] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 1.9620395523106708
+[17:49:15] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 2.455987738809654
+[17:49:15] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 2.1358113619794494
+[17:49:16] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 2.5215940602779483
+[17:49:16] [Server thread/WARN]: Żar-ptak (vehicle of Brick_123) moved wrongly! 2.887657712296459
+[17:49:24] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[17:49:26] [Server thread/INFO]: <Brick_123> a
+[17:49:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[17:49:28] [pool-12-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle]] from pos class_2338{x=-2677, y=94, z=-4165}
+[17:49:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3652ms or 73 ticks behind
+[17:49:51] [Worker-Main-57/WARN]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[17:49:51] [Worker-Main-57/WARN]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[17:49:51] [Worker-Main-57/WARN]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[17:49:51] [Worker-Main-57/WARN]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[17:49:51] [Worker-Main-57/WARN]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[17:49:51] [Worker-Main-57/WARN]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[17:49:57] [Server thread/INFO]: <Brick_123> a
+[17:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3395ms or 67 ticks behind
+[17:50:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2871ms or 57 ticks behind
