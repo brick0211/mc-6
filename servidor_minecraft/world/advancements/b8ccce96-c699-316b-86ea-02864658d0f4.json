@@ -24739,5 +24739,35 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/ocelot_armor_boots": {
+    "criteria": {
+      "has_ocelot_pelt": "2025-03-02 03:47:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_shadows": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-02 03:47:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ocelot_armor_helmet": {
+    "criteria": {
+      "has_ocelot_pelt": "2025-03-02 03:47:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ocelot_armor_chestplate": {
+    "criteria": {
+      "has_ocelot_pelt": "2025-03-02 03:47:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ocelot_armor_leggings": {
+    "criteria": {
+      "has_ocelot_pelt": "2025-03-02 03:47:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

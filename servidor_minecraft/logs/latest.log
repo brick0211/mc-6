@@ -3996,3 +3996,41 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:41:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3778ms or 75 ticks behind
 [03:41:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3538ms or 70 ticks behind
 [03:42:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2756ms or 55 ticks behind
+[03:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5211ms or 104 ticks behind
+[03:42:40] [Server thread/INFO]: No return portal found
+[03:42:40] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[03:42:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9872ms or 197 ticks behind
+[03:43:06] [Server thread/INFO]: [TitoWilly: Set own game mode to Creative Mode]
+[03:43:09] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Setback]
+[03:43:09] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[03:43:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6210ms or 124 ticks behind
+[03:43:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3287ms or 65 ticks behind
+[03:43:38] [Server thread/INFO]: [TitoWilly: Set own game mode to Survival Mode]
+[03:43:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[03:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
+[03:44:19] [Server thread/WARN]: Setback moved wrongly!
+[03:44:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3835ms or 76 ticks behind
+[03:44:35] [Server thread/INFO]: <Nikuus> a
+[03:44:42] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to Nikuus]
+[03:44:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
+[03:45:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4347ms or 86 ticks behind
+[03:45:18] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -1070.500000, 63.500000, -937.500000]
+[03:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4134ms or 82 ticks behind
+[03:45:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3314ms or 66 ticks behind
+[03:45:52] [Server thread/INFO]: [Nikuus: Teleported Nikuus to 921.500000, 126.500000, -897.500000]
+[03:45:54] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to Nikuus]
+[03:45:55] [Server thread/INFO]: Nikuus claimed a grave belonging to Nikuus at 919, 126, -896, minecraft:overworld
+[03:46:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
+[03:46:11] [Server thread/INFO]: Nikuus was killed by magic
+[03:46:24] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[03:46:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03:46:44] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[03:46:45] [Server thread/INFO]: <Brick_123> lag
+[03:46:45] [Server thread/INFO]: [Nikuus: Teleported Nikuus to 921.500000, 127.500000, -894.500000]
+[03:46:49] [Server thread/INFO]: [Brick_123: Teleported Nikuus to Brick_123]
+[03:46:54] [Server thread/INFO]: [EMI] Setback cheated in 1 totem_of_illusion
+[03:46:54] [Server thread/INFO]: [EMI] Setback cheated in 1 totem_of_illusion
+[03:46:55] [Server thread/INFO]: [EMI] Setback cheated in 1 totem_of_illusion
+[03:46:55] [Server thread/INFO]: [EMI] Setback cheated in 1 totem_of_illusion
+[03:46:55] [Server thread/INFO]: [EMI] Setback cheated in 1 totem_of_illusion
+[03:47:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
