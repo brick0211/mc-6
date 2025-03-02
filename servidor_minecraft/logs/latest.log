@@ -3075,3 +3075,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [07:51:47] [Server thread/WARN]: Setback moved wrongly!
 [07:53:05] [Server thread/INFO]: [EMI] Setback cheated in 1 netherite_sapphire_ring
 [07:54:11] [Server thread/INFO]: [Setback: Teleported Setback to -4310.500000, 41.500000, -8373.500000]
+[08:04:36] [Server thread/INFO]: [Setback: Teleported Setback to -3744.500000, 70.500000, -9044.500000]
