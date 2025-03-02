@@ -25908,5 +25908,11 @@
     },
     "done": true
   },
+  "rpg_series:path_choose_warrior": {
+    "criteria": {
+      "book": "2025-03-02 18:14:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -16795,9 +16795,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman_smithing": {
+    "criteria": {
+      "has_enderman": "2025-03-02 18:15:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_tile_stairs": {
     "criteria": {
       "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton_smithing": {
+    "criteria": {
+      "has_skeleton": "2025-03-02 18:15:32 +0000"
     },
     "done": true
   },
@@ -16840,6 +16852,12 @@
   "supplementaries:recipes/stonecutting/stone_tile_wall_from_bricks": {
     "criteria": {
       "has_stone_tile": "2025-03-02 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper_smithing": {
+    "criteria": {
+      "has_creeper": "2025-03-02 18:15:20 +0000"
     },
     "done": true
   },
