@@ -2512,3 +2512,55 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [16:26:49] [Server thread/INFO]: Nikuus left the game
 [16:26:49] [Server thread/INFO]: remove player wand
 [16:26:49] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[16:27:30] [Server thread/INFO]: [Handshake] Sending channel query
+[16:27:30] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[16:27:30] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[16:27:31] [Server thread/INFO]: Nikuus[/127.61.205.57:48707] logged in with entity id 8492 at (322.399607084307, 98.71712871864939, -418.145228729906)
+[16:27:31] [Server thread/INFO]: Sending server config values to client
+[16:27:31] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[16:27:31] [Server thread/INFO]: Loading config from file...
+[16:27:31] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:27:31] [Server thread/INFO]: Nikuus joined the game
+[16:27:31] [Server thread/INFO]: Loading Configs for Sortilege
+[16:27:31] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:27:32] [Server thread/INFO]: PLAYER_JOIN
+[16:27:32] [Server thread/INFO]: add_player wand
+[16:27:32] [Server thread/INFO]: config sent
+[16:27:32] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[16:27:36] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[16:27:36] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[16:27:36] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[16:28:21] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[16:28:54] [Server thread/INFO]: <Nikuus> s
+[16:29:21] [Server thread/INFO]: <Nikuus> thola
+[16:29:31] [Server thread/INFO]: Nikuus lost connection: Timed out
+[16:29:31] [Server thread/INFO]: Nikuus left the game
+[16:29:31] [Server thread/INFO]: remove player wand
+[16:29:31] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[16:30:22] [Server thread/INFO]: [Handshake] Sending channel query
+[16:30:23] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[16:30:23] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[16:30:23] [Server thread/INFO]: Nikuus[/127.61.205.57:38961] logged in with entity id 17780 at (331.0238685937179, 87.68125, -420.9072430247746)
+[16:30:23] [Server thread/INFO]: Sending server config values to client
+[16:30:23] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[16:30:23] [Server thread/INFO]: Loading config from file...
+[16:30:24] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:30:24] [Server thread/INFO]: Nikuus joined the game
+[16:30:24] [Server thread/INFO]: Loading Configs for Sortilege
+[16:30:24] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:30:24] [Server thread/INFO]: PLAYER_JOIN
+[16:30:24] [Server thread/INFO]: add_player wand
+[16:30:24] [Server thread/INFO]: config sent
+[16:30:24] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[16:30:39] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[16:30:39] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[16:30:39] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[16:30:57] [Server thread/INFO]: Nikuus lost connection: Disconnected
+[16:30:57] [Server thread/INFO]: Nikuus left the game
+[16:30:57] [Server thread/INFO]: remove player wand
+[16:30:57] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[16:33:37] [Server thread/INFO]: Brick_123 was slain by Void Blossom
+[16:33:39] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[16:33:42] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to -751.500000, -55.500000, -1001.500000]
+[16:33:47] [Server thread/INFO]: Brick_123 claimed a grave belonging to Brick_123 at -753, -55, -1004, minecraft:overworld
+[16:34:15] [Server thread/INFO]: Brick_123 has made the advancement [Extreme Weeding]
